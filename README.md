@@ -5,9 +5,9 @@ Step 2: cd Embedding-Based-Search-Engine
 Step 3: python -m venv venv
 
 Step 4: 
--On windows:
+- On windows:
 venv/Scripts/activate
--On Unix or MacOS:
+- On Unix or MacOS:
 source venv/bin/activate
 
 Step 5: pip install -r requirements.txt
