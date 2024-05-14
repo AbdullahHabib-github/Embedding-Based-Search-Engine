@@ -1,0 +1,25 @@
+4300	6905	Application developer Android | Java, Kotlin (mwd)	Our client is a manufacturer of mobile solutions in the field of telematics. With its individual product portfolio, it is a partner to numerous municipal associations and local authorities that equip their vehicles with its solutions.
+
+Application developer Android | Java, Kotlin | work where others vacation | in-house
+App development in the field of mobile data collection with Kotlin and the Android SDK in an area where others vacation
+
+Your tasks:
+
+- As an Android application developer, you implement mobile applications for data acquisition.
+- You will be involved in all phases of development (requirement analysis, feasibility analysis, design, implementation, quality assurance, etc.).
+- You will also work on the development of new architecture and design concepts.
+- If you are interested, there is also the possibility of working in JAVA projects.
+
+Your profile:
+
+- You either have a successfully completed degree in information technology with initial professional experience in Android development or at least 2 years of professional experience in Android development
+- Experience in software development with Java, ideally Kotlin and the Android SDK
+- Experience in handling databases and programming them with SQL (SQLite, PostgreSQL)
+- Experience in agile software development (Scrum) is desirable
+- Good knowledge of German in speaking and writing
+
+Have we piqued your interest?
+
+...then apply here right away or send us your complete application documents by e-mail, stating the reference number 19337, your salary expectations (gross annual target salary) and, if applicable, willingness to travel and relocate.
+
+We fulfill your desire for discretion with the utmost care. Your data will never be released by us without your explicit consent for each individual case.	Application programmer	None	2023-03-07 15:59:22.316000

@@ -1,0 +1,32 @@
+4775	7380	Geoinformatician / computer scientist or application developer with a focus on GIS (m/f/d)	That's what it's about:
+To expand our GIS team, consisting of 4 of our GIS experts, we are looking for reinforcement in the form of an experienced GIS specialist. In this position you are an integral part or our lead when it comes to the further development and more efficient design of the GIS processes.
+This includes the following tasks and topics:
+* Development of new extensions for GIS (such as custom buttons, the graphical user interface, or various automations)
+* This primarily involves projects in the fields of broadband, passive networks, fiber optic civil engineering or cell phone measurements
+* Further development of the workflows in the FME workbench
+* You are also responsible for quality management = technical quality check and check of data consistency
+* You will also act as a contact for our broadband planning team
+What you should bring with you:
+This position is a new or first appointment. We would like you to have an apprenticeship or a degree in the fields of geography, geology, geoinformatics or in the field of application development/computer science with a focus on geodata information
+* You should already have professional experience in the field of GIS support, with a focus on programming/application development or the administrative support of GIS databases
+* You have experience in the independent implementation and/or management of projects - technical knowledge is particularly important here
+* You should be interested in working in a team where everyone supports and encourages one another
+* You should have worked with the following programming languages: PyQGis, QT Designer, SQL, Phython, Arcpy, Geopandas, GDAL/ OGR, NumPy, Matplotlib
+* We would also like to have experience with: web mapping, geopandas, backup concepts, rights management, PostGIS databases
+Ideally, you already have points of contact in network planning.
+What you can expect from us:
+
+* Hybrid solutions for mobile working - together as a team you agree whether or when you want to work from home or in the office
+* Flexitime model for flexible working hours
+* You get 30 vacation days for perfect relaxation!
+* Company events - together with your location, the account or the whole STF group: office concerts, mud masters, bouldering or yoga: there is something for everyone here
+* Corporate Benefits - Two portals with special employee discounts for you, as well as special offers at TicketSprinter, corporate identity bonus points and JobRad
+* Grants for membership in the Urban Sports Club
+Is there another benefit that is particularly important to you? Talk to us about it!
+Your entry into the STF Group is determined individually and is therefore dependent on your availability.
+If you have any questions, your contact person Nicole is at your disposal! Applying is very easy - in the first step we only need your CV.
+Would you like it even less complicated? Apply directly with your business profile (LinkedIn and Xing)	Geoinformatician	STF Placement offers experienced professionals as well as young professionals a wide range of development opportunities.
+
+As part of the STF Group, we are constantly looking throughout Germany for qualified specialists for permanent employment as well as temporary employment and freelance work for our subsidiaries STF Tele Consult, STF ITech and STF Energy.
+
+We are also active for our customers: We place specialists in the field of IT and engineering with companies that rely on our industry knowledge when looking for specialists.	2023-03-07 16:00:21.313000

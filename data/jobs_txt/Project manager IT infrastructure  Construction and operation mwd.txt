@@ -1,0 +1,28 @@
+4146	6751	Project manager IT infrastructure | Construction and operation (mwd)	Our client is an independent IT service provider with numerous projects in Germany and other European countries. After several acquisitions, he is one of the larger, renowned German IT consulting and solution providers. With its competence in the most modern development methods and technologies, it offers its customers solutions for demanding tasks from a single source. In addition to a pleasant working atmosphere, the company offers good opportunities for further training.
+
+Project manager IT infrastructure | Construction and operation of enterprise systems
+Time for a new task - You coordinate and organize a team for the operation of business applications at a large IT consulting firm.
+
+Your tasks:
+
+- As a project manager IT infrastructure, you are responsible for the operation and design of application environments, including infrastructure.
+- You will encounter a variety of technology stacks, e.g. B. Cloud platforms.
+- DevOps, automation and configuration management also play a central role.
+- You coordinate the construction, transition, operation and further development of application platforms.
+- You will work in an advisory capacity on the architecture and conception of the application platforms and the selection of suitable technologies and processes.
+- In this way you ensure and optimize the operative operation of the applications.
+
+Your profile:
+
+- At least 5 years of professional experience in the operation of IT infrastructures based on Linux
+- Experience in setting up or operating application platforms for enterprise systems
+- Experience in project management and the technical leadership of project teams
+- Knowledge of public cloud platforms (Azure, AWS, Google) or with DevOps methods and tools (Chef, Puppet, Ansible, Jenkins, Maven etc.) is an advantage
+- ITIL knowledge desirable
+- Good knowledge of spoken and written German and English
+
+Have we piqued your interest?
+
+...then apply here right away or send us your complete application documents by e-mail, stating the reference number 18242, your salary expectations (gross annual target salary) and, if applicable, willingness to travel and relocate.
+
+We fulfill your desire for discretion with the utmost care. Your data will never be released by us without your explicit consent for each individual case.	IT project manager (further education/training)	None	2023-03-07 15:59:03.335000

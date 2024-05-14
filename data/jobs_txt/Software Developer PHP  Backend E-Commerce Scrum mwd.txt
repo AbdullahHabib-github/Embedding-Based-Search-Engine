@@ -1,0 +1,28 @@
+4299	6904	Software Developer PHP | Backend, E-Commerce, Scrum (mwd)	Our client is a renowned family company with a long tradition. It offers a secure workplace in the Augsburg area, which is easily accessible by public transport.
+
+Software Developer PHP | Backend, Ecommerce, Scrum | in-house | 50% home office
+Agile web development with PHP, Symfony and Laravel in the backend in a wide range of activities. 2-3 home office days per week are possible.
+
+Your tasks:
+
+- As a PHP software developer, you will be part of a new team for further development in the e-commerce and omnichannel area of ​​an established company.
+- In addition to software development, you will be responsible for the architectural integration into the internal infrastructure.
+- In agile software development, you primarily use your PHP knowledge and also work with CI/CD.
+- You will be involved in software engineering in the conception, requirements analysis and architecture of new and existing systems.
+- With a hands-on mentality, you can introduce and control new topics and technologies.
+- You work primarily at the main location in Augsburg, regular home office days are conceivable (about 50%).
+
+Your profile:
+
+- At least 2 years of professional experience in PHP software development, ideally in an agile environment
+- Very good knowledge of PHP and at least one framework such as Symfony, Typo3 or Laravel
+- Good knowledge of relational databases such as MySQL or PostgreSQL
+- Interdisciplinary knowledge of Git, Elasticsearch, RabbitMQ and VCS
+- Knowledge of CI/CD would be an advantage
+- Good knowledge of German
+
+Have we piqued your interest?
+
+...then apply here right away or send us your complete application documents by e-mail, stating the reference number 18976, your salary expectations (gross annual target salary) and, if applicable, your willingness to travel and relocate.
+
+We fulfill your desire for discretion with the utmost care. Your data will never be released by us without your explicit consent for each individual case.	IT developer (further education/training)	None	2023-03-07 15:59:22.193000

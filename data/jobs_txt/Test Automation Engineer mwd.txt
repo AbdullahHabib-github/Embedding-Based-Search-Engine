@@ -1,0 +1,39 @@
+4079	6684	Test Automation Engineer (m/w/d)	Are you interested in helping to shape the further development of a forward-looking and innovative employer? Are you ambitious to contribute your experience in the field of software quality assurance? Do you enjoy working technically and hands-on and do you add value to the customer through your work? Perfect, we are looking for you as a Test Automation Engineer (f/m/d) at one of our locations in Germany as soon as possible.
+
+## Your profile
+
+- You have at least 2 years of work experience in software QA and test automation.
+- You already have practical experience with at least one of these test automation tools (e.g. Selenium, Ranorex, Cypress, Cucumber).
+- Ideally, you have already worked with CI/CD and have acquired very good programming skills in e.g. Java, Python, JavaScript or C++.
+- You have completed your studies or your training in computer science, electrical engineering, business informatics or a comparable field.
+- You are flexible and interested in working in a responsible consultant role and in actively and reliably supporting our customers.
+- Fluent knowledge of German is required. Knowledge of English is an advantage.
+
+## Your tasks
+
+- As a test automation engineer, you will develop and operate automated test frameworks for testing software applications for our customers.
+- You monitor automated test cases, analyze errors and carry out function/load tests.
+- You check the requirements and use them to create various test scenarios.
+- You support the entire team by deriving and executing functional and technical test cases.
+- You will help to ensure the quality of our customers' IT systems.
+- You work on varied projects and develop yourself further with responsible tasks.
+
+## Your chances and benefits
+
+- Training opportunities: Benefit from our Udemy flat rate, look forward to Gathering Days, prepare with us for certifications such as ISTQB and be part of our in-house training program for test automation.
+- Mentoring: We will provide you with a mentor who will accompany you individually at first.
+- Disruptive Software QA: Work with the latest technologies and become part of new innovations in the field of software itelligence.
+- Hybrid working concept: Make your work flexible. Benefit from our ergonomic and technical equipment for your home office as well as our centrally located offices including drinks flat rate.
+- Health Benefits: Use the possibilities of EGYM Wellpass for your physical and mental health.
+- Provision: We can support you through the company pension scheme.
+- Exciting project assignments: Expand your skills in your project assignments with our renowned customers and decide with us on your next project.
+- Various bonuses: Whether it's an employee recommendation or sales support, we'll show you our appreciation.
+
+## This is us
+
+System Verification is Sweden's largest independent software quality assurance provider. We help our clients realize their digital strategy by being a partner focused on innovation, efficiency and security. With more than 300 employees at over 10 locations in Europe, we are actively represented in the world of quality assurance. In Germany, we have more than 50 employees at locations in Munich, Frankfurt, Bonn and Hamburg. In addition to the technical skills, what counts for us is that you become part of our adventure with a positive attitude, courage and a smile on your face. If change inspires you and you want to grow with us, this is your chance to make a difference and create value.
+
+## For more information please contact:
+
+Abdulkerim Corbo
+ Consultant Manager+49 170 121 82 76	IT quality assurance coordinator	None	2023-03-07 15:58:55.124000

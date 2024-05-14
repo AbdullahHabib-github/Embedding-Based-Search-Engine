@@ -1,0 +1,32 @@
+3511	6116	Working student computer science - software development data platform	At the Fraunhofer Institute for Software and Systems Engineering ISST in Dortmund, in the departments "Data Management", "Logistics" and "Healthcare" we carry out applied top-level research for Europe as a location for digitization: We are the leading initiator of national and Europe-wide projects and initiatives that aim to confident handling of the »data« resource. With our innovative solutions, we offer society and business real added value.
+
+In the "Data Management" department, we combine our expertise in considering data as an economic asset. Whether disruptive business models based on data or the digital transformation of existing processes - we develop the right solutions for the targeted monetization of company data. Along the entire data lifecycle, we cover all technological and organizational issues - from concept to practical implementation. Data sovereignty plays an important role for us: We want a future in which data can be exchanged profitably for all actors, but at the same time control over the data is guaranteed at all times. That is why we are actively promoting initiatives such as the European data infrastructure »Gaia-X« or »International Data Spaces«.
+
+Do you enjoy software development and want to put your knowledge from your studies into practice? Would you like to help shape forward-looking applied research projects and involve us in the development of an innovative data platform? Then become part of our team and join us as a student assistant as a software developer for our data platform. You will support our "Data Management" department in the design and implementation of a data platform throughout the entire development process. On our data platform, we work with more than 40 project partners from science and practice on topics such as artificial intelligence, collaborative data sharing, data governance mechanisms and much more.
+
+Your activities:
+
+You collect the various requirements for the data platform and prepare them for subsequent implementation
+With a modern TechStack you develop backend and frontend components
+You help shape the system architecture of the platform
+Your skills are very welcome when it comes to installing, monitoring, maintaining and optimizing the various components
+ what you bring
+
+An ongoing degree related to computer science / IT (e.g. computer science, applied computer science, business informatics or comparable)
+Good knowledge of general web development and first experience with Docker
+Programming practice in JavaScript, Python and/or Java
+You are familiar with at least two of the following technologies: HTML, CSS, WASM, Node.js, NPM, YARN, JSON, Kubernetes, MySQL, MongoDB, Redis, Vue.js, React, Angular, GraphQL
+Enthusiasm for innovative technologies
+A team-oriented, careful and responsible working style
+Good spoken and written German and English
+ What you can expect
+
+Forward-looking activities in highly relevant projects at the interface between research and application
+An innovative working environment in a committed and creative team with a modern tech stack
+Numerous opportunities to build a network in research and business
+Plenty of freedom to design and implement your own innovative ideas
+The opportunity to write your seminar or final theses with us and thus optimally combine your studies and part-time job
+If you are interested, a permanent position (including the possibility of a doctorate) after graduation is conceivable
+Flexible working hours with 10 to 19 hours per week, taking your studies into account, as well as the possibility of mobile work via remote office
+
+An attractive and well-equipped workplace with a new work concept in...	software developer	None	2023-03-07 15:57:45.151000

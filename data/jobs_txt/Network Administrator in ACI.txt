@@ -1,0 +1,44 @@
+6234	8839	Network Administrator in ACI	Welcome to the team as
+
+Network Administrator in ACI
+
+The company:
+
+Commerzbank is the leading bank for SMEs and, with a comprehensive portfolio of financial services, is a strong partner for corporate customer groups as well as private and small business customers in Germany. We are a bank that is characterized by treating each other and our customers fairly and in a spirit of partnership. We value working in inspiring teams of people with diverse backgrounds. We offer you a creative environment and excellent development opportunities. Work-life balance is very important to us. And of course we know that a good job also requires attractive pay.
+
+
+Task:
+
+As ACI network administrator, you will support the network team both in coupling the private cloud to the existing network and in implementing requirements for ACI together with the Clouteam.
+
+The private cloud is based on an Openstack implementation with the connection of Cisco ACI in the network. The ACI configurations are rolled out largely automatically. This system needs to be maintained and further developed.
+
+The tasks include e.g.
+
+- Adaptation of the DCI connection
+- Adaptation of the firewall for coupling to the existing network
+- Extension of ansible automation
+- Expansion with additional compute nodes
+- Optimization of the OOB management
+- Active contribution to building further knowledge as well as knowledge building and sharing within the team.
+- In addition to remuneration according to the bank tariff, the use of our home office offer is also possible in consultation.
+
+
+Profile:
+
+- Completed degree in (business) computer science with appropriate qualifications or comparable training
+- Good knowledge of network administration with Cisco components
+- Experience with Cisco ACI and implementations of cloud environments
+- Communicative nature for project work in the cloud environment
+- Analytical thinking and conceptual strength
+- Independent, solution- and result-oriented way of working with structured work organisation
+
+
+Contact:
+
+Would you like to start full-time or part-time in a strong team and help shape the digital banking world of tomorrow? Then we look forward to receiving your online application. Adriane Studt, Group Manager IT Infrastructure & Operations, is available to answer any questions you may have on +49 4106 704 1241.	Business IT specialist (university)	Please only apply online at: www.azubi-commerzbank.de
+
+Free applicant hotline: Tel: 0800 1010159
+(Monday to Friday from 08:00 to 18:00)
+
+Commerzbank is a leader in private and corporate customers in Germany. With around 1,200 branches, Commerzbank will have one of the densest branch networks of any German private bank. It has around 60 locations in 52 countries and serves almost 15 million private and 1 million business and corporate customers worldwide.	2023-03-07 16:03:21.086000

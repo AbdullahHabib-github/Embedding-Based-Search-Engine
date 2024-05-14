@@ -1,0 +1,74 @@
+9040	11645	Trainee in the development of power electronics (f/m/x)	Job reference: 89994
+
+
+With our BMW, MINI, Rolls-Royce and BMW Motorrad brands, we are one of the world's leading premium manufacturers of automobiles and motorcycles and also a provider of premium financial and mobility services.
+
+
+YOU CANNOT PREDICT THE FUTURE. BUT DEVELOP.
+
+SHARE YOUR PASSION.
+
+Only highly professional processes in dynamic teams produce innovative cutting-edge technology. But driving pleasure is realized with us from development to production, above all, with fun at work and enthusiasm for the joint project. That's why we not only give students the opportunity to listen, but above all to have a say and think ahead.
+
+
+We, the BMW Group, offer you an exciting and varied internship in the field of power electronics development.
+
+The HV battery and the electric machine are coupled via the power electronics. The power electronics is therefore a central component in modern electric and hybrid vehicles and there are high demands on this component. The aim of the internship is to support the development of power electronics on the hardware and simulation level.
+
+
+What awaits you?
+
+- You will help with the implementation and analysis of experiments.
+- You take over part of the scope of simulation studies.
+- You automate process steps of the simulation.
+- You expand existing material databases.
+
+
+what do you bring
+
+- Studies in engineering, physics or a comparable course.
+- Confident handling of Matlab, Python or similar.
+- Ideally experience in FE simulation.
+- Confident use of MS Office.
+- Analytical thinking.
+- Structured way of working.
+- High team and communication skills.
+
+
+What do we offer you?
+
+- Comprehensive mentoring & onboarding.
+- Personal & professional development.
+- Work-life balance & flexible working hours.
+- Attractive remuneration.
+- Perks & employee discounts.
+- Apartments (at the Munich location).
+- And much more see jobs/what we offer.
+
+
+Are you enthusiastic about new technologies and an innovative environment? Apply now!
+
+
+At the BMW Group, we see diversity and inclusion in all its dimensions as a strength for our teams. Equal opportunities are of particular concern to us, and the equal treatment of applicants and employees is a fundamental principle of our corporate policy. Therefore, our recruiting decisions are also based on their personality, experience and skills.
+
+More about diversity at the BMW Group at bmwgroup.jobs/diversity.
+
+
+Start date: from 01.04.2023
+
+Duration: 6 months
+
+Working time: full time
+
+​
+
+Contact:
+BMW Group recruiting team
++49 89 382-17001
+
+
+Please only apply online via our career portal. Applications via other channels (esp. e-mails) cannot be considered.
+
+
+6	Engineer - electrical engineering	With its BMW, MINI, Rolls-Royce and BMW Motorrad brands, the BMW Group is the world's leading premium manufacturer of automobiles and motorcycles and a provider of premium financial and mobility services. The company employs around 125,000 people worldwide.
+With 31 production and assembly sites in 15 countries and a global sales network, the BMW Group is the world's leading premium manufacturer of automobiles and motorcycles and a provider of premium financial and mobility services.	2023-03-07 16:09:04.699000

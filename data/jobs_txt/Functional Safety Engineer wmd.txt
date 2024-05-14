@@ -1,0 +1,25 @@
+9342	11947	Functional Safety Engineer (w/m/d)	Would you like to reach the next level in your career? At Brunel you have the opportunity to continuously develop yourself with well-known customers - across all industries. Take the decisive step in your career today and apply to us as a Functional Safety Engineer.
+
+Job description:
+
+- Your main task is the coordination of the functional safety activities in the project according to ISO 26262.
+- You create the safety plan, the safety analysis (FMEA, FMEDA, FTA, reliability), the safety concept and the safety case.
+- In your position as Functional Safety Engineer you are responsible for supporting the development team in the implementation of safety concepts at system, hardware and software level.
+- In addition, you are the direct contact for customers to coordinate product requirements with regard to functional safety.
+- Your area of ​​responsibility will be rounded off with support in the projects and contact persons in questions of functional safety
+
+Your profile:
+
+- You have a degree in engineering or comparable training.
+- In addition, you can show several years of professional experience in the areas of embedded systems, hardware design or software design in the automotive industry.
+- You have very good knowledge of requirements management and documentation.
+- Fluent knowledge of the English and German language and willingness to travel round off your profile.
+
+We offer:
+We offer you a corporate culture that is characterized by the diversity of our employees and by mutual respect - between employees and at all levels of the company. In addition to varied get-togethers with the local Brunel teams, this also includes regular feedback discussions about your challenges and perspectives with your account manager. With individual further education and training you will be optimally supported and prepared for future projects. Unlimited employment contracts, 30 days vacation, work account regulations and company, employer-financed pension schemes are a matter of course for us.
+
+About Brunel:
+Working at Brunel means: Attractive work tasks, extraordinary career prospects, the security of an expanding engineering service provider and the whole diversity of engineering and IT. In the DACH-CZ region alone, we have more than 40 locations and development centers with accredited test laboratories and more than 120 locations worldwide with more than 12,000 employees in over 40 countries. More than 45 years of international success and over 25 years in Germany. Standing still means going backwards - with Brunel you can make a difference!	Engineer - electrical engineering	More than 2,800 engineers, technicians, computer scientists and managers
+Over 40 locations and development centers with accredited testing laboratory
+More than 45 years of international success and over 25 years in Germany
+more than 120 locations worldwide with more than 12,000 employees in over 40 countries	2023-03-07 16:09:41.854000

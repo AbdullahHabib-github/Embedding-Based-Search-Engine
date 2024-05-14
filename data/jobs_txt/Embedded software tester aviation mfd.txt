@@ -1,0 +1,35 @@
+6537	9142	Embedded software tester aviation (m/f/d)	Tasks:
+
+- Execution and coordination of tests and verifications of embedded controllers within the framework of given concepts and processes in the aviation environment
+
+- Functional verification of an aviation product through testing and analysis
+
+- Definition of the requirements for an embedded software test and its test equipment
+
+- Review and evaluation of data from verification
+
+- Creation of the associated documentation and communication
+
+- Coordination of tasks in terms of content and timing in an agile team
+
+
+
+Profile:
+
+- Studies in computer science, electrical engineering, electronics or a comparable subject
+
+- Experience in the development and / or verification of software according to process specifications and standards
+
+- ISTQB certification is an advantage
+
+- Good knowledge of MS Office programs
+
+- Analytical and structured way of working
+
+- Good knowledge of German and English	Computer scientist (university)	Make a career...
+
+Are you an engineer, computer scientist, bachelor's, master's, technician m/f? Then make a career with ep at leading technical companies. Face the challenge that motivates you. And enjoy team spirit, diversity, security.
+
+We find your solutions. We continue to develop your potential in a targeted manner. We realize your visions: in engineering, application and testing, project management, IT.
+
+ep. your engineering company. supporting experts.	2023-03-07 16:03:57.979000

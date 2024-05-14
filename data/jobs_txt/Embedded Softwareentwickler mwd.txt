@@ -1,0 +1,31 @@
+6461	9066	Embedded Softwareentwickler (m/w/d)	Tasks:
+
+- Development of embedded software for microcontrollers in sensors in the automation industry as a member of a product development team
+
+- Specification of the requirements, implementation, integration and testing of the software
+
+- Design of product specific signal processing algorithms
+
+- Implementation of user and communication interfaces, such as IO-Link
+
+
+
+Profile:
+
+- Studies in electrical engineering, technical computer science or a comparable subject
+
+- First professional experience in embedded software development is desirable
+
+- High interest and good knowledge of hardware-related software development with the programming language C
+
+- Knowledge of current software design and software testing methods
+
+- Independent, proactive way of working and ability to work in a team
+
+- Very good German and good English skills	Engineer - electrical engineering	Make a career...
+
+Are you an engineer, computer scientist, bachelor's, master's, technician m/f? Then make a career with ep at leading technical companies. Face the challenge that motivates you. And enjoy team spirit, diversity, security.
+
+We find your solutions. We continue to develop your potential in a targeted manner. We realize your visions: in engineering, application and testing, project management, IT.
+
+ep. your engineering company. supporting experts.	2023-03-07 16:03:48.725000

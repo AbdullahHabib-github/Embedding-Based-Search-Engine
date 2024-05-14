@@ -1,0 +1,21 @@
+4616	7221	Bachelor- / Masterthesis Versuch (m/w/d)	your skill. Our potential.
+
+The Handtmann Group has 4,100 employees in six business areas worldwide. As an independent company within the group, Albert Handtmann Maschinenfabrik GmbH & Co. KG in Biberach develops, builds and sells filling and portioning systems for food processing. Handtmann is the market leader in this field and has a global presence.
+
+Period: from now on
+
+The topic of the work: Simulation of processes and machines with different fluids
+
+Background to the task:
+
+Simulation tools (CFD) should be used and further developed to investigate new processes and machine functions (e.g. ventilation / cooling circuit, pumps, fluid transport in lines and valves, mixing processes, etc.).
+
+Your tasks:
+ • Model preparation, model creation and collaboration with experts from the fields of experimentation and food technology
+ • Mapping of non-Newtonian fluids
+ • Validation of the models
+
+Requirements:
+ • Student (m/f/d) in the field of mechanical engineering, mechatronics, process engineering or comparable
+ • Independent and dedicated working style
+ • Independent and precise way of working	Engineer - mechanical engineering	None	2023-03-07 16:00:01.192000

@@ -1,0 +1,48 @@
+43	2673	SPS Programmierer (m/w/divers)	Tasks
+                
+• As a specialist in automation solutions, you are an important part of our digitization team
+• You are responsible for the creation or adaptation of PLC programs and visualizations according to customer standards in the context of small and medium-sized projects
+• You will develop and program PLC modules within the existing automation standards for data communication to subordinate systems such as robots and process devices and higher-level systems.
+• You accompany the commissioning and carry out the error analysis of the programs
+• You are responsible for diagnosing and eliminating PLC faults
+• You are the technical contact person for project management
+• You create training documents and train customers in the areas of production and maintenance
+• You constantly expand your knowledge of new programming standards and analyze new and innovative market trends
+
+                profile
+                
+• You have successfully completed an apprenticeship in an electrical profession, preferably with appropriate further training or a degree in electrical/automation technology or mechatronics
+• You have professional experience in PLC programming, preferably with knowledge of common customer standards such as VASS and Integra.
+• You are familiar with Siemens Step7 and TIA Portal
+• Ideally, you will have experience in the area of ​​body-in-white construction
+• You are confident in dealing with MS Office
+• You are characterized by your ability to work in a team as well as your independent way of working
+• You convince with a structured way of working and can abstract complex technical relationships and present them in a way that is easy to understand
+• You are flexible and enjoy occasional business trips
+
+                
+Your advantages with us
+                
+Collegial cooperation and respect in dealing with each other - you have found that with us for over 200 years. If this is as important to you as it is to us, then apply online now.
+• Flexible working time models
+• Ergonomic workstations
+• A company pension scheme that is highly subsidized by the employer
+• A comprehensive range of internal and external training opportunities
+• Subsidized and balanced lunch menus in our canteen and snacks from vending machines
+• Discounts at various shops and partners
+
+                Contact
+                
+thyssenkrupp Automotive Body Solutions
+
+Patricia Kaeppel
+
+People Manager
+
+Phone +49 7131 1569 17513
+
+
+                
+                That's what we offer
+                
+We value diversity and therefore welcome all applications - regardless of gender, nationality, ethnic and social background, religion/belief, disability, age, sexual orientation and identity.	PLC specialist	None	2023-03-07 15:50:37.413000

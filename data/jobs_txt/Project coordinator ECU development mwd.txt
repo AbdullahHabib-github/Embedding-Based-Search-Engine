@@ -1,0 +1,28 @@
+4369	6974	Project coordinator ECU development (mwd)	Our client is a Munich software house with over 30 years of experience that offers extensive software services over the entire life cycle of the software - from concept to design, development, integration to operation. One focus is the automotive industry with its complex business processes.
+
+Project coordinator control unit development | SW Architecture, Test Mgmt., Scrum | in-house
+Use your development and architecture know-how to coordinate exciting automotive projects. A high home office share for Munich commuters is possible.
+
+Your tasks:
+
+- As a project coordinator for control unit development, you will control the development of vehicle components in agile projects in a colorful project environment.
+- You create technical concepts derived from user stories for the implementation of customer requirements in the field of vehicle development.
+- You specify the appropriate packages for the realization of customer functions using suitable methods and tools (UML).
+- Based on the technical conception, you plan, use your software architecture knowledge and are responsible for the integration of the software components.
+- You coordinate test management and develop test scenarios yourself.
+- Perspectively, you will increasingly assume the role of a project manager.
+
+Your profile:
+
+- Completed degree in a technical subject or equivalent professional training
+- Initial sound practical experience, ideally as a developer or IT consultant in the hardware-related software development environment, ideally in the automotive sector
+- Very good knowledge of UML, software design patterns and agile software development such as Scrum
+- Experience in writing IT concepts
+- Knowledge of service IT architectures, IT security concepts and test management would be an advantage
+- Good knowledge of German and English for advice
+
+Have we piqued your interest?
+
+...then apply here or send us your complete application documents by e-mail, stating the reference number 19132, your salary expectations (gross annual target salary) and, if applicable, willingness to travel and relocate.
+
+We fulfill your desire for discretion with the utmost care. Your data will never be released by us without your explicit consent for each individual case.	IT-Berater/in	None	2023-03-07 15:59:30.760000

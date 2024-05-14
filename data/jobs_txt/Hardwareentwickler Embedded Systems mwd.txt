@@ -1,0 +1,26 @@
+4028	6633	Hardwareentwickler Embedded Systems (m/w/d)	Would you like to reach the next level in your career? At Brunel, you have the opportunity to continuously develop yourself with well-known customers - across all industries. Take the decisive step in your career today and apply to us as a hardware developer in the field of embedded systems.
+
+## Your task
+
+- Further development of power components for electric vehicles in the automotive environment
+- Creation of requirement documents as well as requirement and functional specifications and the test documentation
+- Independent development of electrical and electronic circuits as well as creating the layout
+- Independent planning, processing and documentation of all theoretical and practical investigations to secure the hardware
+- Independent execution of all necessary calculations and simulations on component and circuit level
+- Carrying out reviews in the project team
+- Data maintenance of existing electrical and electronic circuits
+- Conducting market research on electrical and electronic components and evaluating their applicability
+
+## Your profile
+
+- Successfully completed studies in the field of electrical engineering/communications engineering, technical informatics, or a comparable education
+- Several years of professional experience in the field of hardware development / analog and digital technology in the automotive industry desirable
+- Knowledge of development tools in the automotive industry, such as Altium Designer, LTspice, MATLAB /Simulimk
+- Knowledge of automotive development processes, as well as hardware designs and architectures and specialist knowledge, particularly in the area of ​​engine controls and/or battery management systems
+- Good knowledge of the implementation of development projects according to ISO 26262 and relevant automotive standards
+- Ability to work in a team, communication skills, initiative and creativity as well as strong ability to work independently and analytically
+- Good knowledge of spoken and written German and English
+
+## We offer
+
+With us you will work for an unlimited period and in a permanent position. In addition, we offer you an in-house collective agreement that is tailored to the salary structures of the various professional groups and rewards qualifications and professional experience. In addition to the collectively agreed social benefits of an expanding company, we offer you the opportunity to develop yourself personally and professionally according to your individual wealth of experience.	Engineer - electrical engineering	None	2023-03-07 15:58:48.807000

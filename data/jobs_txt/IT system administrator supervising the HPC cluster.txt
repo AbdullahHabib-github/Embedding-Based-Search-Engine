@@ -1,0 +1,51 @@
+4049	6654	IT system administrator supervising the HPC cluster	Reference number: 63373
+
+The Fraunhofer-Gesellschaft (www.fraunhofer.de) currently operates 76 institutes and research facilities in Germany and is the world's leading organization for application-oriented research. Around 30,000 employees work on the annual research volume of 2.9 billion euros.
+
+The Fraunhofer Institute for High-Speed ​​Dynamics, Ernst Mach Institute, EMI offers you challenging and varied tasks with responsibility and creative freedom. We conduct research on behalf of our customers from various areas of business and politics and apply the latest findings from science and research to specific projects. The applications are in the fields of defence, security and resilience, automotive, space and aviation.
+
+For the data center of the Fraunhofer Institute for High-Speed ​​Dynamics, Ernst Mach Institute, EMI in Freibug we are looking for you as a successor for our colleague who is retiring.
+
+## Shaping the future
+
+With your know-how, you support our scientists in the efficient use of the HPC systems and in computationally intensive research projects. You are the qualified and competent contact person for all questions and solutions to problems relating to our Linux-based high-performance computing (HPC).
+
+## Take responsibility
+
+You are responsible for the reliable operation and further development of our HPC systems. Your areas of responsibility also include the implementation of new hardware and software as well as HPC user management.
+
+## What you bring
+
+- You have a university degree (master/diploma) in computer science, natural sciences or engineering and have in-depth experience with the administration of Linux servers.
+- Ideally, you already have professional experience in the scientific HPC environment, e.g. in the use of job schedulers, parallel programming techniques, cluster file systems and HPC-capable simulation software.
+- The service concept is important to you, and you have the ability to deal with people, good communication skills and enjoy working in a team.
+- An independent and structured way of working, a friendly and confident demeanor as well as good written and spoken German and English skills complete your profile.
+
+## What to expect
+
+- We are an innovative research institute with a wide range of topics, a high level of practical relevance and plenty of scope for your creativity for your own ideas, initiative and independent action.
+- You can expect a modern and innovative working environment as well as a motivated, open and highly qualified team of IT specialists.
+- We offer you professional and personal development prospects.
+- Your work-life integration is important to us, which is why we offer flexible working time models and up to 50% mobile working from home as well as support services for the compatibility of family and work.
+- Our offer is supplemented by our company pension scheme (VBL) and annual pro rata Christmas bonus.
+- You also benefit from our additional benefits: job ticket, flexitime, time off in lieu of overtime, places at the "Junikäfer" daycare center in Freiburg, life situation coaching and homecare-eldercare.
+
+We value and promote the diversity of skills of our employees and therefore welcome all applications - regardless of age, gender, nationality, ethnic and social background, religion, ideology, disability as well as sexual orientation and identity. People with disabilities are given preference if equally qualified.
+
+The position is initially limited to 2 years - a long-term cooperation is sought. The weekly worktime is 39 hours. The position can also be filled part-time. Employment, remuneration and social benefits are based on the collective agreement for the public sector (TVöD).
+
+With its focus on future-oriented key technologies and the utilization of the results in business and industry, the Fraunhofer-Gesellschaft plays a central role in the innovation process. As a guide and source of inspiration for innovative developments and scientific excellence, it helps shape our society and our future.
+
+You want to shape the future with us – then apply now!
+ Please apply online with your complete application documents (cover letter, CV, diplomas and job references)!
+
+We will be happy to answer any questions you may have about this position:
+ Mrs. Claudia Kiefer & Mrs. Esther Waibel
+ Personnel marketing / recruiting
+ hr.recruiting@emi.fraunhofer.de
+
+Fraunhofer Institute for High-Speed ​​Dynamics, Ernst Mach Institute EMI
+
+www.emi.fraunhofer.de
+
+ Reference number: 63373	IT-System administrator/in	None	2023-03-07 15:58:51.422000

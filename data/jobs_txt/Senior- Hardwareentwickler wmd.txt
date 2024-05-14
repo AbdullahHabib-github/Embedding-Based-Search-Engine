@@ -1,0 +1,32 @@
+9410	12015	(Senior-) Hardwareentwickler (w/m/d)	Would you like to reach the next level in your career? At Brunel you have the opportunity to continuously develop yourself with well-known customers - across all industries. Take the decisive step in your career today and apply to us as a (senior) hardware developer.
+
+Job description:
+
+- You are responsible for the development of analog and digital circuits, taking into account electromagnetic compatibility in the industrial sector.
+
+- You will also create the hardware architecture and carry out the system integration.
+
+- You take responsibility for the creation of concepts and specifications.
+
+- In addition, optimize and check the electromagnetic compatibility.
+
+- Your area of ​​responsibility will be rounded off with the implementation of measurements and tests in the laboratory area.
+
+Your profile:
+
+- Studies in the field of electrical engineering or a comparable qualification
+- Extensive expertise with interfaces and buses in the industrial environment
+- Experience in microcontroller circuit technology and with optoelectronics and other sensor electronics
+- In-depth knowledge of digital and analog circuit technology, taking EMC requirements into account
+- Knowledge of using modern circuit design and simulation tools (e.g. ALTIUM Designer) is desirable
+- High decision-making ability, with problem-solving skills and topic ability
+
+We offer:
+With us you will work for an unlimited period and in a permanent position. In addition, we offer you an in-house collective agreement that is tailored to the salary structures of the various professional groups and rewards qualifications and professional experience. In addition to the collectively agreed social benefits of an expanding company, we offer you the opportunity to develop yourself personally and professionally according to your individual wealth of experience.
+
+About Brunel:
+Working at Brunel means: Attractive work tasks, extraordinary career prospects, the security of an expanding engineering service provider and the whole diversity of engineering and IT. In the DACH-CZ region alone, we have more than 40 locations and development centers with accredited test laboratories and more than 120 locations worldwide with more than 12,000 employees in over 40 countries. More than 45 years of international success and over 25 years in Germany. Standing still means going backwards - with Brunel you can make a difference!	Engineer - electrical engineering	As one of the leading engineering service providers within the DACH region and the Czech Republic, Brunel stands for first-class project solutions and exceptional career opportunities in the range of modern engineering. Our more than 2,800 engineers, computer scientists, technicians and managers ensure the sustainable success of our customers in a wide variety of industries.
+
+• More than 40 locations and development centers with accredited test laboratories
+• More than 45 years of international success and over 25 years in Germany
+• more than 120 locations worldwide with more than 12,000 employees in over 40 countries	2023-03-07 16:09:50.258000

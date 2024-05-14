@@ -1,0 +1,33 @@
+6423	9028	Test Bench Engineer E-Mobility (m/f/x)	Tasks:
+
+- Planning, implementation and documentation of tests in internal and external test laboratories
+
+- Coordination of the specification of test procedures and storage in automation systems
+
+- Hardware and software adjustment to improve the test procedures
+
+- Carrying out error analyses, process improvements and plausibility checks
+
+
+
+Profile:
+
+- Studies in the field of electrical engineering, computer science or comparable qualifications
+
+- Supplementary training as a qualified electrician with working under voltage ("Blitz 4")
+
+- Professional experience in the field of development, ideally electromobility, test bench operation and automation
+
+- Experience in project management
+
+- Knowledge of measurement, test and application systems (Tornado, ESD, INCA, EDIABAS/INPA, CANalyzer, ECU test) and good programming skills (C/C++, VBA)
+
+- Independent, solution-oriented way of working
+
+- Very good knowledge of German and English	Engineer - electrical engineering	Make a career...
+
+Are you an engineer, computer scientist, bachelor's, master's, technician m/f? Then make a career with ep at leading technical companies. Face the challenge that motivates you. And enjoy team spirit, diversity, security.
+
+We find your solutions. We continue to develop your potential in a targeted manner. We realize your visions: in engineering, application and testing, project management, IT.
+
+ep. your engineering company. supporting experts.	2023-03-07 16:03:44.094000

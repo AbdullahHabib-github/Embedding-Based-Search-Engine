@@ -1,0 +1,37 @@
+6469	9074	Testingenieur Embedded Systems (m/w/d)	Tasks:
+
+- Establishment and further development of central test processes and methods in the embedded systems area
+
+- Creation of test specifications as well as planning, execution and documentation of automated tests
+
+- Supervision of test system tools as well as evaluation / analysis of test results and creation of test reports
+
+- Bug and change management support
+
+- Sub-project management and quality planning
+
+- Construction and development of system test environments for operating systems
+
+
+
+
+
+Profile:
+
+- Studies in the field of electrical engineering, computer science, information technology or a comparable subject
+
+- Experience in testing electronic and mechatronic systems, bus systems (CAN, LIN, ETHERNET), remaining bus simulations and embedded systems
+
+- Experience in handling requirements and test management tools, ideally Polarion
+
+- Knowledge of C or CAPL programming and Vector tools (CANoe, DiVa, VT System)
+
+- careful, structured and reliable way of working
+
+- Very good knowledge of German and English	Engineer - electrical engineering	Make a career...
+
+Are you an engineer, computer scientist, bachelor's, master's, technician m/f? Then make a career with ep at leading technical companies. Face the challenge that motivates you. And enjoy team spirit, diversity, security.
+
+We find your solutions. We continue to develop your potential in a targeted manner. We realize your visions: in engineering, application and testing, project management, IT.
+
+ep. your engineering company. supporting experts.	2023-03-07 16:03:49.697000

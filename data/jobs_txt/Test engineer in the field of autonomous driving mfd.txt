@@ -1,0 +1,39 @@
+6491	9096	Test engineer in the field of autonomous driving (m/f/d)	Tasks:
+
+- Planning, preparation, implementation and evaluation of system tests using vehicle prototypes and simulation tools
+
+- Specification of test cases according to customer and product requirements
+
+- Validation of driving and system functions on test tracks and public roads
+
+- Documentation and tracking of deviations and errors using agreed issue tracking systems
+
+- Compilation of test reports
+
+- Evaluation and documentation of driving functions
+
+- Participation in the definition and development of new test methods and adaptation of test environments
+
+
+
+Profile:
+
+- Studies in the field of driver assistance systems, vehicle technology, electrical engineering, mechanical engineering, computer science or a comparable qualification
+
+- Professional experience in the development and validation of electrical components and functions
+
+- Professional experience with development and testing processes ISO26262
+
+- Knowledge of driver assistance systems, electrical vehicle architecture and bus systems such as e.g. CAN, FlexRay
+
+- Good knowledge of Python, C or C#
+
+- Driving license class B (EU)
+
+- proficient in German and English	Engineer - vehicle technology	Make a career...
+
+Are you an engineer, computer scientist, bachelor's, master's, technician m/f? Then make a career with ep at leading technical companies. Face the challenge that motivates you. And enjoy team spirit, diversity, security.
+
+We find your solutions. We continue to develop your potential in a targeted manner. We realize your visions: in engineering, application and testing, project management, IT.
+
+ep. your engineering company. supporting experts.	2023-03-07 16:03:52.385000

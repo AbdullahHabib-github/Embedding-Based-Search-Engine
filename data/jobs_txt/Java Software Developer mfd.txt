@@ -1,0 +1,53 @@
+9585	12190	Java software developer (m|f|d)	-Your tasks -
+
+As a team we are responsible for the development of our
+Arcade Management Software. We have many exciting projects in this regard
+the pipeline. With us you can contribute your own ideas and experience
+how these develop. On a very wide range of topics
+expect challenges that you personally and professionally
+develop. With us you work directly on the product and participate
+involved in all process steps from conception to implementation
+until the release. They also update existing products and have
+There is also room for creativity in this area.
+
+-Your profile-
+
+· You score with a successfully completed degree
+(Applied, media, business) computer science or training as a
+IT specialist for application development with professional experience
+· You enjoy new topics and feel creative
+environment well
+· You have initial development experience with Java in the client/server environment
+and are confident in using PostgreSQL and Git/Perforce
+· You already have knowledge of HTML, JavaScript and CSS, as well as the
+Tools Eclipse, GitLab and Jira
+· Ideally, you have good knowledge of Windows and Linux
+· A high standard of quality, result-oriented working methods and
+Working in a team is a matter of course for you
+· Good knowledge of English and a high level of tool affinity round off your skills
+profile off
+
+-Your Benefits-
+
+What can you look forward to besides an open and appreciative
+corporate culture with us?
+
+
+· Permanent employment and long-term prospects
+· Home office opportunities
+· 30 days holiday
+· Individual and needs-based personnel development
+· Intensive training, which can be supported via an app
+
+
+What characterizes your future workplace?
+
+
+· Laptop and company cell phone also for private use
+· Company pension scheme and capital-forming benefits
+· Benefit card for 40 euros per month
+· Health management including Jobrad and EGYM (discounts for
+gyms)
+· Canteen at the Bingen location with regional food and daily
+changing offer
+· Free parking and e-bike charging station	software developer	None	2023-03-07 16:10:11.712000

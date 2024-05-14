@@ -1,0 +1,22 @@
+9416	12021	Embedded Softwareentwickler (w/m/d)	Are you looking for a change in your professional career and can you imagine supporting our customers as a project employee at Brunel? Then we look forward to receiving your application, because we are looking for you as an embedded software developer (m/f/d).
+
+Job description:
+
+- Your task is to program and test software using C and C++.
+- You will also maintain and expand software tools that are needed to test the new products.
+- You maintain the relevant documentation of your work and serve as a sparring partner for technical questions.
+- Last but not least, you coordinate with the departments involved and can present your results if necessary.
+
+Your profile:
+
+- Completed degree in electrical engineering, computer science or comparable training
+- Very good programming skills in C and C++
+- Good knowledge of different software development environments
+- Fluency in written and spoken German
+- Good English knowledge
+
+We offer:
+With us you will work for an unlimited period and in a permanent position. In addition, we offer you an in-house collective agreement that is tailored to the salary structures of the various professional groups and rewards qualifications and professional experience. In addition to the collectively agreed social benefits of an expanding company, we offer you the opportunity to develop yourself personally and professionally according to your individual wealth of experience.
+
+About Brunel:
+Working at Brunel means: Attractive work tasks, extraordinary career prospects, the security of an expanding engineering service provider and the whole diversity of engineering and IT. In the DACH-CZ region alone, we have more than 40 locations and development centers with accredited test laboratories and more than 120 locations worldwide with more than 12,000 employees in over 40 countries. More than 45 years of international success and over 25 years in Germany. Standing still means going backwards - with Brunel you can make a difference!	Engineer - electrical engineering	Brunel is one of the leading engineering service providers in the DACH region and the Czech Republic. We stand for first-class project solutions and exceptional career opportunities across the entire spectrum of modern engineering. 3,200 engineers, computer scientists, technicians and managers ensure the sustainable success of our customers in a wide variety of industries - from medium-sized hidden champions to global players.	2023-03-07 16:09:50.990000

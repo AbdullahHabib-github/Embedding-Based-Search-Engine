@@ -1,0 +1,28 @@
+4076	6681	(Junior) Software Engineer | Flutter (m/w/d)	## This is DERMALOG
+
+Whether applying for a passport or unlocking a smartphone: biometric procedures have long been part of our everyday lives. DERMALOG Identification Systems GmbH is one of the world's leading companies in biometrics. As an industry pioneer, we have been providing comprehensive solutions for secure identification and authentication for more than 25 years. At our headquarters in Hamburg, we work on the latest generation of biometric software and hardware.
+
+ The "Mobile Development" team deals with mobile apps that control our corresponding hardware or even independently record biometrics (e.g. reading passports). We not only want to develop our technologies, but also our team and are looking for experienced support.
+
+## Your tasks:
+
+- (Further) development of high-quality mobile applications in the Flutter environment and possibly also with Kotlin and iOS (Swift)
+- Conception and development of holistic applications or individual functional elements
+- Analysis and optimization of existing systems with regard to usability and performance
+- Quality assurance through unit, system and integration tests
+
+## Your skills:
+
+- Sound knowledge of development with Flutter (preferably from your studies)
+- Some experience with Kotlin and/or iOS is desirable, but not essential
+- Passion for agile software development, solution orientation paired with a pronounced quality awareness
+- Strong communication skills, the ability to work in a team, an occasional willingness to travel (\>10%) and good language skills in German and English round off your profile
+
+## What we offer you:
+
+- Demanding, international development projects "Made in Germany" in the future-oriented sector of biometrics
+- A diverse tech stack, short decision-making processes and a family atmosphere in an owner-managed company
+- Many degrees of freedom in the development of solutions: you will not find rigid, bureaucratic processes with us
+- Central location in beautiful Hamburg near the Alster and with direct transport connections
+- Flexible working hours and home office (up to 3 days/week) in a permanent employment relationship
+- Job ticket (HVV ProfiTicket), flexible working hours, paid overtime, company pension scheme, further training opportunities as well as company fitness and more	Application programmer	None	2023-03-07 15:58:54.754000

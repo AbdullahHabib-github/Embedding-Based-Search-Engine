@@ -1,0 +1,53 @@
+9737	12342	Administrator data / business intelligence solutions (f/m/d)	As soon as possible we are looking for you as Administrator Data- /
+Business intelligence solutions SAP Business Objects for DB Systel
+GmbH in Berlin, Erfurt or Frankfurt (Main).
+
+
+We offer the latest data and business intelligence solutions for
+all customers in the railway group - you work in a great team
+state-of-the-art technologies and help us to become even better.
+
+
+This is a "where you want job": In coordination with your manager
+you can schedule your place of work within Germany yourself and
+choose between mobile working and working in the office.
+
+
+As part of our job sharing model, we offer you the opportunity
+To realize your career aspirations with reduced working hours.
+Together with your tandem partner, you share (management) tasks,
+Working Hours and Responsibilities.
+
+
+*Your tasks:*
+
+
+
+· Administration, maintenance and development of our SAP BO environments as
+also the responsibility for their quality
+· Use your nose to find error messages and get to the bottom of them
+· Ensuring proactive incident management and participation in the
+On-call service - 2nd and 3rd level support for the systems (e.g. SAP BO,
+BODS, Alteryx)
+· Development of operating, monitoring and test concepts as well as the
+Coordination of test execution
+· With regard to data protection and data security, you are responsible for the
+Adherence to the corporate guidelines in operation
+· Coordination and planning as well as cross-collaboration with
+internal and external stakeholders
+
+
+
+*Your profile:*
+
+
+
+· IT-oriented technical / university studies or a comparable one
+qualification
+· In-depth knowledge of SAP BO Business Objects (BI solutions)
+· First experience in Windows administration, cloud technologies AWS and
+in the field of database systems
+· Ideally, Tableau, Power BI and Qlik-Sense are not foreign words
+to you
+· You enjoy working in an agile team
+· Good knowledge of German (C1) completes your profile	IT-Administrator/in	None	2023-03-07 16:10:30.318000

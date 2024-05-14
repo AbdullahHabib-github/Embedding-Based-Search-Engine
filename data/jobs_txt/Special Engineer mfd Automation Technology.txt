@@ -1,0 +1,39 @@
+8960	11565	Special Engineer (m/f/d) Automation Technology	Knowledge for the world of tomorrow.
+We develop networks that provide our cities with light and heat more intelligently and are very familiar with automation and digitization in the process and manufacturing industry. For this and for many other future projects, we need bright minds who actively contribute their skills and creativity. People like you! Help us to tackle the most exciting challenges together and to implement what is important. What we offer you is the chance to really make a difference. So what are you waiting for? Take the next step in your career with us.
+Change the world of tomorrow with us.
+- With our automation solutions, we visualize and control the industrial logistics processes of our regional and national customers.
+- Together with our team of specialists, you will develop and implement the underlying software concepts for materials handling, storage and logistics systems as well as for the associated stacker cranes.
+- After the concept phase, you program and test the conveyor systems.
+- Then you integrate the PLC standard modules into the overall logistics system and take over the commissioning on site at the customer.
+- The software processing within our projects is in your hands from A to Z: You answer technical customer inquiries and keep track of costs, quality and deadlines.
+- As a professional perspective, you will develop into a project manager in the next step and take on holistic project responsibility. Your qualifications – well-founded and adequate
+
+Your profile for "Making the future possible".
+- You have completed a technical degree (e.g. electrical engineering, mechanical engineering, automation technology or IT) and have several years of experience in the automation of logistics systems (conveyor technology, stacker cranes).
+- Alternatively, you have further qualified after your technical vocational training as a master craftsman or technician and have many years of professional experience in the field mentioned.
+- Your profile is characterized by many years of professional experience in the development and design of software for materials handling elements.
+- You are confident in programming SIMATIC TIA Portal objects and modules.
+- You also have good project planning knowledge of drive technology.
+- Personally, you convince with a structured approach, resilience and qualified handling of the customer's and supplier's staff.
+- You have the willingness to participate in service and stand-by operations
+- You are open to business trips (approx. 40% of your working time).
+- You are mainly on regional project assignments, but also nationally.
+- You communicate confidently in German and well in English
+
+
+What we offer.
+- Attractive Siemens pension plan
+- Location-dependent childcare to combine family and work
+- Attractive job ticket offers and free use of e-charging stations (depending on location)
+- Accessible locations
+- And many more benefits here
+
+
+The individual benefits are each tailored to local legal requirements, specifications for various job profiles and locations, and individual preferences.
+
+We want you to want it: Apply!
+We value equal opportunities and welcome applications from people with disabilities.
+https://new.siemens.com/ - if you would like more information about jobs & careers at Siemens.
+FAQ - if you have a question about applying to Siemens.	Engineer - electrical engineering	We create what others dream of
+Curiosity, passion, creativity - there are characteristics that apply to everyone who works at Siemens. And when 385,000 of those people work together, the results become extraordinary.
+We analyze, ask questions, find solutions, test and refine. From sketches on café napkins to 3D printed prototypes, we believe brilliant ideas can come from anywhere. Our employees drive their projects forward with passion. We develop and patent more than 7,500 inventions every year all over the world.	2023-03-07 16:08:54.967000

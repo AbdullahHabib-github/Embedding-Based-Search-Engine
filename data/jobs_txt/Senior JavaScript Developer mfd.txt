@@ -1,0 +1,87 @@
+5674	8279	(Senior) JavaScript Developer (m/f/d)	Take the next leap with us!
+
+Horze is one of the leading manufacturers of equestrian goods in Europe and is now active in e-commerce, wholesale and equestrian business worldwide. With over 40,000 items for horse and rider, our Horze online shop offers one of the largest ranges for equestrian sports enthusiasts in all of Europe and many other parts of the world.
+We develop and sell high-quality fashion products for equestrian sports under the Horze and B Vertigo brands.
+
+In order to continue to grow innovatively and in a targeted manner, we are therefore looking for someone to strengthen our IT team as soon as possible
+
+(Senior) JavaScript Developer (m/f/d)
+
+for the location in Birkenau (Hesse). The office is located in a commercial complex between Birkenau in Hesse and Weinheim in Württemberg on the Bergstrasse.
+
+Your tasks with us look like this:
+
+ * Existing systems and interfaces will be optimized by you.
+ * Bugs, which unfortunately cannot always be completely avoided, don't stand a chance with you.
+ * You take responsibility for your own (mini) projects, you coordinate with the business side, identify the needs, develop a concept and implement your project in close coordination with our colleagues.
+ * You work with the team on joint projects in which you can support in different areas.
+ 
+
+
+You feel comfortable in this environment:
+ * JavaScript and gladly also Svelte (not a must)
+ * MongoDB or other NoSQL databases
+ * Linux servers (Debian)
+ * JSON
+ * RestAPI
+
+How to convince us:
+ * You have completed an apprenticeship in the IT field or an IT degree.
+ * You have already gained several years of experience in JavaScript development (preferably full stack).
+ * You are passionate about agile software development and can find your way around our iterative approach.
+ * Teamwork, taking responsibility and getting things done are a matter of course for you.
+ * Good written and spoken English knowledge
+
+What you can expect from us:
+ * Do you prefer to work with a Windows laptop or a MacBook? You decide and we will provide you with the right tools!
+ * The other equipment is also high-quality and state-of-the-art - we want to create the best conditions so that our employees can concentrate on the essentials.
+ * In addition to the technology, the working environment is also modern - there is no standstill in an aspiring and continuously growing company.
+ * Exciting, international projects with plenty of room for maneuver and personal responsibility - do you have ideas or suggestions on how we can do things better? tell us!
+ * This should go without saying, but we mention it anyway: A permanent position with attractive pay is waiting for you.
+ * Individual and personal development opportunities - what do you need to get ahead? We support you!
+ * An open communication culture at eye level with flat hierarchies
+
+In addition, numerous benefits such as:
+ * Juicy discounts for employees
+ * A company-sponsored job wheel
+ * Company pension scheme with employer contribution
+ * Training opportunities
+ * Flexible working hours and home office arrangement
+ 
+
+
+Our guidelines, your benefits! Individually:
+
+Say goodbye to ties and collars! Be yourself, because individuality is very important to us!
+
+Flexible:
+
+We do not cling to our ideas and structures - we are open to your ideas and suggestions!
+
+Motivated:
+
+Commitment and willingness to learn are more important to us than good grades and references!
+
+Optical:
+
+We always focus on solutions instead of problems. The glass is always half full!
+
+Open minded:
+
+We don't compete, we stick together as a team and that makes us strong!
+
+Respected:
+
+We respect each other - diversity is paramount!
+
+Have we sparked your interest?
+
+Would you like to work in an international and innovative company and benefit from personal and professional development measures?
+ 
+
+
+Then we would like to know more about you! We look forward to receiving your complete application, stating your salary expectations and your earliest possible starting date, to hr@horze.com, e.g. Hd. Judith Bertuleit.
+
+Your application should consist of at least these three components: A short letter of motivation (cover letter), your CV and proof of your degree, studies and/or previous job.
+ 
+You are welcome to do without the general application phrases in your cover letter and get straight to the point: What have you done so far, what are your personal strengths and what added value do you bring to the company. We look forward to seeing you!	Application programmer	None	2023-03-07 16:02:12.068000

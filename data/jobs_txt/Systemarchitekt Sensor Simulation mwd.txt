@@ -1,0 +1,39 @@
+6513	9118	Systemarchitekt Sensor Simulation (m/w/d)	Tasks:
+
+- Specifying and developing software architectures for distributed simulation systems, as well as supporting the development team in the implementation of complex sensor simulators
+
+- Modeling of software architectures
+
+- Consideration of modern virtualization technologies such as Docker, Kubernetes, Type 1 hypervisors such as VMware and RedHat
+
+- Optimization of the heterogeneous software ecosystem for high-performance computing
+
+- Analysis of system and customer requirements
+
+- Use of modern software technologies and tools such as Bitbucket, Bamboo, Nexus, JIRA
+
+- close coordination with the sensor department
+
+
+
+Profile:
+
+- Studies in computer science, software engineering, or a comparable subject
+
+- First professional experience in software architecture
+
+- Experience with model-based software / systems engineering and in virtualization technologies (container, hypervisor)
+
+- Experience in developing distributed simulation systems, HPC and parallel computing is an advantage
+
+- Knowledge of distributed software architectures (Ethernet, IP based interfaces)
+
+- A sense of responsibility, resilience and organizational skills as well as communication and team skills
+
+- proficient in German and English	Computer scientist (university)	Make a career...
+
+Are you an engineer, computer scientist, bachelor's, master's, technician m/f? Then make a career with ep at leading technical companies. Face the challenge that motivates you. And enjoy team spirit, diversity, security.
+
+We find your solutions. We continue to develop your potential in a targeted manner. We realize your visions: in engineering, application and testing, project management, IT.
+
+ep. your engineering company. supporting experts.	2023-03-07 16:03:55.066000

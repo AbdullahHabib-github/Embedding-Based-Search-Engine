@@ -1,0 +1,33 @@
+8971	11576	Software architect (f/m/various) for IoT and cloud-based applications at evosoft GmbH	Run a winning system. evosoft GmbH is an independent, 100% subsidiary of Siemens AG and sees itself as a pioneer for the development, integration, digitization and use of IT technologies of the future. We support our customers with innovative know-how and extensive experience in all areas of software development, automation, operation and innovation of applications as well as the design of applications for a variety of industries and processes. evosoft currently employs more than 2,100 people at various locations in Europe.
+Become part of our team now as a software architect (f/m/various) for IoT and cloud-based applications at evosoft GmbH in Nuremberg.
+Your new area of ​​responsibility – challenging and future-oriented
+- You will conceive and design cloud-based application solutions at the world's leading industrial group
+- You will work across domains in projects for building automation, in the field of e-mobility through to the productive operation of factories
+- As a software architect at evosoft GmbH, you not only act in the preparation and structuring of projects, but also support the technical implementation in cooperation with the entire team
+- You are the technical contact for the project team and develop business requirements in cooperation with external partners
+- You bring insights into your work environment with regard to new technical standards, design principles and architectural concepts and pass them on to other colleagues
+- You will work in a flexible and team where creativity is valued
+
+
+Your qualifications – well-founded and adequate
+- You have successfully completed a degree in business informatics, computer science or a comparable qualification
+- You have several years of experience in the conception, design and implementation of complex software solutions
+- You know different object-oriented programming languages ​​as well as the associated tools and frameworks
+- You have hands-on experience in the transfer of heterogeneous data sources (sensors, protocols, databases) into holistic software solutions and their integration into the target architecture
+- You have in-depth knowledge of the cloud (AWS, Azure) and are familiar with the tools and technologies used in this environment (e.g. Docker, Terraform, etc.)
+- You understand how to ideally structure a project with the help of secure programming methods, automated code management and versioning as well as quality assurance measures
+- You are able to convert ideas into technical solutions and to convince the customer using suitable methods
+- You have very good knowledge of German and English
+
+
+Your future employer - familiar and innovative at the same time
+- You work in a company that combines the innovative strength of a large corporation with the flexibility of a medium-sized company
+- You are part of a trusting corporate culture that promotes tolerant and open cooperation
+- You can perfectly harmonize your private life with your professional life through the trusted working hours and the use of mobile working
+- You get a perfect start at evosoft through an organized onboarding process
+- You benefit from a wide range of further training opportunities and benefits
+
+
+This is how you get in contact with us – simply and directly www.evosoft.com if you would like to find out more about evosoft before you apply +49 911 95827215 if you would like to clarify initial questions personally with our recruiting team. The contact person for this job advertisement is Florian Günther www.evosoft.com/karriere if you would like more information about the application process and our services for employees. evosoft GmbH values ​​equal opportunities. We welcome applications from people with disabilities.	Business IT specialist (university)	We create what others dream of
+Curiosity, passion, creativity - there are characteristics that apply to everyone who works at Siemens. And when 385,000 of those people work together, the results become extraordinary.
+We analyze, ask questions, find solutions, test and refine. From sketches on café napkins to 3D printed prototypes, we believe brilliant ideas can come from anywhere. Our employees drive their projects forward with passion. We develop and patent more than 7,500 inventions every year all over the world.	2023-03-07 16:08:56.314000

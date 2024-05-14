@@ -1,0 +1,34 @@
+4636	7241	Web Developer (m/w/d)*	Your VisionHey, Game Changer! Do you feel addressed? - Very good, then you've come to the right place.
+Do you believe in a world where cannabis is the connecting element between cultures and people? Are you passionate about changing the zeitgeist by pushing aside antiquated norms and cleaning up dusty stigmas? Does the idea of ​​accompanying a project from the first steps to global success excite you?
+
+Sounds good? Then help us to make the best team in the world at Bloomwell even better!
+Do you feel at home in software development and love to take on responsibility? Then you are exactly right with us! Give our customers a unique experience and an absolute feeling of well-being. Your tasks We are looking for someone who:
+ • understands the complexity of asynchronous systems and can work with them.
+ • Needs no guidance to set up or work with modern tech stacks. That means everything from testing, localization, tooling, CI pipelines etc.
+ • knows the Google Tag Manager and GA4 from the FF and can design and implement reliable tracking.
+ • Has no problem taking responsibility and making decisions to provide our users with the highest benefit at the lowest cost & risk.
+ • Emphasizes an iterative approach to solving problems and validating the value of the solution.
+ • has a high affinity for UI design and user experience and is not afraid to lend a hand in Figma
+ • Sees itself as a web developer and is not limited to individual programming languages. We are looking for people with good programming skills who can work on front-end, dev-ops and back-end problems. You are not expected to be a "guru" in every field, but you should not be afraid to learn something new. We have a diverse tech stack (Typescript, Node.js, React, Next.JS, Flutter, PHP, Golang, Wordpress, Shopify, etc.)
+ • is a critical thinker who loves finding solutions to an existing problem.
+ • is an excellent communicator and has good to very good knowledge of German and very good knowledge of English.
+ • ideally has relevant experience in e-commerce and performance-optimized websites
+ • has a good sense of design and likes to work in an agile environment
+ • is a good team player and wants to work with the team to advance the issue of destigmatizing cannabis
+ • You have good to very good knowledge of German and very good knowledge of English
+
+Your profile What we offer:
+ • Very varied areas of responsibility and work for our various companies
+ • Flat structures, you won't have the feeling of having a "boss".
+ • Transparency is a core value of the company
+ • Freedom to organize your day-to-day work. We're looking for people to tell us how to make the right decisions and do the right things.
+ • Scaling & Growth. Work in a top-notch team and learn from your teammates every day.
+ • We do not measure effort in "time" nor do we try to simply translate story points into time.
+ • We don't believe in tech debt / bug sprints. Tech debt will always exist, we identify problem areas and gradually fix them.
+ • No technology is final. We want to use the technology that makes sense for the problem. This can mean a mongodb for one service and a dynamo for another. We want you to be able to make these decisions independently.
+
+Why us? We offer you the unique opportunity to work in a fast-growing market, to turn an entire industry upside down and to shape it. You are not only part of the journey, you are part of it from the very beginning. You can contribute your ideas in an open and transparent atmosphere and implement them with a great deal of creative freedom.
+We don't want to steer clumsy, sluggish tankers, but drive sleek, fun jet skis to get to our clearly defined destinations. That's why we pay attention to flat hierarchies and short decision-making processes and rely on independence and flexible working hours without losing sight of our team members. We think that things work better together. In addition to an attractive salary, you can expect regular team events and many benefits, because for us these are just as much a part of it as our weekly check-ins.
+Bring your character and your ideas into the world of Bloomwell and become a trendsetter and game changer in the industry.
+
+* For reasons of better legibility, the masculine form is used for personal designations and personal nouns on this website. Corresponding terms apply in the sense of Eq	Web Developer	None	2023-03-07 16:00:04.135000

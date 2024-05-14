@@ -1,0 +1,38 @@
+3510	6115	Informatiker - Consulting Service Management (m/w/d)	For dmTECH, the IT subsidiary of dm-drogerie markt, we are looking for a:
+Technical Consultant Service Management (f/m/d)
+In the dm group, we are the experts for IT-side support for all aspects of service management. We advise the colleagues in the various service teams on the efficient design of their processes. Furthermore, we ensure trouble-free operation and the constant further development of the group-wide IT service management infrastructure.
+
+What do you do as a consultant at dmTECH? Here's a little insight.
+
+If you would like to support our team in exciting IT projects related to service management, we look forward to receiving your application.
+
+You don't live in the Karlsruhe region? No problem! If you are interested, it is possible to work almost exclusively remotely.
+Design and support of the automation processes and interfaces around the service management platform ServiceNow
+Requirements management, technical advice from our consultants as well as coordination with development and support for implementation
+Ensuring and controlling an agile, customer-oriented further development of ServiceNow applications and interfaces from the conception to the qualified documentation
+Administration of the ServiceNow platform
+Support of release management including deployment, troubleshooting and bug fixes
+ 
+A successfully completed degree related to IT or several years of professional experience in the IT environment
+Experience in the administrative handling of IT platforms (preferably ServiceNow) is an advantage
+Affinity for agile software or web development, ideally basic knowledge of JavaScript
+Basic knowledge of cloud systems and network administration desired
+Independent and systematic way of working as well as a strong ability to work in a team and humor
+Target group-oriented communication in German (at least C1)
+ 
+
+Attractive working conditions: With flexible working hours and mostly mobile work, a 37.5-hour week and 30 vacation days, we enable a good work-life balance.
+
+Modern company headquarters: Bright office space, height-adjustable tables, the latest technology and a staff restaurant - our dialogicum offers ideal conditions for your working day thanks to innovative equipment and intelligent concepts.
+
+Optimal transport connections: Located in the immediate vicinity of the motorway, an S-Bahn station and the Durlach DB train station, we are very easy to reach by car and train. There is also a free parking garage and a bicycle garage, each with electric charging stations.
+
+Dialogical corporate culture: Our working group is characterized by mutual exchange at eye level, dynamism and flat hierarchies. A central component of our culture of cooperation is personal responsibility.
+
+Participation and development: Everyone can get involved and contribute to advancing topics. We offer a wide range of further training opportunities for your personal and professional development.
+
+Further advantages and additional services: Benefit from further services such as e.g. B. Employee discount, bicycle (job bike) and IT leasing, holiday and Christmas bonuses and company pension schemes.
+
+
+CONTRACT TYPE
+Full-time, unlimited, starting immediately	Computer scientist (university)	None	2023-03-07 15:57:45.020000

@@ -1,0 +1,32 @@
+3540	6145	Development engineer electrical engineering, mechatronics - optics	About Us
+
+At NanoTemper, our vision is to create a world where every disease is treatable.
+Working with scientists drives us because it allows us to make a real difference in the world and make an impact.
+With our biophysical tools, we aim to push the boundaries of what is possible for scientific researchers.
+Our goals are ambitious - to achieve them, you need innovative approaches and a strong team.
+
+Even though we are an expanding, global company with more than 200 employees, the heart of NanoTemper beats in Munich.
+This is where our story began and this is where we work as a team every day to make our devices even better.
+Just 500 meters from the current company headquarters, a new headquarters is currently being built, which is geared to NanoTemper's future requirements and growth plans.
+
+Our doors are open to talented people who are passionate about the future of scientific research and our vision.
+Would you like to make a difference with your daily work and become part of our mission? We are looking forward to meeting you.
+
+
+Development engineer electronic devices (m/f/d)
+
+Permanent position, full-time · Munich Together with our team in prototyping, you will work on the development and optimization of our optical measurement technology. Your focus will be on the continuous development of components in the field of optics and optoelectronics.
+
+
+
+Assistance in building prototypes
+Design and prototyping in CAD software
+Apply and create measurement scripts using Python
+Implementation, evaluation and analysis of measurement series using Python
+ 
+Studies in the field of electronics, mechatronics, embedded systems or a comparable field of study
+Experience in programming with Python
+First experience in the field of optical measurement technology
+Interest in setting up experimental measurement systems and process optimization
+First contact with a CAD software, ideally Solidworks
+Very good knowledge of spoken and written German and English	Engineer - electrical engineering	None	2023-03-07 15:57:48.726000

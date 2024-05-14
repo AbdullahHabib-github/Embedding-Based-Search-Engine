@@ -1,0 +1,39 @@
+6231	8836	Employee in network and firewall administration	Welcome to the team as
+
+Employee in network and firewall administration
+
+The company:
+
+Commerzbank is the leading bank for SMEs and, with a comprehensive portfolio of financial services, is a strong partner for corporate customer groups as well as private and small business customers in Germany. We are a bank that is characterized by treating each other and our customers fairly and in a spirit of partnership. We value working in inspiring teams of people with diverse backgrounds. We offer you a creative environment and excellent development opportunities. Work-life balance is very important to us. And of course we know that a good job also requires attractive pay.
+
+
+Task:
+
+The network and firewall administration looks after the network and firewall infrastructure of the comdirect systems. We rely on regular updating of all systems in order to provide a modern, stable and high-performance network.
+Your tasks include the main focus
+
+- Design and further development of the firewall and network infrastructure
+- Configuration, administration and support of the firewall and network systems as well as monitoring via the manufacturer's analysis tools
+- Conceptual planning and participation in IT projects
+- Recognition, analysis and elimination of error and problem situations in the 2nd level
+- Communication and cooperation with external service providers
+
+
+Profile:
+
+- Successfully completed studies in computer science or comparable IT training
+- Pronounced knowledge in the administration of network and firewall systems
+- Sound knowledge of network monitoring systems
+- Extensive experience in a complex system landscape
+- Good knowledge of automating configuration and monitoring data using scripts
+- Independent, solution- and result-oriented way of working with structured work organisation
+
+
+Contact:
+
+Are you ready to start immediately in a strong team? Then we look forward to receiving your online application via www.commerzbank.de/karriere. If you have any questions, Adriane Studt, Network & Communications Group Manager, will be happy to answer them on +49 4106 704 1241.	Computer scientist (university)	Please only apply online at: www.azubi-commerzbank.de
+
+Free applicant hotline: Tel: 0800 1010159
+(Monday to Friday from 08:00 to 18:00)
+
+Commerzbank is a leader in private and corporate customers in Germany. With around 1,200 branches, Commerzbank will have one of the densest branch networks of any German private bank. It has around 60 locations in 52 countries and serves almost 15 million private and 1 million business and corporate customers worldwide.	2023-03-07 16:03:20.722000

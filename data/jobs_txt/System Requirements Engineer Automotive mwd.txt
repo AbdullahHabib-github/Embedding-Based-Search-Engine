@@ -1,0 +1,39 @@
+6539	9144	System Requirements Engineer Automotive (m/w/d)	Tasks:
+
+- Analysis, evaluation and clarification of customer / standard requirements in the field of automotive control units
+
+- Conception of system functions according to customer requirements
+
+- Working according to ASPICE and supporting the system test team in defining test cases
+
+- Responsible for specification of the defined system functions through technical system requirements and ensuring the traceability of customer requirements
+
+- Breakdown of system requirements, test evaluations and test analysis
+
+- Assistance in preparing the offer
+
+- Participation in interdisciplinary change management meetings
+
+
+
+Profile:
+
+- Degree in electrical engineering, mechatronics or a comparable subject
+
+- Several years of experience in the field of development in the automotive environment
+
+- Knowledge of control unit architecture, especially communication ECU. Security features an advantage
+
+- Knowledge of DOORS, JIRA
+
+- Knowledge of the Autosar principles and architecture, ASPICE processes an advantage
+
+- high team spirit, flexibility and resilience
+
+- Very good knowledge of German and good English	Engineer - mechatronics	Make a career...
+
+Are you an engineer, computer scientist, bachelor's, master's, technician m/f? Then make a career with ep at leading technical companies. Face the challenge that motivates you. And enjoy team spirit, diversity, security.
+
+We find your solutions. We continue to develop your potential in a targeted manner. We realize your visions: in engineering, application and testing, project management, IT.
+
+ep. your engineering company. supporting experts.	2023-03-07 16:03:58.222000

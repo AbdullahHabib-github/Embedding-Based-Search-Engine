@@ -1,0 +1,29 @@
+9224	11829	Senior Requirements Engineer:in	Deutsche Bahn has a fundamental concern: getting more traffic onto the rails - for the climate, for people, for the economy and for Europe. With the "Strong Rail" strategy, we are creating the conditions for this and we need you on this path. You contribute to developing the best solutions for our users and customers and at the same time do good for the environment by helping to make local rail passenger transport more efficient. In this way you help to shape the traffic turnaround. As a senior requirements engineer, you represent a mainstay in the implementation of this strategy and use your technical understanding and skills as a multiplier.
+
+We are looking for you as a Senior Requirements Engineer Analytics-AI for the DB Regio business unit in Frankfurt am Main as soon as possible.
+Your tasks:
+
+- You are responsible for the implementation of digitization projects in the areas of big data and advanced analytics
+- With your technical knowledge of cloud computing and AWS in the enterprise environment, you analyze the requirements for the data products with your clients and design them using synergies along IT governance guidelines
+- You define the data pipelines for our analytics platform, develop new data sources and describe them in terms of content and technology together with the interface partners and our data engineering and ensure data quality
+- In addition, you record and describe the requirements for the analysis of large amounts of data both as batch and in streaming
+- You use suitable innovation methods for requirements assessment, the development/testing of prototypes and for the transfer to standard processes
+
+
+Your profile:
+
+- The basis of your career is a completed (technical) university degree in (business) computer science, a comparable qualification or relevant, successfully completed training with several years of professional experience
+- You have many years of professional experience as a business analyst, software or data engineer or in a similar position
+- You have experience in dealing with AWS and know typical components that are used in the Data Lake, ETL / ELT Processing and Workflow Automation environment
+- You have a good knowledge of best practices related to prototyping, MVP, POC and testing
+- Your profile is rounded off with fluent German skills, both spoken and written
+- If you don't know our entire tech stack, we still want to get to know you if you have experience with comparable analytics/AI cases and tools
+
+
+your advantages
+* You achieve great things and get nothing less in return: a salary package that is customary in the market, usually with permanent employment contracts and job security, as well as a wide range of fringe benefits and a company pension scheme.
+* We support you in your search for daycare places or holiday care for your children. You can also take time off to care for family members or take sabbaticals. Depending on the job, a flexible arrangement of working hours and location is possible.
+* Fascinating projects and tasks - from the digitization of a large corporation to the project of the future railway - demand your skills and are waiting for your handwriting.
+
+Equal opportunities and self-determined participation of the severely disabled and equals as well as respectful cooperation are firmly anchored principles within the DB Group. For this reason, severely disabled and equal applicants will be given preference if they are equally qualified.
+In addition, we aim to offer all candidates the same opportunities for starting a career and for training and further education, regardless of social or ethnic origin, gender, religion or belief, age or sexual identity and orientation. We consciously promote diversity and cooperation in our teams.	Computer scientist (university)	None	2023-03-07 16:09:27.347000

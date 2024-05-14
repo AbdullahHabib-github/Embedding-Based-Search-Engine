@@ -1,0 +1,43 @@
+4060	6665	Systemadministrator Core Infrastructure (m/w/d)	full time | Indefinite | Graduates / professionals
+ Reference number: 2711
+
+## About Us
+
+United Internet is a leading European Internet specialist with successful brands such as 1&1, GMX, WEB.DE, IONOS, STRATO and 1&1 Versatel. Around 10,000 employees look after around 67 million user accounts in 18 countries.
+
+## Your tasks
+
+Based on the core infrastructure operated by our "Microsoft Core Infrastructure" (MCI) team, our colleagues from all areas of the company work together every day. Examples of this are Windows workstations, virtual or physical Windows servers, MSSQL databases, MS Teams or MS Exchange.
+
+As part of our team, you will be responsible for the administration of the Windows servers and cloud services as well as the secure and highly available operation of our Windows systems.
+
+Your core tasks lie in the following areas:
+
+- Conception, implementation, operation and documentation of existing and new infrastructure solutions in the Microsoft environment with a special focus on information security.
+- Competent contact person for all questions relating to the Windows server infrastructure in the integration of existing as well as in the implementation of new systems and advice for our internal stakeholders.
+- Interpretation, tracking and resolution of security reports from monitoring and security systems, as well as the results of security analysis.
+- Automation of activities through scripts based on Powershell.
+- Participation in cross-team projects with a focus on Microsoft on premises as well as cloud infrastructure and IT security.
+
+## That's what we wish for
+
+You have practical experience in dealing with Windows servers and ideally you are already confident in dealing with System Center products (SCCM, SCOM, SCVMM, SCDPM). In addition, you have in-depth knowledge of the Active Directory/Azure Directory environment and are familiar with its protection mechanisms. Knowledge of the Microsoft terminal server environment in connection with Citrix products is desired.
+
+- Experience in virtualization with HyperV (AHCI/S2D).
+- Quick comprehension of possibilities, limits, advantages and disadvantages of new technologies as well as pleasure in goal-oriented, professional exchange and in setting impulses.
+- Reliable, responsible and structured way of working, problem-solving skills, hands-on mentality and the ability to persuade and assert yourself as well as a cooperative demeanor.
+- Very good knowledge of German and good English.
+
+What else do we want to tell you?
+
+## Best perspectives and attractive benefits.
+
+Our teams are the basis of our corporate success. As an employer, we offer our employees a future-proof job with a variety of tasks and exciting projects.
+
+- Our corporate culture: flat hierarchies, transparency and short decision-making processes.
+- Individual further development opportunities: diverse training courses, e-learning courses and internal communities on a personal and professional level.
+- Advantages and additional services: discounts on own products, JobRad, corporate benefits and company pension schemes.
+- Attractive working conditions: Flexibility through trust-based working hours and opportunities for mobile working.
+- Signing of the Diversity Charter: active promotion of diversity in our working world.
+
+We value diversity and welcome all applications - regardless of e.g. gender, nationality, ethnic and social origin, religion, disability, age as well as sexual orientation and identity, physical characteristics, marital status or any other irrelevant criterion under applicable law.	IT-System administrator/in	None	2023-03-07 15:58:52.780000

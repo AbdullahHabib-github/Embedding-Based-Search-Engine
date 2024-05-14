@@ -1,0 +1,27 @@
+4064	6669	IT employee data center monitoring (m/f/d)	Location: Dresden, Munich - Loristraße | Area: IT | Department: Data Center | Entry level: Professionals
+
+Our "Service Control Center" (SCC) team is responsible within BG-Phoenics for comprehensive system and data center monitoring. This includes homogeneous, centralized operational monitoring including pre-qualification in the event of operational and service disruptions. The responsibilities are both reactive (e.g. error handling) and proactive (e.g. with the aim of adapting to resource requirements at an early stage).
+
+## Your area of ​​responsibility:
+
+- As part of service and job controls in a complex IT environment, you ensure smooth processes in the operation of the data center.
+- You will also be responsible for monitoring and trending the IT infrastructure and building technology.
+- You will process incidents that affect the data center, proactively prevent them from reoccurring and independently correct errors or pre-qualify them for the specialist teams.
+- You will also be involved in the processes of change and service level management.
+- You take on defined regular activities, e.g. in change and patch management or in batch processing.
+- The creation of reports, e.g. for the specialist departments and management, as well as the identification and anchoring of improvement measures, e.g. B. in the field of monitoring or automation, complement your task profile.
+
+## Your profile:
+
+- You have successfully completed vocational training in a relevant IT profession or a degree with an IT focus.
+- You also have knowledge of Cisco, VMware, Citrix, Red Hat Enterprise Linux, databases, etc. and technical understanding.
+- You are familiar with the common MS Office products; ITIL knowledge is desirable.
+- You are characterized by an independent, structured, analytical and result-oriented way of working as well as personal responsibility, team spirit and commitment.
+- You also have organizational and communication skills.
+- You will also be willing to work in shifts (our current shift hours are 5:00 a.m. to 8:00 p.m.) and be on call.
+
+## We offer:
+
+You will be trained intensively in this demanding task. If necessary, the training will be accompanied by appropriate seminars. A motivated team, an open corporate culture in which ideas and new approaches are welcome, attractive remuneration with the corresponding social benefits of a modern company, the opportunity to work on the move and interesting further training opportunities are waiting for you!
+
+Would you like to find out more about BG-Phoenics or do you have questions about the vacancy? Then simply get in touch with your contact person in recruiting, Ms. Maria Horsonek - she can be reached at: +49 (0)511 89879-200. She is at your disposal for your questions.	IT-System administrator/in	None	2023-03-07 15:58:53.268000

@@ -1,0 +1,46 @@
+9733	12338	Test and quality manager (f/m/d)	Would you like to help shape the operations of DB Netz AG of tomorrow? Here
+you can do it: Together we are developing the personnel scheduling system of
+several thousand operational staff in signal boxes and
+Operations centers further, you will become a driver for innovative solutions
+and get a unique chance. As soon as possible
+we are looking for you as a consultant: in test and quality management (f/m/d) for
+DB Netz AG at the Frankfurt (Main) location.
+
+
+*Your tasks:*
+
+
+
+· You control the technical development and implementation of test management
+and quality assurance as part of the introduction of the new
+Personnel Scheduling System
+· You take into account relevant professional and technical aspects
+Requirements
+· In the development and implementation of test and
+You play a key role in quality assurance concepts
+· You organize and carry out technical acceptance tests
+· You create test cases, develop them further and provide them
+appropriate documentation
+· The coordination of the implementation of measures and the relevant
+IT service providers are responsible for you and for the implementation of
+You participate in the risk analysis
+
+
+
+*Your profile:*
+
+
+
+You have a university degree, e.g. in business informatics,
+successfully completed or have a comparable one
+Vocational training with relevant practical experience
+· In addition, you bring experience in planning, implementation and
+Evaluation of tests of complex IT systems, including quality management
+· Ideally, you have knowledge and experience in the field
+test automation
+· Ideally, you already knew your agile mindset practically
+prove
+· You enjoy familiarizing yourself with new topics and bring one
+pronounced initiative with
+· You are performance-oriented and are characterized by a high level of commitment
+and willingness to assume responsibility	IT quality assurance coordinator	None	2023-03-07 16:10:29.831000

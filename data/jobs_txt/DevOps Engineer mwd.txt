@@ -1,0 +1,31 @@
+6591	9196	DevOps Engineer (m/w/d)	Aufgaben: 
+	
+- technical responsibility for the toolchain 
+	
+- comprise the technical implementation of DevOps principles 
+	
+- automation of tasks in the support and operations domain to ensure the reliability and availability of the toolchain
+	
+- guide the development themes on how to apply DevOps best practices in cloud-native environments
+
+
+
+Profil: 
+	
+- University degree in business information technology, information systems, computer science or business with a focus on software/IT or comparable qualification
+	
+- work experience in system management and in the loT domain
+	
+- strong expertise in deployment, integration, configuration management and fixing of issues for cloud-native technologies such as Kubernetes, Linkerd, Prometheus, Grafana
+	
+- good understanding of implementation and maintenance of modern distributed development tool chains
+	
+- willingness to travel internationally
+	
+- fluent in English	Business IT specialist (university)	Make a career...
+
+Are you an engineer, computer scientist, bachelor's, master's, technician m/f? Then make a career with ep at leading technical companies. Face the challenge that motivates you. And enjoy team spirit, diversity, security.
+
+We find your solutions. We continue to develop your potential in a targeted manner. We realize your visions: in engineering, application and testing, project management, IT.
+
+ep. your engineering company. supporting experts.	2023-03-07 16:04:04.624000

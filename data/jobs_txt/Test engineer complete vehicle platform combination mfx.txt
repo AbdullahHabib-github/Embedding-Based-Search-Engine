@@ -1,0 +1,43 @@
+4857	7462	Test engineer complete vehicle platform combination (m/f/x)	Hardly anything motivates as much as success. Da Vinci Engineering is committed to the success of its employees. Become a part of us!
+
+Test engineer complete vehicle platform combination (m/f/x)
+
+Job ID: 18070
+Location: Bietigheim-Bissingen
+
+
+We are looking for smart and innovative employees for customers like Mercedes-Benz, Porsche and Bosch who want to make a difference. If you would like to work in a dynamic team with flat hierarchies, we look forward to seeing you!
+
+Your tasks:
+ - Planning, preparation, implementation and evaluation of networking and composite tests at the overall vehicle level
+ - Tests on vehicles with conventional and alternative drives and conventional or current EE architecture
+ - Conducting complex automated individual and system tests on a lab car or prototype
+ - Conducting compound tests and automatic error analysis at the application and protocol level
+ - Validation of automated error analysis scripts and test automations
+ - Review, evaluation and further development of measurement setup and test methodology
+ - Clarification of technical questions and coordination with internal and external partners
+
+Your profile:
+ - Successfully completed master's degree in engineering with a focus on vehicle technology, computer science or electrical engineering
+ - Professional experience in the automation and programming environment
+ - Ideally, initial experience in the field of diagnostics and system testing as well as in project work
+ - Experienced handling of the corresponding measurement technology (Vector CANoe, ETAS) and knowledge of using evaluation tools for trace data
+ - Excellent analytical skills
+ - High service orientation as well as team and communication skills
+ - Very good knowledge of German and English
+
+It awaits you...
+- Experience in exciting and international projects
+- Continuous salary development
+- Da Vinci Corporate Benefits
+- Training on the job and language courses
+- Appreciation, motivation and commitment
+
+Contact details for job advertisement
+Ms. Tiziana Guttaiano
+Da Vinci Engineering GmbH
+Hauptstätter Strasse 149
+70178 Stuttgart
++49 711 72240 108
+job@davinci.de
++49 711 72240 198	Engineer - electrical engineering	Temporary employment, work contracts and direct placements. We are looking for engineers and commercial employees.	2023-03-07 16:00:31.399000

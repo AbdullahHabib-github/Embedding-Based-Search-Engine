@@ -1,0 +1,62 @@
+3509	6114	Computer scientist - IT administration, virtualization desktops	As a central IT service provider for the federal administration, we as the ITZBund offer our currently more than 4,000 employees varied and diverse fields of activity at twelve locations nationwide. Our employees work at the pulse of digitization and thus generate added value for society. In addition to an exciting job with social relevance, as a modern employer in the public sector, we offer you an appreciative and open working atmosphere.
+
+
+Get to know us and become part of our team as:
+
+
+IT administrator (f/m/d) for Citrix desktop virtualization
+
+Authority/Organization: Federal Information Technology Center
+Offices: Berlin, Düsseldorf, Cologne, Ilmenau, Nuremberg, Hamburg
+Reference code: Z7-P1464-5-07/23-e
+ 
+Your future tasks are located in Department V, which is responsible for operating the clients. The Client Virtualization department operates the virtualization infrastructures for the IT workstations of the ITZBund and its customers. On this basis, the department provides both virtualized applications and virtualized desktops.
+
+
+Experienced colleagues will familiarize you with new challenges and tasks. Teamwork and mutual support are valuable assets for us in our day-to-day work. We look forward to you strengthening our team.
+
+
+
+We are looking for you as an IT administrator (f/m/d) to provide further professional support for client virtualization with the following main tasks:
+
+
+
+Operation, installation, maintenance and administration of the virtual desktops based on Citrix products
+You provide, configure and administer complex system environments for desktop virtualization.
+We look forward to your support in the strategic further development of our services, taking into account the requirements of IT consolidation, customer requirements and the current security requirements.
+You will be involved in small to medium-sized IT projects.
+We count on your support in ensuring IT operations (system monitoring, error analysis, 2nd/3rd level support).
+You will also coordinate and control external employees.
+You will be involved in the design and optimization of process flows.
+Patch management, reporting, operational control and monitoring according to ITIL complete your new area of ​​responsibility.
+ your required qualifications
+
+
+
+You have successfully completed a university of applied sciences or bachelor's degree with a relevant IT connection or will soon be completing this successfully. We welcome applications from young professionals.
+Or: You have proven, equivalent skills and experience of at least 3 years in the relevant job profile.
+Or: You are a civil servant in the career of the higher civil service in the BesGr. /A 9g to A 11 BBesO.
+
+
+
+You will also bring with you the following professionally:
+
+
+
+You have very good knowledge and ideally practical experience in the planning, construction, operation and administration of virtual desktop environments (Citrix Virtual Apps and Desktops).
+Good knowledge of Microsoft Active Directory, group policy management and DNS round off your profile.
+Desirable are knowledge and ideally already experience in software distribution and packaging (e.g. MECM).
+At best, you have already gained experience in the processes of IT operations.
+You have a good understanding of processes according to ITIL and have knowledge of the corresponding ITSM tools.
+
+
+
+What distinguishes you personally:
+
+
+
+Analytical thinking is not a big challenge for you.
+You show initiative and take personal responsibility.
+You meet your tasks with achievement motivation.
+They have resilience and stress resistance.
+S...	network administrator	None	2023-03-07 15:57:44.897000

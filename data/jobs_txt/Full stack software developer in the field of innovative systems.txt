@@ -1,0 +1,17 @@
+480	3085	Full stack software developer in the field of innovative systems	- You design and develop desktop, web and/or mobile applications and thus create the basis for our experts to make their contribution to safety and environmental protection in the areas of industry and buildings
+- The development of interfaces for smooth networking with the IT infrastructure within TÜV SÜD and with our customers is one of your regular tasks
+- You plan tests, carry them out and ensure uniform and complete documentation
+- By realistically estimating implementation costs and helping to meet quality, deadline and cost targets, you support the team in successfully carrying out exciting projects
+- You keep up to date with the latest technologies, share your knowledge with the team and apply it where appropriate
+- The support of our users, and thus your colleagues, is important to you
+
+- Completed degree in computer science, electrical engineering or a comparable course or technical training with relevant professional experience
+- Sound knowledge of C# and software development with Visual Studio
+- Good knowledge of the cloud (Microsoft Azure) and frontend and backend development
+- Further knowledge of at least one of the following technologies is an advantage: .NET 6, .NET 5, ASP.NET Core, MVC, MAUI, Xamarin Forms, SPA Frameworks, Entity Framework, MS SQL, Azure Services, Search Engines
+- Experience in the implementation of projects with agile and classic working methods
+- Excellent teamwork combined with the ability and willingness to innovate and a high sense of responsibility
+- Good knowledge of spoken and written German and English
+
+Become part of a great team and support our experts in their daily work to make the world a little bit safer. You can expect an exciting, varied range of tasks, communication at eye level and a team that supports, challenges and encourages each other. In addition to your personal and professional development, it is important to us that you feel comfortable outside of the actual working environment. A subsidized canteen, a job ticket, flexible working hours with the possibility of mobile working are just as much a matter of course for us as corporate benefits, permanent employment contracts and a company pension scheme.
+We also offer qualified career starters and lateral entrants the opportunity to start their careers with development opportunities.	Business IT specialist - IT systems	None	2023-03-07 15:51:31.651000

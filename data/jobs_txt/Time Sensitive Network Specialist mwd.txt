@@ -1,0 +1,31 @@
+5174	7779	Time Sensitive Network Specialist (m/w/d)	Time Sensitive Network Specialist (m/f/d)
+
+Your tasks:
+
+-Supporting the development of software-defined networking products for the continuous development of cyber-physical systems such as software-defined vehicles.
+-Design and implementation of a software defined networking controller and components for complex, distributed embedded real-time systems with container orchestration.
+-Identification and analysis of industry standards and research in the field of Software Defined Networking.
+- Work in an agile development team (SCRUM)
+
+Your qualifications:
+
+-Understanding the architecture and design patterns of embedded real-time systems
+-Experience with architectural modeling tools (e.g. Enterprise Architect with UML)
+- Mastery of C/C++, RUST knowledge is an advantage
+-Experience with Ethernet networks
+- Knowledge of Software Defined Networking technology such as Yang, Netconf, CoreConf, CBOR would be an advantage
+- Knowledge of Embedded Networking, eBPF, Data Plane Development Kit, Cillium, Container Network Interface CNI is an advantage
+-Experience in developing real-time software for automotive, robotics, aerospace or similar systems would be an advantage
+-Knowledge of various embedded environments such as Free RTOS, Linux, Autosar Classic, QNX, Linux, VxWorks would be an advantage
+
+Your advantages:
+
+- Varied work in a renowned company
+- Annual leave entitlement of 30 days
+-You benefit from exclusive access to interesting companies and exciting projects in cooperation with Hays as a solid and stable partner
+
+About Hays:
+
+With our many years of recruiting experience and our knowledge of the engineering personnel market, we offer specialists and managers from engineering and the technical environment a strong partnership. Because through our intensive relationships and networks across all industrial sectors, we can arrange exciting projects and attractive positions for you as engineering specialists. Depending on your interests and your experience and qualifications.
+You benefit from professional support from the first contact to the start of your new project or your new position - and of course this is completely free of charge.
+Register and look forward to interesting and suitable positions and projects.	network administrator	Hays plc is one of the world's leading personnel service providers for the recruitment of highly qualified specialists. Hays is active in both the private and public sectors and provides specialists for permanent positions, project work and temporary employment. The company employs more than 11,000 people in 33 countries worldwide and generated sales of EUR 6.50 billion in the 2017/2018 financial year. In Germany, Hays places specialists in the areas of IT, engineering, construction & property, life sciences, finance, sales & marketing, legal, retail and healthcare.	2023-03-07 16:01:10.413000

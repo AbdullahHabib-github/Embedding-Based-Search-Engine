@@ -1,0 +1,20 @@
+3590	6195	PhD student biophysics - measurements in the time domain (m/f/d)	Research institute of the Free State of Thuringia and affiliated institute of the TU Ilmenau. As part of the research profile "Biotechniques at Interfaces", topics of application-oriented research in the field of technical systems for the life sciences are dealt with. The central research focus focuses on the engineering of molecular and cellular processes for disease modeling and therapeutic approaches for patient-specific medicine. The investigation, modification and application of interfaces and interface effects aims to optimize high-throughput methods and other processes, systems and products for medicine, biotechnology and related areas.
+
+As part of a DFG project, we are looking for highly motivated employees to fill the following position: Working topic: Electrical impedance tomography based on measurements in the time domain
+
+Adaptation of an impedance tomograph for measurements in the time domain
+Creation of routines for solving an inverse problem based on relaxation parameters
+Carrying out measurements on test objects
+Theoretical determination of the confidence intervals for the developed technique
+Documentation and successful completion of a doctorate
+ 
+University degree in biophysics, electrical engineering, bioinformatics or comparable disciplines
+Good knowledge of signal processing and finite element calculations
+Ability to work in a team, commitment and a sense of responsibility
+Experienced handling of Matlab, Python, MS Office applications
+Good communication skills in German, basic knowledge of English (spoken and written)
+ We offer you a varied, promising and independent field of activity in an interdisciplinary and internationally networked research institute. You will encounter an open and collegial research landscape with a wide range of professional and personal development opportunities. You can rely on a highly motivated team of scientists from various disciplines.
+
+The iba guarantees professional equality and supports the compatibility of family and career, e.g. with flexible working hours within the framework of the official possibilities.
+
+The position is remunerated according to TV-L (88%) and is limited to 36 months. In the case of equal suitability and fulfillment of the above requirements, applicants with a recognized disability according to § 2 SGB IX will be given preferential consideration.	Physicist	None	2023-03-07 15:57:54.869000

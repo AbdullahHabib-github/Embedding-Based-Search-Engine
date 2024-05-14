@@ -1,0 +1,50 @@
+3515	6120	Business IT Specialist - Process Mining, Machine Learning	Location: Nuremberg
+
+
+
+
+Research Associate - Process Mining and Machine Learning
+
+The Fraunhofer-Gesellschaft (www.fraunhofer.de) currently operates 76 institutes and research facilities in Germany and is the world's leading organization for application-oriented research. Around 30,000 employees work on the annual research volume of 2.9 billion euros.
+
+
+Do you find the future topics of analytics and artificial intelligence exciting and are you particularly interested in the analysis and forecasting of processes using process mining and machine learning?
+
+
+Then become part of the "Process Intelligence" group in the "Analytics" department at our Nuremberg location!
+ 
+You research process mining techniques and machine learning methods and apply them in projects (particularly from public sponsors, e.g. BMBF, BMWK, Bavaria, EU).
+You develop innovative ideas and new solutions for data-based analysis and forecasting of processes.
+With us, you will implement new methods of process-conscious learning for industrial partners in practical applications in production and logistics.
+You exchange technical information at the interfaces of predictive process analysis to data science and mathematical optimization and supervise student assistants.
+ 
+University degree in (business) computer science, (business) mathematics or similar with a focus on data science or statistics
+Experience in the application of machine learning methods for the analysis of sequential data and interest in the research area of ​​predictive process analysis (predictive process mining)
+Good knowledge of statistical programming languages ​​such as R and Python
+Good knowledge of German and very good English
+
+
+Also desirable are:
+
+
+
+First experience in dealing with large, sequential data sets (Big Data) and in the development of prototypical user interfaces (e.g. Shiny App, Streamlit)
+Basic knowledge in process management, in particular process modeling in production and logistics
+
+
+The position is also suitable for young professionals with relevant prior knowledge and experience from internships, student research projects or theses. In addition, if you are interested and have the appropriate qualifications, you have the opportunity to do a doctorate.
+ Fraunhofer is not only the largest organization for application-oriented research in Europe, we have also been recognized as a »TOP 1 employer«. But why actually?
+
+
+
+We enable equal opportunities: Our female scientists are supported, for example, by the "Fraunhofer TALENTA" funding and development program.
+We take your needs seriously: We support the best possible compatibility of your professional and private life with flexible time and hybrid work.
+Our employees enjoy our appreciative culture: We are open, helpful and maintain a trusting relationship with one another.
+Your goals and interests are important to us: We support you regularly with professional and personal seminars, coaching and language courses.
+
+Practical projects with creative freedom motivate our employees to drive innovation forward.
+We create space for encounters: Sports activities on site and remotely, events and common rooms bring our employees together.
+
+We value and promote the diversity of skills of our employees and therefore welcome all applications - regardless of age, gender, nationality, ethnic and social background, religion, ideology and disability. People with disabilities are given preference if equally qualified.
+
+The weekly worktime is 39 hours. The position can also be filled part-time. In your application, please indicate how many hours you would like to work. The position is limited to 2 years...	Business IT specialist (university)	None	2023-03-07 15:57:45.644000

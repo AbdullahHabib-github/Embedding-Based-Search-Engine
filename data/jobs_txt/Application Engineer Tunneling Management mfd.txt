@@ -1,0 +1,35 @@
+5166	7771	Application Engineer Tunneling Management (m/f/d)	Development and application engineer eDrive propulsion management (m/f/d)
+
+Your tasks:
+
+-Functional development and application of the software features or functions in eDRIVE propulsion management
+-Use in the propulsion management function modules for creep, recuperation, HMI, operating strategy and ESP interface
+-Application for "eDRIVE drivability" taking into account technical compliance and Q group processes
+-Requirements and assignment of functional changes and extensions in the standard software for tunneling management in the cooperation model with external partners
+-Release of responsible functions, labels, parameters and data in the relevant systems and tools
+-Commissioning and continuous validation of the functions and features in the development environments SiL, HiL, test bench and vehicle
+- Carrying out test drives, trials and exams at home and abroad and documenting all work results
+
+Your qualifications:
+
+- Completed studies in the field of mechanical engineering, automotive engineering, electrical engineering, computer science or comparable training
+-Professional experience in the development and application of functional software, preferably in the area of ​​propulsion management eDrive
+-System understanding in the control unit and software network eDRIVE
+-Experience in the area of ​​the corresponding tool world such as CANape, INCA, MatLab, Targetlink etc.
+- Excellent communication skills and teamwork in an agile environment
+- Willingness to travel at home and abroad
+
+Your advantages:
+
+-Remuneration according to one of the most attractive collective agreements in the industry (iGZ)
+- Annual leave entitlement of 30 days
+-Generous working time account with the possibility of payment from a certain number of hours
+- Subsidies for direct insurance (as a company pension scheme)
+-Professional and trusting cooperation
+-Annual employee events
+
+About Hays:
+
+With our many years of recruiting experience and our knowledge of the engineering personnel market, we offer specialists and managers from engineering and the technical environment a strong partnership. Because through our intensive relationships and networks across all industrial sectors, we can arrange exciting projects and attractive positions for you as engineering specialists. Depending on your interests and your experience and qualifications.
+You benefit from professional support from the first contact to the start of your new project or your new position - and of course this is completely free of charge.
+Register and look forward to interesting and suitable positions and projects.	Application-Engineer/-Manager/in	Hays plc is one of the world's leading personnel service providers for the recruitment of highly qualified specialists. Hays is active in both the private and public sectors and provides specialists for permanent positions, project work and temporary employment. The company employs more than 11,000 people in 33 countries worldwide and generated sales of EUR 6.50 billion in the 2017/2018 financial year. In Germany, Hays places specialists in the areas of IT, engineering, construction & property, life sciences, finance, sales & marketing, legal, retail and healthcare.	2023-03-07 16:01:09.417000

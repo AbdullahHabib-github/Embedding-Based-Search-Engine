@@ -1,0 +1,61 @@
+9567	12172	DevOps Engineer Network and Firewall (m/w/d)	-What you do with us-
+
+
+
+
+· As a DevOps Engineer, you build new customer projects in public or private
+Clouds and operate existing systems.
+· You develop and build scripts for provisioning the IT landscape
+CI/CD pipelines together with the development projects.
+· You are responsible for the maintenance and administration of the
+Web application firewall and other network components in the
+Azure cloud.
+· You support the further development of cloud management
+Evaluation and testing of new cloud components and managed services.
+· You are part of our 2nd level support and act in the event of an incident
+short-term and flexible.
+
+-when you fit in with us-
+
+
+
+
+· You are a real team player. One for all, all for one - that
+is your motto and ours.
+· Technological innovations are a pleasure, not a burden. You have the
+Willingness to continuously develop yourself - and your knowledge
+to pass on.
+· You live the DevOps culture and have experience with public clouds
+(Azure) in particular with networking, DNS, firewall, RBAC, VMs,
+Troubleshoot.
+· You have Linux knowledge (e.g. Cent OS) and experience
+with Gitlab, Ansible and Terraform to provision infrastructure.
+· You have experience configuring Akamai WAF or
+similar WAF tools.
+· You already have appropriate certifications, such as Microsoft Azure
+Administrator or AWS SysOps Administrator or are ready to do this
+to acquire during training.
+· You also have practical experience in agile
+development projects; ITIL skills are desirable.
+· We require good German. But you should also in English
+can convince our customers.
+· You have no problems with an individually plannable
+24/7 on-call service, which you will of course be paid for separately.
+
+-Your advantages-
+
+
+
+
+· We do everything we can to ensure that you can balance your private and professional life
+can bring. This includes free time management and mobile working.
+· Whether internal chapter sessions, hackathons, the diva-e academy or the
+Visiting conferences and barcamps – we do it for your further education
+everything and are open to your wishes. You also develop
+you "on the job" steadily and always learn something new.
+· We have 8 locations and a large portfolio of services. You
+Does it move to another location or you want others
+areas of responsibility. get to know? No problem, with us you have them
+opportunities to do so.
+· With us you can choose the hardware you want to work with
+choose freely from our hardware catalogue.	DevOps Engineer	None	2023-03-07 16:10:09.519000

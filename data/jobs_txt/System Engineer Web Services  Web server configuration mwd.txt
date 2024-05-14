@@ -1,0 +1,25 @@
+4282	6887	System Engineer Web Services | Web server, configuration (mwd)	Our client is a small software house with a family atmosphere that offers its employees exceptionally good working conditions. This includes flexible working hours without core time, time recording with time off in lieu, home office, individual further training and induction with a mentoring program. Business trips are the absolute exception. Our client is very easy to reach for all applicants from Munich or the Bavarian foothills of the Alps.
+
+System Engineer Web Services | Web server, configuration | In-house or up to 50% home office
+Ensure that users can rely on the web servers. A home office share is possible (up to 50%)
+
+Your tasks:
+
+- As a System Engineer Webservices you are responsible for the operation of web applications provided with Apache/Tomcat.
+- You will primarily work with Windows systems, but there are also some Linux systems.
+- You will work with departments and external service providers.
+- You will also support customers with technical problems, e.g. B. with SQL databases.
+
+Your profile:
+
+- Completed training or studies related to information technology
+- At least initial verifiable professional experience in IT service or system administration
+- Knowledge of web servers and web services would be an advantage, ideally Apache/Tomcat
+- Knowledge of SQL and HTML or CSS is an advantage
+- Good knowledge of German in speaking and writing
+
+Have we piqued your interest?
+
+...then apply here right away or send us your complete application documents by e-mail, stating the reference number 18683, your salary expectations (gross annual target salary) and, if applicable, willingness to travel and relocate.
+
+We fulfill your desire for discretion with the utmost care. Your data will never be released by us without your explicit consent for each individual case.	Engineer/In - Systems Engineering	None	2023-03-07 15:59:20.039000

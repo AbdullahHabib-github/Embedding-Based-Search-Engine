@@ -1,0 +1,19 @@
+4019	6624	Development engineer in the field of electronics (m/f/d)	## What awaits you:
+
+- The focus of your diverse activities lies in the development of electronic circuits for individual printed circuit boards, assemblies and complete devices
+- You are entrusted with the requirements analysis and the creation of the hardware architecture and hardware design
+- The development of the circuit, the layout and the provision of the production documents are part of your area of ​​responsibility
+- In addition, you are responsible for the commissioning of the samples, the definition and completion of necessary tests in the EMC laboratory and the transfer to series production
+- You are responsible for maintaining the data and making the necessary adjustments over the entire product life cycle
+- You will work closely with related departments such as product management and the documentation department and carry out direct technical coordination with suppliers and manufacturers
+- You will also carry out quality and cost optimization measures
+
+## How to convince us:
+
+- Completed degree in electrical engineering / electronics or comparable qualification
+- Very good knowledge of Altium Designer and EMC-compliant design
+- Ideally, you should have knowledge of the basic EMC standards
+- You are confident in handling measurement and testing technology
+- An independent, structured and goal- and result-oriented way of working is one of your strengths
+- You are a team player and are characterized by reliability and a high sense of responsibility
+- Your strong communication skills in both German and English round off your profile	Engineer - electrical engineering	None	2023-03-07 15:58:47.695000

@@ -1,0 +1,35 @@
+6769	9374	Database developer (m/f/d)	Our new project is all about databases in the healthcare sector in Leipzig.
+
+We are looking for a:n
+This position is to be filled as part of temporary employment.
+
+Database developer (m/f/d)
+
+Your tasks:
+ • You are responsible for the conception, development, implementation and support of process flows (SQL/batch scripts and SQL procedures)
+ • You take over the administration and optimization of databases with high data volumes
+ • You create data deliveries and carry out exports and imports of transaction and master data
+ • Carrying out tests and eliminating faults (process monitoring) are part of your daily tasks
+
+Your qualifications:
+ • You have successfully completed a degree in computer science, business informatics or a similar subject
+ • Your experience includes confident handling of MS Office applications and databases
+ • You can demonstrate knowledge of the development and maintenance of SQL queries, SQL procedures and batch scripts
+
+What she expects:
+ • Team spirit and diversity
+ • Work-life balance
+ • Attractive remuneration
+ • Social benefits
+ • Versatile training opportunities
+ • Team and sports events
+ • Global network
+ • Attractive employee referral program
+
+Benefits may vary by position and location. An overview of our benefits can be found on our website under Careers and Benefits.
+
+Send us your application directly. We are at your disposal for any questions. We welcome applications from people who contribute to the diversity of our company.	Database Developer	WE GIVE ENGINEERS THE FREEDOM TO CREATE THE FUTURE
+Starting with product development, euro engineering AG offers services that are based on the typical engineering process. From the conception through development, construction, calculation and testing to project management and documentation, we work with passion on and in future-oriented projects of our customers.
+
+Industry sectors:
+Mechanical engineering, plant construction, automotive, construction, process engineering, precision engineering, electrical engineering, medical technology, hardware and software development	2023-03-07 16:04:26.403000

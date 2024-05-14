@@ -1,0 +1,40 @@
+4035	6640	Full Stack Web Developer (m/w/d)	​Clean code and new technologies are your thing? Perfect! Become part of our dedicated development team in Bremen or 100% remotely and work together with us on challenging problems in exciting customer projects.
+
+## Your tasks
+
+- You develop modern and high-performance websites for our customers
+- You are responsible for the complete conceptual and technical realization in the frontend and backend or work with other experienced colleagues in a team on more complex projects
+- You develop individual themes and blocks for WordPress Gutenberg
+- You design and program your own WordPress plugins
+- You take care of the (further) development of existing and new web projects of our customers, close security gaps, build new elements and features and optimize the websites from a technical perspective
+- You take over interface connections for various external systems, e.g. via REST API
+- You support our customer projects with your technical know-how
+
+## This is how you convince us
+
+- You have relevant experience in web development
+- You have very good knowledge of PHP, JavaScript, HTML and (S)CSS/SASS
+- You have good knowledge of React/Preact, NPM and Composer
+- You are experienced in dealing with Git
+- You have a quick grasp, are team and sociable
+
+## Advantageous
+
+You already have experience with
+
+- Frameworks like Symfony and Next.js
+- Virtualization via Docker/Virtual Box
+- Python, Django or Flask
+- CI/CD auto deployment
+
+## What we offer you
+
+- Close cooperation and coordination within a well-established and experienced agile development team
+- First-class technical equipment awaits you
+- For your personal work-life balance, your working hours are flexible, you can work from home and we are happy to arrange a workation for you in consultation
+- We ensure steep learning curves and invest in your development - in addition to internal workshops, you can regularly take part in exciting webinars, conferences and trade fairs
+- constructiv is climate neutral - for every hour worked we plant a tree in Kenya and support various sustainability projects <3
+- Your health is important to us, so we are happy to subsidize your qualitrain membership, which gives you access to many sports activities
+- So that you are well looked after in the office, there is free fresh fruit and drinks
+- As a goodie on top, there are attractive employee discounts (corporate benefits), regular team events and a special day off for your birthday
+- Last but not least: The world's best colleagues await you, who will warmly welcome you with great helpfulness and an always open ear	software developer	None	2023-03-07 15:58:49.664000

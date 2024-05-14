@@ -1,0 +1,26 @@
+4051	6656	Automation Engineer (m/w/d)	The Deutsche Bundesbank is a special bank: an integral part of the European System of Central Banks with a central function in monetary policy, financial stability and banking supervision in Germany. Above all, however, we are a strong team of reliable and responsible people who create the conditions for a stable euro and a functioning economy with their daily work - across departments and throughout Europe.
+
+We are looking for an automation engineer (m/f/d) for the information technology (IT) area at the Munich, Frankfurt am Main or Düsseldorf locations, initially for a limited period of 2 years.
+
+## Your tasks
+
+Based on modern software products, you design and implement central monitoring solutions of various types, from conventional IT infrastructure monitoring to full-stack tracing of complex application systems and comprehensive process monitoring. Her focus is on the development and continuous further development of the automation of routine functions. They develop appropriate software components, integrate systems with APIs, possibly also specific interface code, and ensure the automated use and control of the monitoring components, e.g. by providing appropriate APIs. With your know-how, you will advise and support IT teams in developing themselves technologically and methodically in the direction of holistic support for monitoring, both on-premises and in the cloud, and you will participate in initiatives to set up structures that support infrastructure as code support approach. In addition, you contribute your expertise in ensuring the implementation and continuous further development of the basic monitoring products and interfaces for connecting the objects to be monitored. You will work closely with other IT departments and other departments of the Bundesbank and advise them on the technical integration, the optimal configuration and the operation of the monitoring of their systems and applications.
+
+## Your profile
+
+- Accredited bachelor's degree or equivalent degree in computer science or comparable degree with a focus on information technology or mathematics/scientific science or comparable knowledge from many years of professional experience
+- Good overview of the components of a modern IT environment (e.g. Linux and Windows-based servers, VMware, Kubernetes, firewalls) and their interaction
+- Programming knowledge in interpretive and script languages ​​(Python, Javascript, Bash, Powershell, etc.), several years of professional experience in this area is an advantage
+- Knowledge of implementation, deployment and documentation of software, code management (esp. with Git, Gitlab and similar) ideally including the handling/integration of corresponding CI/CD pipelines
+- Good knowledge of using (REST) ​​APIs, handling and processing data formats/markup languages ​​(e.g. YAML, JSON, XML) and designing and developing automation functions (e.g. with Ansible)
+- Experience in setting up and operating IT monitoring solutions for monitoring IT infrastructures and applications or experience with comparably complex software systems is an advantage, as is knowledge of using common monitoring products, in particular the products Dynatrace and Wordline boom
+- Good analytical and conceptual skills paired with a high degree of teamwork and independence
+- Good knowledge of spoken and written German and English
+
+## Our range
+
+In addition to responsible tasks in a dynamic environment, we offer you attractive employment conditions such as crisis-proof employment, 30 days of vacation, a free job ticket, modern IT equipment (laptop, smartphone), home office opportunities and remuneration based on the TVöD. The classification is based on your professional experience and specialist knowledge in salary group 10 to 11 plus a bank allowance. With us you can expect an extensive range of further training as well as flexibly plannable working hours to shape your work-life balance.
+
+Diversity and equal opportunities are important components of the Bundesbank's human resources policy. Severely handicapped persons will be preferred in case of equal qualification. Part-time employment is generally possible. We also promote professional equality between women and men and therefore particularly welcome applications from women. Ms. Zeynep Demir will be happy to answer your questions about the job advertisement and your application, telephone 069 9566-35728. The contact person for your technical questions is Dr. Ricarda Lübke, telephone 089 2899-2446.
+
+More info	IT-System administrator/in	None	2023-03-07 15:58:51.670000

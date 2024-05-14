@@ -1,0 +1,58 @@
+3936	6541	Developer .NET / C# for web development (m/f/d)	Introduction
+-----------------------------------------------------
+ 
+About cold store
+kuehlhaus AG was founded in 1995 and is an owner-managed digital agency with a focus on customer experience. More than 75 passionate onliners advise and support from strategy to conception and creation to technical implementation in the creation of portals, platforms, e-commerce and digital marketing services.
+
+
+Our technological focus is on .NET development and long-term partnerships with Sitecore, Optimizely and kentico.
+The motivation of our "cool" heads is to make our customers winners in the digital world.
+Our vision: Inspiring digital experiences. For all humans. Always.- Your place of work: Your place of residence is secondary - you support us nationwide from your home office or from our office in the heart of Mannheim.
+
+
+
+
+Tasks
+-----------------------------------------------------
+ 
+your new job
+As a developer in ASP.NET / C# (m/f/d) your task is to develop complex customer projects based on .NET. You will be involved in all phases of the projects. From project planning and cost estimates to project start, implementation, going live and project completion. As a developer, you are part of a cross-functional team and always have full transparency as to how the projects are running. All paths are open to you in your personal development. We help you and make you a specialist in what you may be.
+Your start date: now or later
+These will be your tasks - you plan, implement and expand Digital Experience Platform (DXP) solutions based on our technology partnerships
+- You integrate the systems into technological peripheral systems such as CRM, ERP, SAP, MS Dynamics, etc.
+- You will continue to educate yourself in the chosen technology stack and become a certified professional
+
+
+
+
+profile
+-----------------------------------------------------
+ 
+What you should bring along - passion for web development and experience as a developer in the areas of C#, ASP.NET, .NET Core, MVC as well as Azure and DevOps
+- High willingness to learn and curiosity, desire to build up expertise and obtain certifications
+- Communication skills and an independent way of working
+- Cool, but not necessary experience with Sitecore or Optimizely or Kentico
+- Good knowledge of spoken and written German and English
+
+
+
+
+Advantages
+-----------------------------------------------------
+ 
+Why cold store?
+It is important to us that everyone enjoys going to work every day. The framework conditions have to be right for this. We offer you ...- A friendly, collegial and highly motivated team in an agency on a growth course
+- A fair salary based on your skills and not on negotiation skills
+- Flexible working hours, mobile working and home office for family-friendly work-life balance
+- An attractive, modern working environment in the middle of Mannheim with top connections to public transport, train and motorway
+- A holocratic form of organization that enables you to bring in your ideas, change things, take responsibility and help shape the company
+- Lifelong learning with a wide range of training and further education opportunities, knowledge transfer, e-learning, leadership and coaching programs
+- All benefits and more details can be found on our career portal
+
+
+
+
+contact information
+-----------------------------------------------------
+ 
+Any questions? - If you have any questions, you can reach Jamie Michalle on +49 621 3999-0999. You can simply upload your application documents at https://short.sg/a/21700123.	IT developer (further education/training)	None	2023-03-07 15:58:37.465000

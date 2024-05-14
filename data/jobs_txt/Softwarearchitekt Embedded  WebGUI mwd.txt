@@ -1,0 +1,44 @@
+8659	11264	Softwarearchitekt Embedded & WebGUI (m/w/d)	Internationally present and successful, the family-run ifm group of companies has been setting the highest quality standards and technical milestones in the automation industry since 1969.
+
+For our location in Tettnang we are looking for you
+
+Software Architect Embedded & WebGUI (m/f/d)
+
+Your tasks
+
+As a software architect (m/f/d) you are responsible for the complex software architecture of the entire RFID product
+You conceptualize, design and develop software architectures for the Linux embedded system, the connectivity interfaces and the WebGUI
+You are responsible for the technical management of an international software team
+You moderate workshops with interdisciplinary teams for the design of software architectures in complex products
+You are responsible for driving group-wide platform projects and defining platform requirements
+
+your profile
+
+Completed studies in the field of technical computer science, electrical engineering, information technology or comparable training
+You have at least 5 years of professional experience in software development
+You have very good knowledge of C and C++ as well as very good knowledge of object-oriented programming and component-based architectural design
+You think analytically, goal- and solution-oriented and are decisive
+Fluent written and spoken German and English
+
+We offer
+
+Open, informal corporate culture and short decision-making processes
+Challenging, varied area of ​​responsibility with largely independent work in a dedicated team
+Collegial and team-oriented work environment
+Individual and well-founded training
+A wide range of offers for personal and professional further training as part of the ifm learning factory
+Joint events such as team days, company celebrations, sporting events and much more.
+Company health management (BGM) and various fitness and sports offers
+Flexible working hours
+Christmas and holiday bonuses
+corporate bonus
+Employer-funded pension
+
+Apply now - we look forward to seeing you!
+
+ifm electronic gmbh
+Mrs Marieke Lang
+ifm syntron gmbh
+Marienfelder Str. 10
+88069 Tettnang
+mareike.lang@ifm.com	ERP application developer	None	2023-03-07 16:08:18.202000

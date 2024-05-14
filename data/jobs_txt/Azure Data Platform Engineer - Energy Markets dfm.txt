@@ -1,0 +1,64 @@
+9948	12553	Azure Data Platform Engineer - Energy Markets (d/f/m)	*Responsibilities*
+
+· You create and maintain optimal data pipeline architecture with in the
+Azure Data platform
+· You assemble, process and organize large, complex data sets that meet
+functional / non-functional business requirements using technologies in
+Azure Data platform
+· You collaborate with data scientists and data analyst and prepare data
+for predictive /classification models
+· You implement containerized microservices or packages in Python
+· You implement datawarehouse solutions in Snowflake and analyse data
+using PowerBI
+· You identify, design, and implement internal process improvements:
+automating manual processes, optimizing data delivery, re-designing
+infrastructure for greater scalability, etc.
+· You drive innovation with special focus on automation, process
+optimization, cloud security
+· You actively promote knowledge exchange in the wider Energy Markets
+community
+
+*Qualifications*
+
+· Minimum 2+ years experience of using Python
+· Strong technical capabilities around technologies such as: Azure Data
+Factory, Azure Data Bricks, Azure Machine Learning, Azure Functions,
+Snowflake, PowerBI
+· Basic technical capabilities around technologies such as: Azure
+Kubernetes Cluster, Docker, build and release pipelines (CI/CD)
+· Enthusiastic about new technologies and entrepreneurial in running
+technical pilots
+· Experienced in solution design
+· Knowledge about Azure cloud security and identity management
+· Data engineering certification in Azure is a plus
+· Good knowledge on Python
+· Basic understanding of Energy Trading and Risk Management, Allegro
+expertise is advantageous
+· Ability to work both independently and within a team in combination with
+excellent communication skills
+· Fluent in English, German is advantageous
+
+*Benefits*
+
+Apart of our inspiring and dynamic international working atmosphere we have
+following attractive employee benefits to keep you motivated and healthy:
+
+· flexible working hours
+· regular trainings
+· E.ON Pension Plan
+· private car leasing
+· free parking space
+· company credit card
+· fitness/health center and physiotherapy
+· job ticket available
+· kindergarten places
+· family service support
+· subsidized canteen
+
+Additionally, we offer…
+
+· the opportunity to shape the new energy world
+· the chance to shape E.ON’s future
+· exciting business challenges to be solved
+· a space to develop ideas and create personal impact
+· an agile and hands-on environment	Data Engineer	None	2023-03-07 16:10:56.015000

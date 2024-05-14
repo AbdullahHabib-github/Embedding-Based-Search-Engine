@@ -1,0 +1,27 @@
+9523	12128	Enterprise Technical & Cloud Architect (m/w/d)	- Your dream job in detail: -
+
+· You define, design and support the implementation of
+Cloud strategy in cloud-relevant architectural aspects at the overall bank level
+in close cooperation with the different IT teams.
+· You transform the classic IT landscape in relation to
+Individual systems in the future, cloud-based IaaS/ PaaS/ SaaS.
+· You are also responsible for setting up and maintaining an efficient and
+efficient IT infrastructure architecture responsible and uphold the
+Overview of technologies and platforms used.
+You will create and review IT target architectures,
+Architectural concepts and the associated implementation measures on the
+technology and infrastructure level.
+
+- Excite us! -
+
+· You have a degree in
+(Business) IT or a comparable degree.
+· Experience in the field of technology and infrastructure architecture
+you bring with you an enterprise architecture level.
+· You are familiar with technology stacks, such as OpenShift, Kafka and
+Database technologies such as Oracle and Exasol.
+· You also have experience in the cloud sector -
+Cloud certifications would be an advantage.
+· Your meaningful profile is rounded off by your analytical ones
+and conceptual skills paired with communication and
+assertiveness.	Cloud-Architect	None	2023-03-07 16:10:04.134000

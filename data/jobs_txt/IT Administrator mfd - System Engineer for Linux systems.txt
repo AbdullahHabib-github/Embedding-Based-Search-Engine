@@ -1,0 +1,48 @@
+8539	11144	IT Administrator (m/f/d) - System Engineer for Linux systems	Internationally present and successful, the family-run ifm group of companies has been setting the highest quality standards and technical milestones in the automation industry since 1969.
+
+We are looking for you for our location in Tettnang or Essen
+
+IT Administrator (m/f/d) - System Engineer for Linux systems
+
+Your tasks
+
+As an admin of our team, you will develop, implement and manage solutions and services for the smooth functioning of our IT landscape
+The administration of our virtual environment (VMWARE) is a matter of course for you
+The support of our worldwide Linux servers is easy for you
+You look after the worldwide server and storage infrastructure
+Thanks to regular leasing cycles, you always look after the latest hardware and software
+You will work in an international team with international colleagues
+You work according to the ITIL processes and process service and fault reports in ITSM
+You will work on projects in the listed subject areas; the support varies from working in a team to the role of (partial) project manager
+
+your profile
+
+You have acquired your know-how as part of an apprenticeship as an IT specialist (m/f/d) for system integration, a computer science degree or comparable training
+You have 2-5 years of professional experience in a comparable field
+You are experienced in dealing with VMWARE as well as server and storage systems. HCI is no stranger to you
+You have very good knowledge of Linux, preferably Suse Linux Enterprise Server (SLES) and/or Ubuntu
+Knowledge of an enterprise backup software product is an advantage
+Ability to work in a team, resilience, goal-oriented and independent work
+Your good knowledge of German and English completes your profile
+
+We offer
+
+Security of an international family business
+Individual well-founded training
+Employer-funded pension
+Diverse offers for personal and professional training in the in-house ifm learning factory
+Company health management and various fitness and sports offers
+Flexible working hours with a flextime account
+Individual home office and remote offers
+Company bonus, Christmas and holiday bonus
+child care
+Modern and varied company restaurant with outdoor terrace
+
+Apply now - we look forward to seeing you!
+
+ifm group services gmbh
+Christian Kogel
+ifm group services gmbh
+ifm street 1
+88069 Tettnang
+christian.kogel@ifm.com	IT specialist - system integration	None	2023-03-07 16:08:03.510000

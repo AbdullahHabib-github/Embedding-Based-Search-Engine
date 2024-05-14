@@ -1,0 +1,24 @@
+3492	6097	Computer Scientist - SAP Security Management (m/f/d)	A better life for everyone and meaningful tasks for our employees - that is our model for success. For more than 50 years, the German Society for International Cooperation (GIZ) has been supporting the German government in the worldwide implementation of development policy goals. Together with partner organizations in 120 countries, we are involved in a wide variety of projects. If you want to make a difference in the world and develop yourself in the process, you've come to the right place.
+
+We are looking for a for the Bonn, Eschborn location
+
+Specialist in SAP Security Management The Digital Transformation and IT Solutions department supports the various departments and staff units in effectively and efficiently designing their processes and the central cross-organizational business processes through the use of modern information and communication technologies. To do this, we use SAP systems based on SUSE Linux Enterprise Server.
+Your tasks:
+
+
+Operation and administration of the infrastructure for our SAP systems
+Importing S/4HANA security patches
+Design and implementation of SAP SSO solutions
+Setup and maintenance of the interface to the IDM/IRM system
+Processing of safety audit results
+SAP basic administration as well as installation and maintenance of SAP systems with corresponding SAP tools (Solution Manager, SAINT/SPAM, SUM, sapinst) as well as support of SAP security systems
+Database administration (MaxDB/HanaDB) as well as backup and parameterization
+Working with largely virtualized systems (server hardware comes from Fujitsu) as well as consolidating and backing up data with storage systems from NetApp
+IT documentation according to BSI basic protection and ISO 27001 Setup, monitoring and protection of cross-system connections, LDAP connection of the systems (SSO, Kerberos, spnego) as well as participation in ensuring availability, monitoring and performance and spool administration (R/3 spool, CUPS ) including SAP Security
+ 
+University or technical college degree in computer science or a comparable course, alternatively comparable training and relevant professional experience
+Several years of professional experience in the administration of SAP systems (ideally in the Unix/Linux environment)
+Experience in the area of ​​SAP security and corresponding tools
+Experience in dealing professionally with internal customers
+Independent and team-oriented way of working
+Fluent in German and good English skills	Computer scientist (university)	None	2023-03-07 15:57:42.797000

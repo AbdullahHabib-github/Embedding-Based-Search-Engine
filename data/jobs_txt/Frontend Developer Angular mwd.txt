@@ -1,0 +1,22 @@
+4065	6670	Frontend Developer (Angular) (m/w/d)	## Your tasks:
+
+- We love open web standards, modern web technologies and high-performance and elegant web applications.
+- We always aim for high technical excellence and look forward to complex challenges that we can solve with technology and design.
+- You develop web applications and frontend applications in an interdisciplinary team.
+- As a frontend developer, you will implement cross-functional prototypes, frontend layers and web applications together with concept developers, UX experts and designers.
+- You will develop user-centric concepts for sophisticated websites, shops and campaigns in an agile team.
+- You work very closely or directly with our customers.
+- Our home office regulation allows you to decide for yourself whether you work from home or in the office.
+
+## Your profile:
+
+- You have successfully completed a degree in computer science or a corresponding apprenticeship and have already gained experience in the professional world or with your own projects.
+- You have in-depth knowledge of single page application frameworks, especially Angular and/or React.
+- In addition, you convince with very good knowledge and experience in ES6/ ES7, TypeScript as well as HTML and CSS.
+- Grunt, Gulp, Webpack and RxJS are also no strangers to you.
+- You appreciate the advantages of agile methods and round off your profile with a very high standard of quality in your work.
+- As we mainly communicate in German, very good knowledge of German (from level C1) is essential.
+
+## Your advantages
+
+In addition to an open corporate culture and agile projects with exciting customers, we offer you flexible working hours, home office regulations, many further education and training opportunities and much more.	software developer	None	2023-03-07 15:58:53.391000

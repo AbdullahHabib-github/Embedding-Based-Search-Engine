@@ -1,0 +1,81 @@
+9039	11644	Master's thesis in the field of modeling moisture distribution (f/m/x)	Job reference: 90020
+
+
+With our BMW, MINI, Rolls-Royce and BMW Motorrad brands, we are one of the world's leading premium manufacturers of automobiles and motorcycles and also a provider of premium financial and mobility services.
+
+
+THEORETICALLY THE BEST DECISION. PRACTICAL TOO.
+
+SHARE YOUR PASSION.
+
+Only highly professional processes in dynamic teams produce innovative cutting-edge technology. But driving pleasure is realized with us from development to production, above all, with fun at work and enthusiasm for the joint project. That's why we not only give students the opportunity to listen, but also to have a say and think ahead.
+
+
+We, the BMW Group, offer you an exciting and varied final thesis in the field of modeling moisture distribution in a porous medium with CFD.
+
+As part of the 3D CFD simulation of high-voltage batteries, a method is to be developed that is able to describe the water absorption of a PU foam body in the liquid and gaseous phases as a function of time.
+
+
+What awaits you?
+
+- Development of the theoretical basics and research on the state of the art.
+- Familiarization with the StarCCM+ software and analysis of the available solutions.
+- Description and implementation of suitable hardware tests for method validation in close cooperation with the test department.
+- Adaptation of existing models and implementation of field functions in StarCCM+.
+- Method validation on different practical examples.
+- Creation of user-friendly instructions.
+- Documentation of the results and summary in a final thesis.
+
+
+Please note that you must ensure that your final thesis is supervised by a college/university.
+
+
+what do you bring
+
+- Above-average grades.
+- Completion of a postgraduate engineering degree.
+- Expertise in thermodynamics, continuum mechanics, fluid mechanics and numerical methods.
+- User knowledge of the Siemens StarCCM+ software.
+- Programming knowledge in JAVA.
+- Enjoy working with modern hardware and software.
+- Language skills in German and/or English.
+- Enjoy dealing with people.
+
+
+What do we offer you?
+
+- Comprehensive mentoring & onboarding.
+- Personal & professional development.
+- Work-life balance & flexible working hours.
+- Attractive remuneration.
+- Perks & employee discounts.
+- Apartments (at the Munich location).
+- And much more see jobs/what we offer.
+
+
+Are you enthusiastic about new technologies and an innovative environment? Apply now!
+
+
+At the BMW Group, we see diversity and inclusion in all its dimensions as a strength for our teams. Equal opportunities are of particular concern to us, and the equal treatment of applicants and employees is a fundamental principle of our corporate policy. Therefore, our recruiting decisions are also based on their personality, experience and skills.
+
+More about diversity at the BMW Group at bmwgroup.jobs/diversity.
+
+
+Start date: from 01.04.2023
+
+Duration: 6 months
+
+Working time: full time
+
+​
+
+Contact:
+BMW Group recruiting team
++49 89 382-17001
+
+
+Please only apply online via our career portal. Applications via other channels (esp. e-mails) cannot be considered.
+
+
+7	Engineer - applied mechanics	With its BMW, MINI, Rolls-Royce and BMW Motorrad brands, the BMW Group is the world's leading premium manufacturer of automobiles and motorcycles and a provider of premium financial and mobility services. The company employs around 125,000 people worldwide.
+With 31 production and assembly sites in 15 countries and a global sales network, the BMW Group is the world's leading premium manufacturer of automobiles and motorcycles and a provider of premium financial and mobility services.	2023-03-07 16:09:04.574000

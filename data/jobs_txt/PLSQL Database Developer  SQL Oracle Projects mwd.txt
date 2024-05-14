@@ -1,0 +1,25 @@
+4534	7139	PL/SQL Database Developer | SQL, Oracle, Projects (mwd)	Our client is a medium-sized IT company that has its customers mainly in the North Rhine-Westphalia region and supports them with services, especially around the Oracle database system.
+
+PL/SQL Database Developer | SQL, Oracle, Projects, Forms, Reports, APEX
+Conception and development of SQL databases in the Oracle environment. A high proportion of remote work is possible in the Ruhr area
+
+Your tasks:
+
+- As a PL/SQL database developer, you support customers with the conception, development, implementation and introduction of software projects in the Oracle database environment
+- You will also continue to maintain existing applications and support migrations
+- Furthermore, data modeling and design are also part of your job
+- After training, you can work remotely in the home office most of the time in the Ruhr area (80%), although an occasional presence at the company or customer is required
+
+Your profile:
+
+- University degree or technical vocational training
+- Experience in the conception and development of databases, ideally in the Oracle environment
+- At least 2 years of professional experience with PL/SQL
+- Ideally, you also have knowledge of ORACLE Forms / ORACLE Reports
+- Good knowledge of German and English
+
+Have we piqued your interest?
+
+...then apply here right away or send us your complete application documents by e-mail, stating the reference number 18790, your salary expectations (gross annual target salary) and, if applicable, willingness to travel and relocate.
+
+We fulfill your desire for discretion with the utmost care. Your data will never be released by us without your explicit consent for each individual case.	Database Developer	None	2023-03-07 15:59:51.047000

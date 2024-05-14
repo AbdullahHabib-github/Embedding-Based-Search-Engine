@@ -1,0 +1,40 @@
+4133	6738	Variant designer (m/f/d)	- World-renowned mechanical engineering company|Exciting vacancy in an innovative environment
+
+company profile
+World-renowned mechanical engineering company with a focus on passenger transport. Become part of a future and team-oriented company!
+
+area of ​​responsibility
+
+- BOM processing and change design of assemblies for the technical processing of customer orders for escalators
+- Creation and modification of customer order parts lists
+-Create and change F or FA/FG/FM assemblies
+-Simulation of the configuration of an assembly for a customer order
+-Simple geometric calculations including trigonometric functions
+-Calculations of mechanical components with the help of given programs
+-Drawing components change design
+-Implementing and checking the constructive solutions in the order parts lists for the realization of customer requirements within the framework of the specified order notification
+-Order processing taking into account country-specific standards and customer requirements
+-Realization of customer requirements by adapting the parts lists or the component design Project management of customer orders, according to design manual type I
+- Cross-departmental information gathering and detailed clarification
+-Preparation of cost comparisons for new constructions
+-Knowledge acquisition/generation for technical solutions
+
+requirement profile
+
+-Mechanical engineer (m/f) with several years of professional experience or a completed engineering degree (TU, TH, FH), specializing in mechanical engineering
+-Experience in processing customer orders
+-Knowledge and experience in the use of technical software, especially 3D-CAD (NX) and PDM system (TC)
+-Knowledge and experience of plant constructions
+-Basic knowledge of statics and their verification
+-Knowledge of the SAP modules materials management and production planning
+-Good communication skills and teamwork, forward-looking way of thinking and working
+-High level of commitment
+- Improved knowledge of English
+-Basic knowledge of project management
+-3 years of work experience
+
+Compensation Package
+
+-Exciting project environment
+-Attractive salary package
+-Good development opportunities within the company	Technical specialist	None	2023-03-07 15:59:01.748000

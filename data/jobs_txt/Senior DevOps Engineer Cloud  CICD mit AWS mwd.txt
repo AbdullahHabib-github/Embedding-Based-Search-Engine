@@ -1,0 +1,31 @@
+4302	6907	(Senior) DevOps Engineer Cloud | CI/CD mit AWS (mwd)	Our client is a successful medium-sized consultancy that specializes in bringing its clients' IT processes to the cloud.
+
+(Senior) DevOps Engineer Cloud | CI/CD with AWS, Jenkins and Docker | up to EUR 80,000
+You are an expert in CI/CD in cloud environments. Use your expertise to look after the platform of a major customer and later get to know new environments again and again.
+
+Your tasks:
+
+- As a (Senior) DevOps Engineer Cloud you are responsible for the cloud platform for analyzing customer relationships at a major customer in the telecommunications sector.
+- You design the pipelines for continuous integration and continuous delivery (CI/CD) and advise the customer on possible improvements to the technology stack.
+- You will work closely with internal colleagues, for example from sales, as well as with customer representatives.
+- Your work aims to increase the software quality, the development speed and the degree of automation.
+- The teams organize themselves according to agile methods.
+- In the further course you support with your technical expertise if possible with ideas how
+- the business with the customer could be further expanded.
+- There is also the prospect of taking over the (partial) project management.
+
+Your profile:
+
+- Several years of professional experience with the development of CI/CD pipelines, ideally in the cloud environment with Amazon Webservice (AWS)
+- Experience with Jenkins
+- Experience with cloud technologies Kubernetes and Docker
+- Ideally experience with a suitable programming language
+- Affinity for the work organization according to Scrum
+- Traveling
+- Good knowledge of German and English
+
+Have we piqued your interest?
+
+...then apply here right away or send us your complete application documents by e-mail, stating the reference number 19335, your salary expectations (gross annual target salary) and, if applicable, willingness to travel and relocate.
+
+We fulfill your desire for discretion with the utmost care. Your data will never be released by us without your explicit consent for each individual case.	software developer	None	2023-03-07 15:59:22.561000

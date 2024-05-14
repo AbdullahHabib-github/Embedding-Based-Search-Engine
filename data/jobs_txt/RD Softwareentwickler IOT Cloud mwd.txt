@@ -1,0 +1,52 @@
+9534	12139	R&D Softwareentwickler IOT Cloud (m/w/d)	The software in the vehicle is increasingly merging with services in the cloud
+and meets new challenges - you know your way around and
+would you like to be involved in overcoming them? You are open
+Tasks and high degrees of freedom? Then you are with us in the
+Proper pre-development for automotive embedded systems! With a lot of knowledge
+and experience of the processes and technology in the car, design and
+we develop both embedded and cloud components and services.
+Our goal is to bring technological developments to both worlds
+understand how to evaluate them for use in the automotive sector and
+to pilot new products for Vector. We're looking for you as backup
+in our agile team.
+
+-Your profile: -
+
+· Studies in the field of electrical engineering, computer science or one
+comparable qualification
+· Good programming skills
+· Enjoy using new libraries and programming languages
+· Ideally experience in cloud architecture and programming
+components
+· Good knowledge of German and English
+
+-Your tasks: -
+
+· Development of concepts in the Automotive IOT Cloud environment
+Development of pre-series software in the vehicle and in the cloud (C++, Java,
+Go, ...)
+· Independent creation of architecture, design and testing of the
+software modules
+· Evaluation of new technologies, libraries and programming languages ​​for
+use in development
+·
+
+-Your Vector-
+
+Why do you have the best job in the world at Vector? Because we do some things
+do to make work not feel like work. These include the
+an individually tailored training, flexible
+Working hours or a highly modern, ergonomic and air-conditioned one
+Workplace. On the other hand, we support you with a crèche,
+Sabbatical program, company gym, parking lot with e-charging station
+or discounted job ticket and much more. In addition, carries
+our excellent company restaurant helps to raise your level of well-being
+to keep.
+
+-Contact-
+
+Job Code: RDE-3335
+Manuel Rückle: +49 711 80670-1356
+
+*Have we sparked your interest?
+Then apply online now.*	software developer	None	2023-03-07 16:10:05.491000

@@ -1,0 +1,14 @@
+878	3483	Technical Assistance (m/f/d)	position description
+     * You will be part of our production at our Hilden site (near Düsseldorf) and will be responsible for the production of e.g. DNA and RNA solutions, PCR master mixes, positive controls and buffers in accordance with the manufacturing instructions and SOPs
+     * You are also responsible for the filling and labeling of various products and for carrying out the work in the clean room under GMP conditions
+     * You will also be actively involved in laboratory organization and the implementation of lean projects
+     * You work with automated filling and labeling systems on a small laboratory scale
+     * You are responsible for creating and adapting the documentation according to the GMP guidelines
+     * You document the production and take over inventory management using SAP
+     * They qualify, calibrate and maintain the laboratory equipment and rooms
+
+     * You have a degree as a BTA, biology laboratory assistant or have another comparable professional training
+     * Ideally, you already have professional experience in the field of PCR diagnostics and in the implementation of molecular biological techniques, in particular real-time qPCR and sample processing
+     * Experience in production in a regulated industrial environment is advantageous
+     * Basic knowledge of MS Office, especially Excel and SAP, is desirable
+     * Basic knowledge of spoken and written English is an advantage	Technical Assistant - Microbiology	None	2023-03-07 15:52:20.628000

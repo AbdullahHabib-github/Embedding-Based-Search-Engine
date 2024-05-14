@@ -1,0 +1,47 @@
+4010	6615	Research associate (m/f/d) in the electrical engineering research group	## The area of ​​responsibility includes
+
+Innovative production technologies for the mobility of tomorrow are being researched in the research area of ​​electrical engineering at the Chair of Factory Automation and Production Systems (FAPS). The focus is on the design and automation of production processes for components of electrical drive technology, especially for electric vehicles, industrial applications and hybrid-electric flight.
+
+In order to strengthen the knowledge in sheet metal production and processing, the FAPS would like to set up a laboratory within a laboratory that focuses on the entire process chain for electrical steel sheets and electric motor stacks, e.g. B.
+
+- Implementation of Industry 4.0 techniques (e.g. sensor integration, big data, machine learning, digital twin/shadow, simulation and optimization)
+- intelligent tools, process monitoring, big data processing and machine learning
+- Insulation processes (e.g. thermoplastic/thermoset overmoulding, powder coating)
+- Stamping of electrical steel sheets
+- Optimization of electrical steel (alloys, heat treated, grain oriented, amorphous, etc.)
+- Production of sheet metal (rotational processes, laser cutting, printing, etc.)
+- Joining processes (e.g. interlocking, welding, clamping, gluing, temporary fixing)
+- Analysis of sheets and packages (e.g. magnetic/electrical properties, mechanical stress)
+- Additive manufacturing (e.g. 2D/3D printing of sheet metal, insulation, engines)
+
+The main areas of focus are, for example: Preparation of specifically defined research tasks (topic selection see above)
+
+- First research topics to be developed in the field of product innovation in relation to joining processes, sensor development and integration, engine design, modeling and simulation
+- First topics to be developed in the field of manufacturing innovation are: smart tools, overmolding, coating and additive manufacturing.
+
+Networking with other related research institutes (e.g. plastics processing, metal forming).
+
+The tasks are embedded in:
+
+- Publication of the results, e.g. in the context of international conferences
+- Business trips to the European research partners
+- Application for and processing of publicly funded research projects
+- Cooperation with industrial companies in the research field
+
+Teaching and public relations (e.g. trade fairs, seminars)
+
+## Qualifications
+
+Necessary qualifications:
+
+Engineer (m/f/d; Uni/TU/FH; Diploma/Master) specializing in mechanical engineering, electrical engineering or mechatronics
+
+Desirable qualifications:
+
+Technical competence in electrical drive technology, especially with regard to components and materials and associated processes, a pronounced project thinking, ability to work in a team, as well as a high degree of independence for the independent processing of projects.
+
+## Supplementary description
+
+Limited research project
+
+You can expect a creative, dynamic environment that offers you every opportunity to bring in and implement your own ideas and visions. There is also the possibility of a doctorate.	Engineer - electrical engineering	None	2023-03-07 15:58:46.596000

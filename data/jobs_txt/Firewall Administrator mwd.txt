@@ -1,0 +1,35 @@
+2533	5138	Firewall Administrator (m/w/d)	Job ID: 553
+
+For a job at a Swabian sports car manufacturer, we are looking for a firewall administrator (m/f/d) in the Stuttgart area.
+
+https://www.delta-systemtechnik.com/karriere/jobs/
+
+We offer
+- A permanent employment contract
+- 30 days holiday
+- An above-average subsidized company pension scheme (BAV) with increasing employer participation
+- Flexibility in the organization of working hours as well as the possibility of working from home by arrangement
+- Regular team events and staff parties (e.g. Delta game night - digital and analog, Christmas party & summer party)
+- Access to the Delta Corporate Benefits Portal and the option of attractive bike leasing
+- Diverse opportunities for professional and personal development including further training and certification options via our partner portals (e.g. Microsoft, Veeam, ...)
+
+Your tasks
+- As a firewall administrator, you are responsible for recording conspicuous rules and evaluating existing rules based on a specified catalog of criteria
+- Provision of a high-performance security environment by optimizing the set of rules
+- Prioritization, classification and documentation of incoming tickets using Jira
+- Further development or adaptation of the existing catalog of rules
+
+your skills
+- Completed degree in computer science, completed IT training or a comparable qualification
+- Very good knowledge of Cisco ASA or Checkpoint
+- Business fluent German and good English skills, both spoken and written, must be available due to customer contact
+
+About Us
+Delta Systemtechnik Horn GmbH is a medium-sized IT system house with headquarters in Bruchsal (Baden-Württemberg). For more than 39 years we have been supporting our partners in the smooth operation of a wide variety of IT landscapes in small and medium-sized companies through to corporations. Flat hierarchy levels and our flexibility as a medium-sized IT system house offer you the opportunity to contribute your ideas and strengths and to help shape your individual development.
+
+More information for you
+If you have any questions about the requirements, tasks or benefits, you are welcome to contact us in advance by email to Karriere@delta-systemtechnik.com or by phone on 07251 392284-20 (contact persons: Mr. Jan Bogner and Mr. Christopher Waldraff).
+
+After reviewing your documents, you will promptly receive feedback from us by e-mail or telephone to discuss further details with you. If your ideas and our requirements match, we will arrange a detailed interview (digitally or on site) as soon as possible.
+
+We guarantee that your application will be treated 100% confidentially throughout the entire application phase	network administrator	Delta Systemtechnik Horn GmbH is a medium-sized IT system house with headquarters in Waghäusel (Baden-Württemberg). For more than 40 years we have been supporting our partners in the smooth operation of a wide variety of IT landscapes in small and medium-sized companies through to large corporations. Flat hierarchy levels and our flexibility as a medium-sized IT system house offer you the opportunity to contribute your ideas and strengths and to help shape your individual development.	2023-03-07 15:55:44.511000

@@ -1,0 +1,30 @@
+5242	7847	Simulation Engineer Real-Time Simulation HVDC (m/f/d)	Simulation Engineer Real-Time Simulation HVDC (m/f/d)
+
+Your tasks:
+
+-Planning, construction, commissioning and documentation of real-time simulators
+-Project-specific configuration and operation of the real-time simulators as part of the control & protection engineering and the factory tests for high-voltage direct current transmission (HVDC) and FACTS applications
+- Carrying out the factory tests and creating the test documentation as part of the project management and development of new plant systems together with the test team
+-Technical processing of real-time simulators for external customers in connection with delivery and commissioning on site
+
+Your qualifications:
+
+- Completed degree in electrical engineering and/or energy technology
+-Basic knowledge of real-time simulation systems, preferably with RTDS or comparable (e.g. Hypersim, e-megasim), and of simulation tools, preferably with EMTDC, EMTP-RV or Matlab/Simulink
+-Basic knowledge of hardware (transformer, etc.)
+-Initiative and motivated to learn, excellent team and cooperation skills, enthusiasm for energy transmission
+- Good knowledge of spoken and written German and fluent English
+
+Your advantages:
+
+- Pleasant working atmosphere
+
+- Varied work in a renowned company
+
+-Flexible working hours
+
+About Hays:
+
+With our many years of recruiting experience and our knowledge of the engineering personnel market, we offer specialists and managers from engineering and the technical environment a strong partnership. Because through our intensive relationships and networks across all industrial sectors, we can arrange exciting projects and attractive positions for you as engineering specialists. Depending on your interests and your experience and qualifications.
+You benefit from professional support from the first contact to the start of your new project or your new position - and of course this is completely free of charge.
+Register and look forward to interesting and suitable positions and projects.	Engineer - electrical engineering	Hays plc is one of the world's leading personnel service providers for the recruitment of highly qualified specialists. Hays is active in both the private and public sectors and provides specialists for permanent positions, project work and temporary employment. The company employs more than 11,000 people in 33 countries worldwide and generated sales of EUR 6.50 billion in the 2017/2018 financial year. In Germany, Hays places specialists in the areas of IT, engineering, construction & property, life sciences, finance, sales & marketing, legal, retail and healthcare.	2023-03-07 16:01:18.802000

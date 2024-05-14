@@ -1,0 +1,66 @@
+927	3531	Research Assistant, Postdoc or PhD candidate	The Leibniz Institute for Photonic Technologies e.V. (Leibniz-IPHT) has a position to offer in the research department of Quantum Systems for the next possible time as
+
+Research Assistant, Postdoc or PhD candidate
+
+in full time (100%). The position is initially limited to 2 years.
+
+The Leibniz-IPHT is a member of the Leibniz Association as well as a non-university research institution with close ties to the Friedrich Schiller University Jena.
+
+Optically pumped magnetometers (OPM) are based on the Zeeman effect in alkali metal atom vapours. With the help of advanced techniques of laser spectroscopy, magnetic fields can be measured extremely sensitively via shifts of atomic absorption lines. By integrating them into compact sensor systems, OPMs open up new applications, e.g. in biomedicine and geophysics.
+
+Your tasks:
+
+• Research into novel OPM operating principles and their characterization in the laboratory set-up,
+• Carrying out accompanying calculations and physical simulations,
+• Realization, evaluation and testing of a complete field-ready demonstrator sensor system.
+
+Your qualification:
+
+• Completed university studies (diploma or master&#39;s degree), preferably with doctorate, in physics, optics, photonics or related disciplines.
+
+Your knowledge and skills:
+
+• In-depth knowledge of optics, atomic physics, and electronics,
+• Relevant experience with experimental work in a laser laboratory and the construction of integrated optical systems,
+• Sound knowledge of at least one programming language (e.g. Python) and/or computer algebra system (e.g. Wolfram Mathematica),
+• Highly motivated, reliable and ability for independently working on tasks,
+• Good written and spoken English.
+
+We offer:
+
+• A truly integrative and interdisciplinary work environment: Being situated on the Beutenberg Campus in Jena, the Leibniz IPHT hosts more than 400 employees from around the world who work at the interface of physics, biochemistry, technology, data sciences, and medical sciences to develop solutions of tomorrow.
+• A thorough and comprehensive personal training: Transferring good practices in scientific working and outreach is one of our main focus points. We&#39;ll teach everything that is needed for a career inside and outside of academia in a respectful and enjoyable way. Moreover, plenty of workshops and opportunities for scientific exchange are offered by the Leibniz IPHT, as well as the Abbe School of Photonics and the Graduate Academy of the Friedrich-Schiller University Jena.
+• World-class equipment and facilities: The Leibniz IPHT offers a large variety of physics, chemistry, and biology labs at highest standards. Moreover, it holds state-of-the-art fiber-drawing and clean-room facilities (incl. lithography units), as well as microfluidics fabrication and big data computing units. Simply everything your interdisciplinary heart beats for.
+• A family-friendly working environment with a variety of offers for families: parent-child room, campus kindergarten places, family events and more.
+• Flexible working time models, 30 days vacation/year, special annual payment, bridging days, VMT job ticket
+• Jena – City of Science: A young and lively town with a vibrant local cultural agenda!
+
+Salary:
+
+Salary is in accordance with the regulations of the TV-L.
+
+About us:
+
+We are a modern, internationally oriented research institute. The compatibility of work and family is one of our central concerns. We value diversity and therefore welcome all applications - regardless of gender, disability, nationality or ethnic and social background. If women are underrepresented in the area of ​​the advertised position, they will be given preferential consideration if they are equally qualified.
+
+Further information:
+
+If you have any questions, please contact Dr. Theo Scholtes, via phone under 03641 – 206 165
+
+or via email: theo.scholtes@leibniz-ipht.de.
+
+Application:
+
+Please send your application electronically as one pdf file via Email until March 31th, 2023 including your CV, certificates and references to:
+
+Leibniz-Institute of Photonic Technology Jena e. V.
+
+Human Resources
+
+Albert-Einstein-Straße 9, 07745 Jena
+
+E-Mail: Personal_Abtl@leibniz-ipht.de
+
+Code: 1145
+
+Or simply apply via our job portal (https://www.leibniz-ipht.de/en/institute/career/job-portal/) by clicking on the “Apply” button.	Engineer - Physics	None	2023-03-07 15:52:26.636000

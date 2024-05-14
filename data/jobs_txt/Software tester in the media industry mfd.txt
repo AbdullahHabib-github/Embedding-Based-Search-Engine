@@ -1,0 +1,29 @@
+5292	7897	Software tester in the media industry (m/f/d)	Software tester in the media industry (m/f/d)
+
+Your tasks:
+
+-Functional software tests for a German media group
+-Design, development and optimization of test cases using HP ALM, already in the concept phase based on the product specifications
+- Creation of new test configurations and implementation of international test coordination
+-Covering of various test areas such as: user acceptance test, end-to-end test, software download, set-top box vs. 2nd screen interaction e.g. on mobile devices, interoperability test, e.g. set-top box vs. network router
+-Exact documentation of the test results in HP ALM, Jira and Confluence as well as comparison and clarification of these test results with other teams
+-Development and operation of own test tools and test infrastructure
+
+Your qualifications:
+
+-Successfully completed studies, preferably in computer science or comparable
+-Professional experience in defining, developing and executing test cases and suites in black box and white box test scenarios
+-In-depth knowledge and experience with software tools such as PuTTY, Fiddler, Wireshark, Postman
+-Specialized knowledge in manual software testing of DVB-based devices in test and live environments
+-High level of initiative with strong innovative and analytical skills
+-Ability to combine technical and economic efficiency thinking
+- Good spoken and written English
+
+Your advantages:
+
+-Exciting field of work
+-30 days holiday
+
+About Hays:
+
+The area of ​​IT is our core competence, on the basis of which Hays has developed. We are the largest privately organized IT personnel services company in Germany and have the right offer for every career level - regardless of whether you are interested in vacancies in agile SMEs or strong DAX companies. We master the entire IT keyboard from support to software architecture or digitization - thanks to our extensive portfolio, there is something for everyone. In the past decades, we have been able to support countless IT specialists and executives in setting the course for a successful career as part of a life-long partnership. Our consulting team is specialized and is therefore able to respond to your wishes and ideas and to prepare you for job interviews and contract negotiations in the best possible way. Try it out and find out what the market has to offer you - completely free of charge, discreetly and without obligation! We look forward to seeing you.	IT-Tester/in	Hays plc is one of the world's leading personnel service providers for the recruitment of highly qualified specialists. Hays is active in both the private and public sectors and provides specialists for permanent positions, project work and temporary employment. The company employs more than 11,000 people in 33 countries worldwide and generated sales of EUR 6.50 billion in the 2017/2018 financial year. In Germany, Hays places specialists in the areas of IT, engineering, construction & property, life sciences, finance, sales & marketing, legal, retail and healthcare	2023-03-07 16:01:24.978000

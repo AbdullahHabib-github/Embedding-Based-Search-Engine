@@ -1,0 +1,29 @@
+4012	6617	Software Test Engineer (m/w/d) High Performance Computer Plattform	## Your tasks
+
+- Conducted testing activities for the development and release of the software for the High Performance Computing Platform according to the ZF product development processes including ASIPCE
+- Development and implementation of test concepts for testing the software components, taking into account functional safety ISO 26262
+- Definition and review of the test requirements with the responsible departments, customers, suppliers and external partners
+- Creation of test cases, execution of tests and creation of test reports as well as ensuring consistency between all work products
+- Analyzing problem reports and supporting software development
+
+## Your profile
+
+- Master's or Bachelor's degree in engineering (preferably: electronics, computer science, telecommunications, mechatronics) and ISTQB Certified Tester or comparable
+- Very good experience in
+    - Test case development in relation to functional safety (ISO 26262) and cybersecurity (ISO 21434)
+    - Manual and automated test execution with CANoe, vTESTstudio, Python
+    - Debugging, defect logging and test result analysis
+- High degree of independent and independent work in the project team as well as good teamwork
+- Good verbal/written communication skills in English, other languages ​​e.g. German would be an advantage
+- Experience with tools like PTC, Azure, Doors desirable
+
+## What we offer you
+
+- Permanent employment with individual training and development opportunities
+- Flexible working hours including overtime compensation
+- Exciting projects at a high technical level
+- Strong teams with an open and friendly working atmosphere and flat hierarchies
+- New and modern equipped office building
+- Attractive company pension plan
+- A subsidized membership in the Urban Sports Club
+- Regular employee events (summer party, Christmas party)	Engineer - electrical engineering	None	2023-03-07 15:58:46.840000

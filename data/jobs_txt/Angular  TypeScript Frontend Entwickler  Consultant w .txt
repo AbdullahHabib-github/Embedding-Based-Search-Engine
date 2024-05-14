@@ -1,0 +1,64 @@
+3915	6520	Angular / TypeScript Frontend Entwickler / Consultant (w ...	welcome to op
+-----------------------------------------------------
+ 
+▶ Start today or only in six months. Your job - your future
+▶ Digital first / remote - Your place of residence is not important and can be anywhere in Germany.
+▶ New Work - Holacracy instead of rigid structures
+▶ Kununu also awarded us the "Top Company Seal" in 2022 and we are now among the 5 percent of the most popular companies on kununu.
+
+
+Our vision: Nobody should despair anymore because of bad, digital processes!
+
+
+We are the objective partner AG and our core competence lies in the realization of digital transformation projects.
+We want to understand our customers, create trust, create sustainable benefits and build a long-term relationship.
+Our aim is to offer employees the framework in which they can develop creatively, freely and independently. With a lot of passion and high quality standards, objective partner is developing into one of the most innovative companies in Germany. We are proud that we have created an agile company where every team member counts, owns responsibility, makes decisions and learns from mistakes.
+
+
+Culture &amp; Benefits at objective partner:- Home office, 100% digital onboarding, flexible working hours, working hours based on trust, work-life balance
+- Agile and appreciative organization, startup mentality, flat hierarchies
+- Community, mentoring/buddy roles, knowledge sharing, development path
+- You culture, open &amp; Honest communication, error culture, self-organization
+- Company car, job bike, exercise offers, pension scheme, wellbeing package voiio
+- Gifts for anniversaries and special events, team events
+- Laptop, smartphone also for private use
+- Holacracy instead of rigid structures
+
+
+
+
+Your tasks as a frontend developer / consultant
+-----------------------------------------------------
+ - You transfer the requirements of our agile projects into code.
+- As a frontend developer in the field of web and responsive design, you design and implement entire frontends as well as individual features.
+- You can expect close cooperation with customers, developers and UI/UX designers in an agile project team.
+- With regular code reviews together with the team you increase the quality of the code.
+- Depending on your experience, you are also a mentor, coach or conduct code reviews with your junior colleagues.
+- Look forward to a holocratic form of organization that enables you to contribute your ideas, take responsibility and help shape the company.
+
+
+
+
+What do you bring with you:
+-----------------------------------------------------
+ - You have a degree in business informatics / computer science or similar, but you are also welcome as an autodidact:in!
+- You can demonstrate practical experience as a frontend consultant with a focus on Angular and TypeScript.
+- You have very good knowledge and practical experience in relevant web technologies such as HTML5, CSS3, JavaScript/TypeScript, REST.
+- You have already worked with at least one test framework for Angular (e.g. Jest).
+- Know-how in PWA (Progressive Web Application) as well as experience with the Flux architecture and state management are advantageous.
+- Knowledge of test automation, continuous integration, delivery and deployment round off your profile.
+- You bring a project-related willingness to travel with you.
+
+
+
+
+Your place of work: Nationwide & mobile from home
+-----------------------------------------------------
+ 
+We live the "digital first" approach, i.e. your place of residence is of secondary importance. You support our innovative customer projects nationwide and work at the customer's site, mobile from home, at our headquarters in Weinheim or in our workspaces in the design offices throughout Germany.
+
+
+Application by email
+-----------------------------------------------------
+ 
+Grow with us and work together	IT developer (further education/training)	None	2023-03-07 15:58:34.876000

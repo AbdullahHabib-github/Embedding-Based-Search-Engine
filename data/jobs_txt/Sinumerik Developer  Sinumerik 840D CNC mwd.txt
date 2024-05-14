@@ -1,0 +1,25 @@
+4366	6971	Sinumerik Developer | Sinumerik 840D, CNC (mwd)	Our client is a successful high-tech company in machine tool construction. The product range extends from CNC-controlled high-performance cutting machines to transport and storage systems for production lines to multi-axis industrial robots. In addition to an interesting work environment, the company offers its employees good opportunities for further training.
+
+Sinumerik developer | Sinumerik 840D, CNC, Automation | in-house
+Sophisticated development of complex systems with CNC core components and PLC / robotic peripherals
+
+Your tasks:
+
+- As a Sinumerik developer, you will work significantly on the development of complex systems and plants with CNC core components and PLC / robotic peripherals with Siemens Sinumerik 840D, STEP 7 / TIA or FANUC controls.
+- You are responsible for commissioning the controller and adapting the software as well as creating visualizations with WinCC / HMI Pro.
+- In addition, you will also be involved in the implementation of functional safety in the machine control and in the creation of technical documentation.
+- The work is mainly in-house, in addition to remote maintenance, there are also short-term field assignments to support customers and service technicians.
+
+Your profile:
+
+- Completed training or studies in a suitable subject
+- Professional experience in SINUMERIK programming
+- Knowledge of STEP 7, WinCC, drive technology and FANUC is advantageous
+- Occasional (low) willingness to travel
+- Good knowledge of German and English
+
+Have we piqued your interest?
+
+...then apply here right away or send us your complete application documents by e-mail, stating the reference number 19417, your salary expectations (gross annual target salary) and, if applicable, willingness to travel and relocate.
+
+We fulfill your desire for discretion with the utmost care. Your data will never be released by us without your explicit consent for each individual case.	PLC specialist	None	2023-03-07 15:59:30.392000

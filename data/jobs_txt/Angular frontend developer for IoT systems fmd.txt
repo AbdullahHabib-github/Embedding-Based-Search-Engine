@@ -1,0 +1,32 @@
+9405	12010	Angular frontend developer for IoT systems (f/m/d)	Would you like to reach the next level in your career? At Brunel you have the opportunity to continuously develop yourself with well-known customers - across all industries. Take the decisive step in your career today and apply to us as an Angular Frontend Developer for IoT systems.
+
+Job description:
+
+- Your main task is the design and implementation of user interfaces with Angular for cloud-based Java systems.
+
+- In addition, you are responsible for maintaining and setting up the frontend test environment.
+
+- You are responsible for the creation of prototypes during the design process.
+
+- Another focus is the measurement of the UX using suitable tools.
+- The independent analysis of user feedback completes your profile.
+
+Your profile:
+
+- Successfully completed university degree in computer science or technical computer science, a comparable qualification is also welcome
+- practical experience with framework Angular
+- Extensive expertise in HTML5, CSS and JavaScript
+- Basic knowledge of Java, SQL and REST technologies
+- Basic knowledge of test metrics and test automation for frontend
+- Good written and spoken German and English skills are desirable
+- Team-oriented and independent work
+
+We offer:
+Career opportunities at Brunel stand for diversity and flexibility. Starting with the size and industry of our customer companies through to the tasks and responsibilities in your project. You have the choice, whether medium-sized company, hidden champion or DAX group; whether road, rail, air or space; traditional or innovative; from development to finished product; national or international; from young professionals to experienced professionals. We offer you countless opportunities to help shape technological progress, and all of this with a single employer.
+
+About Brunel:
+Working at Brunel means: Attractive work tasks, extraordinary career prospects, the security of an expanding engineering service provider and the whole diversity of engineering and IT. In the DACH-CZ region alone, we have more than 40 locations and development centers with accredited test laboratories and more than 120 locations worldwide with more than 12,000 employees in over 40 countries. More than 45 years of international success and over 25 years in Germany. Standing still means going backwards - with Brunel you can make a difference!	IT developer (further education/training)	As one of the leading engineering service providers within the DACH region and the Czech Republic, Brunel stands for first-class project solutions and exceptional career opportunities in the range of modern engineering. Our more than 2,800 engineers, computer scientists, technicians and managers ensure the sustainable success of our customers in a wide variety of industries.
+
+• More than 40 locations and development centers with accredited test laboratories
+• More than 45 years of international success and over 25 years in Germany
+• more than 120 locations worldwide with more than 12,000 employees in over 40 countries	2023-03-07 16:09:49.638000

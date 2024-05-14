@@ -1,0 +1,31 @@
+6437	9042	Hardwareentwickler Battery Management Systems (BMS) (m/w/d)	Tasks:
+
+- Design of the electronics/hardware components of microcontroller-based battery management systems for e-bikes, home storage systems, power tools, etc.
+
+- Creation of circuit designs taking into account customer requirements
+
+- Execution of FMEAs at circuit diagram level
+
+- PCB layout creation with Altium Designer based on the circuit design created
+
+- Further development of existing circuits and layouts
+
+
+
+Profile:
+
+- Degree in electrical engineering, communications technology, communications engineering or a similar electrotechnical focus
+
+- Practical experience in analog and digital circuit development (industry or component irrelevant)
+
+- First experience with the development tools LT Spice and Altium Designer is an advantage (not a must)
+
+- Independent way of working and willingness to take on responsibility
+
+- good knowledge of German	Engineer - electrical engineering	Make a career...
+
+Are you an engineer, computer scientist, bachelor's, master's, technician m/f? Then make a career with ep at leading technical companies. Face the challenge that motivates you. And enjoy team spirit, diversity, security.
+
+We find your solutions. We continue to develop your potential in a targeted manner. We realize your visions: in engineering, application and testing, project management, IT.
+
+ep. your engineering company. supporting experts.	2023-03-07 16:03:45.809000

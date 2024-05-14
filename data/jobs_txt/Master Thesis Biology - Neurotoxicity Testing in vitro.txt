@@ -1,0 +1,29 @@
+3587	6192	Master Thesis Biology - Neurotoxicity Testing, in vitro	The IUF - Leibniz Research Institute for Environmental Medicine investigates the molecular mechanisms through which particles, radiation and environmental chemicals harm human health. The main working areas are environmentally induced aging of the pulmonary system and the skin as well as disturbances of the nervous and immune system. Through development of novel model systems, the IUF contributes to the improvement of risk assessment and the identification of novel strategies for the prevention / therapy of environmentally induced health damage. The working group “Alternative method development for environmental toxicity testing” led by Prof. Ellen Fritsche is looking for
+
+
+a student (f/m/d) for a master thesis (PARC) with the title:
+
+Refinement of in vitro assays towards a regulatory
+use for developmental and acute neurotoxicity testing of chemicals.
+ The project: 
+Developmental (DNT) and acute (ANT) neurotoxicity are currently assessed by different OECD guideline animal studies, which are very resource-intense and not suited for studying the adverse effects of large numbers of chemicals. Therefore, animal-free new approach methods are needed to study important key events of human brain development. In the last years, a DNT in vitro testing battery (IVB) has been assembled, including various ready-to-use methods, but nevertheless, gaps have been identified that need to be closed. An ANT IVB is currently missing.
+The project focuses on two in vitro test methods for the assessment of neural network formation and function, regarding DNT and ANT. The two test systems are based on human induced pluripotent stem cells (hiPSCs) that are established in our lab. However, test methods need to be refined and validated to increase their throughput and readiness for regulatory application. In this regard, these test methods will be challenged with pathway modulators and a defined set of reference chemicals to assess the biological relevance and the performance of the respective test method. The refinement of the two test systems will contribute to the respective IVB and will enhance their readiness for regulatory acceptance in the future.
+
+
+
+Additional information on the project: https://www.umweltbundesamt.de/presse/pressemitteilungen/parc-eu-forschungspartnerschaft-zur-risikobewertung
+ 
+	You are a motivated student.
+	You have fun at work, good communication skills, and team spirit.
+	You are enthusiastic, curious, and wish to move science forward.
+	You have a bachelor degree in life/environmental sciences (biology, (bio)medical sciences, pharmaceutical sciences, bioengineering sciences, (eco)toxicology, environmental health, or equivalent). Experience in neuroscience is a plus.
+	You have good written and oral knowledge of the English language.
+	Experience with cell culture is desirable, especially stem cell culture.
+ 
+	Master thesis project focused on the current needs of the European risk assessment.
+	Implementation of your work into tools for regulatory application.
+	Being part of a big international consortium to build your professional network.
+	Help the world in the transition to animal-free methods.
+	Pleasant working atmosphere and friendly team.
+
+Start: April 2023	biologist	None	2023-03-07 15:57:54.499000

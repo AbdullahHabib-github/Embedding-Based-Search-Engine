@@ -1,0 +1,33 @@
+9175	11780	Software developer: in	SIGNON Deutschland GmbH stands for innovations in the railway industry and is a company of DB Netz AG. With more than 200 employees at four locations in Germany, we provide planning, engineering and technical advice for rail infrastructure projects. Our employees are our experts. In interdisciplinary teams, they work at the highest level on the planning, conception and development of rail systems in local and long-distance traffic. Let's shape the mobility of tomorrow together.
+
+We are looking for you as a software developer (f/m/d) for SIGNON Deutschland GmbH in Berlin, Dresden, Hamburg or Munich as soon as possible.
+This is a "anywhere you want job": In coordination with your manager, you can plan your place of work within Germany yourself and choose between mobile work and work in the office.
+Your tasks:
+
+- As part of your new job, you will develop software components both independently and in a team
+- Depending on your focus of experience and your preferences, you will primarily devote yourself to front and/or backend development
+- You support the creation of technical documents
+- You model software designs and algorithms
+- In addition, you support the creation of cost estimates for the implementation of requirements
+- Within your role, you are responsible for programming software components and performing unit tests
+- You analyze and fix software errors and support the implementation of static and dynamic code analyses
+
+
+Your profile:
+
+- You have successfully completed your studies in (business) computer science or a comparable field or you can demonstrate comparable training (e.g. as an IT specialist).
+- You have sound experience in the field of software development
+- With regard to the backend, you have mastered Java, optionally C# or C++ and you have already worked with the Spring Framework. Furthermore, GitLab, Continuous Deployment and Continuous Integration are no strangers to you
+- In the frontend area, you are familiar with web technologies, especially JavaScript and the React framework, and you have experience in user interface design
+- You count an independent, analytical and structured way of working as well as a high quality awareness among your strengths
+- You like to help shape your working environment and actively influence the team and how it works
+- You enjoy working in an agile team and would like to network with your colleagues across locations
+
+
+your advantages
+* Targeted and individual development opportunities at specialist, project or management level give you a long-term perspective.
+* You achieve great things and get nothing less in return: a salary package that is customary in the market, usually with permanent employment contracts and job security, as well as a wide range of fringe benefits and a company pension scheme.
+* Fascinating projects and tasks - from the digitization of a large corporation to the project of the future railway - demand your skills and are waiting for your handwriting.
+
+Equal opportunities and self-determined participation of the severely disabled and equals as well as respectful cooperation are firmly anchored principles within the DB Group. For this reason, severely disabled and equal applicants will be given preference if they are equally qualified.
+In addition, we aim to offer all candidates the same opportunities for starting a career and for training and further education, regardless of social or ethnic origin, gender, religion or belief, age or sexual identity and orientation. We consciously promote diversity and cooperation in our teams.	software developer	None	2023-03-07 16:09:21.301000

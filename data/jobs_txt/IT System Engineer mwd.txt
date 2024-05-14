@@ -1,0 +1,26 @@
+4038	6643	IT System Engineer (m/w/d)	## We're going full throttle for you
+
+- Attractive salary | permanent position | flexible working hours | mobile working
+- 30 days holiday | Company sports & gym discounts | Company restaurant
+- Company subscription bus/train | JobRad | employee parking spaces
+- Paid training courses | Location: the most livable city of Münster
+
+## With this you drive our future forward
+
+- Responsibility for central infrastructure services directly related to the business
+- Operation, monitoring and further development of services in the central data center and in branches
+- Execution of infrastructure projects for the global template, with control of internal and external partners
+- Administration and documentation of on-premises, cloud systems and services
+- Troubleshooting in 2nd/3rd level support with intensive coordination in the upstream and downstream process
+
+## You bring this energy with you
+
+- Completed technical IT studies, training as an IT specialist for system integration or IT system electronics technician
+- Experience in the planning, construction and operation of Windows or Linux servers such as Active Directory, Group Policy, Microsoft Server and vmware
+- Network knowledge of LAN, WAN, WLAN, routing, firewalls, proxy, remote access
+- Experience in cross-site infrastructure projects (rollouts) and production environments (OT) as well as terminal services (Citrix) desirable
+- Knowledge of at least one scripting language, e.g. PowerShell
+- Class B driver's license and willingness to travel occasionally
+- Analytical way of working and ability to "think outside the box"
+- A high level of organizational, assertive and problem-solving skills
+- Very good knowledge of German and good English	IT-System administrator/in	None	2023-03-07 15:58:50.033000

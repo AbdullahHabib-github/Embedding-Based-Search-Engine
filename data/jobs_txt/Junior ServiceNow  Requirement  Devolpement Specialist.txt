@@ -1,0 +1,27 @@
+4031	6636	(Junior) ServiceNow – Requirement & Devolpement Specialist*	## This is your new task
+
+- In the order and service catalog management team, you will be asked to work as a support specialist in the ServiceNow environment
+- The core of your activity is the support of the service owner in the entire life cycle of a catalog service
+- You are the primary contact for our customers, take on the requirement engineering of new requirements, advise on the advantages and disadvantages of possible options and design solution architectures
+- You take over the assessment of requirements with regard to their effects and in interaction with other functions and processes of the platform
+- The processing of incidents, the elimination of defects and the implementation of smaller new developments in the context of Service Request Management (SRM) / service catalog in ServiceNow are also part of your activities.
+
+## You bring this with you
+
+- High customer orientation, the internalization of the service concept and communication skills characterize you
+- You enrich our team with an independent and solution-oriented way of working
+- You can convince with a quick grasp of complex issues and assertiveness
+- Ideally, you have initial experience in administration and development in the ServiceNow environment with a focus on the ITSM module
+- You have completed a (technical) university degree in (business) informatics or have a comparable qualification with the corresponding major
+- Very good knowledge of spoken and written German completes your profile
+
+## That's what we offer you
+
+- Living the Gothaer mindset - Responsibility inspires, consistency strengthens, competence decides, wins together and inspires the future
+- Working flexibly - Mobile working possible on a daily basis, flexible working hours and 30 vacation days
+- Family support models - KiTa cooperation, holiday programs and other offers from the PME family service
+- Take time out – take a sabbatical for up to six months
+- Individual (further) development - Diverse range of qualifications with seminars, programs, network formats, training on the job or e-learning
+- Well looked after - company restaurant, coffee bar, (online) sports and prevention offers, multiple award-winning health management, employee assistance program, discounts on insurance products and shopping concessions (e.g. discounts on corporate benefits in online shops)
+- Taking care of the future - Our own company pension scheme (bAV) from the first day of work
+- Working and living more sustainably - Active participation in sustainability management as well as bike leasing, job ticket, e-charging stations, car-sharing parking spaces, CO2 neutrality at the Cologne location	Engineer - information and communication technology	None	2023-03-07 15:58:49.175000

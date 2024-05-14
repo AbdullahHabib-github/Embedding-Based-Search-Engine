@@ -1,0 +1,75 @@
+9577	12182	AEM Developer (m/w/d) München	-What you do with us-
+
+
+
+
+· Based on the requirements of our customers, you develop with us
+your colleagues valuable backend components for AEM (Adobe
+Experience Manager) and program them to the maximum
+quality and efficiency. This includes conception and implementation
+from complex extensions for this content management system to yours
+Responsibilities and you work on creating technical ones
+specifications with.
+· Software development is not assembly line work, but requires it
+Creativity. That's why you develop architectural and
+conceptual software solutions and likes to look over the coding
+out of the box.
+· You will also work closely with our frontend developers and UX experts
+together and supports colleagues with advice and analysis, in
+Requirements engineering as well as in the creation of concepts and the
+Architecture. Your flair for technology, aesthetics and usability helps
+with you.
+· Support for the maintenance and further development of existing ones
+Applications and the creation of cost estimates are part of
+your tasks.
+· We always want to develop one another. That's why you use
+with your team code reviews using pull requests to get a high
+generate code quality.
+· Your skills are in demand: The website has the greatest visibility and must
+meet the highest non-functional requirements - like
+High performance, robustness, security - and on various end devices
+function comfortably.
+
+-when you fit in with us-
+
+
+
+
+· You are a real team player. One for all, all for one - that
+is your motto and ours.
+· Our manifesto is Software Craftmanship. You understand coding as
+Craft, see yourself as an expert in your field, are always there
+interested in generating high quality code and want to work in the
+development create sustainable added value.
+· You are familiar with the further development of CMS systems and the
+Implementation in Adobe Experience Manager. You already have
+several years of experience in the conception and development of the Java Web
+Environment. Experience in unit testing is also part of your daily
+Business.
+· If, in addition to your backend affinity, you also have first frontend experience in the
+If you bring HTML, CSS3 and JavaScript with you, that's a nice plus.
+· You are open to technological innovations. You have the
+intrinsic motivation and willingness to learn. you on the job
+to continuously develop and share your knowledge with your colleagues
+to pass on. We are happy to support you with a variety of
+Further training measures and internal offers!
+· You are good at communication, at least in German. good english is
+desirable.
+
+-Your advantages-
+
+
+
+
+· We do everything we can to ensure that you can balance your private and professional life
+can bring. This includes free time management and mobile working.
+· Whether internal chapter sessions, hackathons, the diva-e academy or the
+Visiting conferences and barcamps – we do it for your further education
+everything and are open to your wishes. You also develop
+you "on the job" steadily and always learn something new.
+· We have 8 locations and a large portfolio of services. You
+Does it move to another location or you want others
+areas of responsibility. get to know? No problem, with us you have them
+opportunities to do so.
+· With us you can choose the hardware you want to work with
+choose freely from our hardware catalogue	software developer	None	2023-03-07 16:10:10.741000

@@ -1,0 +1,31 @@
+6477	9082	Systemingenieur LiDAR Sensor Systeme (m/w/d)	Tasks:
+
+- Planning, preparation and implementation of system tests of ADAS products, customer and sub-functions in the vehicle or in suitable test environments
+
+- Application and programming adaptation of automated tests such as e.g. B. Steering and acceleration robots
+
+- Design, development and documentation of new test methods according to the ADAS process
+
+- Execution, data collection, evaluation and documentation of the results for the test environments
+
+- Coordination with other client projects, technologies, teams and other locations
+
+
+
+Profile:
+
+- Studies in the field of electrical engineering, automotive engineering or comparable qualification
+
+- Professional experience as a test engineer in the validation of vehicle components
+
+- Knowledge of ADAS development and testing process
+
+- Strong communication skills, ability to work in a team and independent working methods
+
+- Good knowledge of German and English	Engineer - vehicle technology	Make a career...
+
+Are you an engineer, computer scientist, bachelor's, master's, technician m/f? Then make a career with ep at leading technical companies. Face the challenge that motivates you. And enjoy team spirit, diversity, security.
+
+We find your solutions. We continue to develop your potential in a targeted manner. We realize your visions: in engineering, application and testing, project management, IT.
+
+ep. your engineering company. supporting experts.	2023-03-07 16:03:50.689000

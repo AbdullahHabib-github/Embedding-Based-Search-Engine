@@ -1,0 +1,40 @@
+4039	6644	System administrator (m/f/d) – focus on Windows Server, VMware and network	To expand our team, we are looking for you as a system administrator (m/f/d) with a focus on Windows Server, VMware and network
+
+for our location in Hamburg · Hybrid work possible
+
+## The team
+
+As a system administrator (m/f/d) you are part of our hosting team. The team bears sole responsibility for issues such as the architecture, support and optimization of our payment server systems, which are hosted by an external IT outsourcing partner. An important project that awaits you in your new role at CCV is the introduction of continuous integration and delivery. There is a close cooperation with our software development. In our hosting team you have the opportunity to develop and establish new solutions as well as to optimize existing working methods.
+
+## Your areas of responsibility
+
+- Configuration, administration, monitoring, maintenance and error analysis of the virtual, highly available infrastructure of our payment server systems
+- Continuous performance/stability controls to guarantee a fail-safe system landscape
+- Central technical contact (f/m/d) for all questions about hosting (3rd level support)
+- Planning and optimization of the architecture of our infrastructure
+- Strategic further development of our cloud infrastructure
+- Acceptance of occasional on-call duty
+
+## Your profile
+
+- Relevant professional experience in the operation of Linux/Windows-based server systems
+- Very good knowledge of server system administration, in particular with Microsoft Server, MSSQL systems and the associated MS cluster solutions
+- Good knowledge of network technologies (VPN; TCP/IP, BGP, routing, firewall rules, etc.)
+- Knowledge of Bash scripting, PowerShell, Python, PostgreSQL, Elasticsearch and PKI (e.g. EJBCA) would be desirable
+- Completed degree in computer science or comparable IT qualifications
+- Creativity and fun in optimizing and automating complex IT environments
+- Very good knowledge of German and good English
+- Independent, careful and solution-oriented way of working
+
+## We offer you
+
+- Excellent work-life balance through home office options and a working time account with time off in lieu
+- High personal responsibility in small, proactive teams
+- Contribution of new ideas and technologies desired
+- Comprehensive training and support for new colleagues (m/f/d)
+- Attractive, performance-related remuneration
+- Company social benefits, such as a company pension scheme
+- Modern office with good transport connections not far from the city of Hamburg
+- Drinks, coffee and fruit are free
+- Employee events, such as summer parties and Christmas parties
+- A secure job in a company with future prospects	IT-System administrator/in	None	2023-03-07 15:58:50.170000

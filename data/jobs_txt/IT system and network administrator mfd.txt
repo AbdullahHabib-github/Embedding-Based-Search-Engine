@@ -1,0 +1,33 @@
+6725	9330	IT system and network administrator (m/f/d)	Our customer, an innovative company operating throughout Germany, with over 500 employees (m/f/d), is considered a reliable and attractive employer and is looking for you as an IT network and system administrator (m/f/d) for the Bamberg location.
+
+We are looking for a:n
+This position is to be filled within the framework of direct placement / within the framework of permanent placement.
+
+IT system and network administrator (m/f/d)
+
+Your tasks:
+ • System administration in the Windows client and server environment, including M365, Intune and anti-virus software
+ • User support and administration, Active Directory
+ • Virtualization using vSphere (VMWare)
+ • Management of the telecommunications system
+ • License management and documentation
+ • Hardware and software management
+
+Your qualifications:
+ • Education in the field of IT or several years of professional experience in the field mentioned
+ • Sound knowledge of the Microsoft environment
+ • Experience in virtualization using VMWare and in the network environment
+ • Very good knowledge of German
+ • Independent, structured, communicative and responsible way of working
+
+What she expects:
+
+*You can expect the following benefits from our customer:*
+ • Modern workplaces and an excellent working atmosphere in a dedicated and professional team
+ • Individual advanced training opportunities
+ • Attractive social benefits (company pension scheme, 30 days annual vacation, convenient location and free parking, etc.)
+
+*Remote partly possible*
+Our customer offers you the opportunity to work remotely. Flexible working in the office and from home (hybrid work) makes a positive contribution to your work-life balance.
+
+Send us your application directly. If you have any further inquiries, we will be happy to address them. We welcome applications from people who contribute to the diversity of our company.	network administrator	None	2023-03-07 16:04:21.047000

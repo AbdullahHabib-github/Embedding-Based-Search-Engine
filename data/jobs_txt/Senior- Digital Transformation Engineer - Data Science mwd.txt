@@ -1,0 +1,46 @@
+4058	6663	(Senior-) Digital Transformation Engineer - Data Science (m/w/d)	BASF job market GmbH
+
+The European Site & Verbund Management continuously develops the large European sites of BASF and thus ensures their competitiveness: We manage the perfect dovetailing of infrastructure, operational services and logistics with production at the sites. In this way we ensure the basic supply of the company divisions, which can thus operate successfully on the market. In addition, we advise companies on all matters relating to environmental protection, occupational and plant safety, health protection and licensing law.
+
+## TASKS
+
+We are the "Digital Innovation Team", an enthusiastic interdisciplinary team of engineers, natural scientists, data scientists and computer scientists. From Ludwigshafen, we are driving the digital transformation of three European locations. Our focus is on innovative, challenging projects with a wide variety of requirements. We are in close contact with research and universities and use a wide range of state-of-the-art technologies from software development, data science, machine learning, operations research and cloud computing.
+
+- You will develop web applications for Industry 4.0 solutions with us, such as software to optimize a network site or AI-based assistance systems for production and logistics.
+- Together with project teams, you accompany the entire development process from the first idea to commissioning.
+- Modern development tools, our GitLab server, our Azure-based cloud platform and our mainframe "Quriosity" are available to you for this.
+- We rely on flat hierarchies: the team mainly makes its own decisions, you are responsible for your own sub-areas and have a great deal of creative freedom there.
+- You will work closely with a network of experts inside and outside of BASF.
+- The focus of your work depends on your interests and skills.
+
+## QUALIFICATIONS
+
+- Master's degree with relevant professional experience in the chemical or related industries, or a PhD in engineering or natural sciences
+- Extensive experience working with data and mathematical models (machine learning or first-principle/rigorous modelling), enjoy delving into these areas
+- In-depth knowledge of backend development and Python programming
+- Basics of agile methods (Scrum, Kanban) and cloud-based development (e.g. CI/CD, container virtualization, test automation)
+- Enjoy making a difference and creating tangible results that are used directly by customers and partners
+- Good communication in German and English
+
+## BENEFITS
+
+- Attractive salary based on business success and your individual performance.
+- Flexible working hours that enable a pleasant work/life balance.
+- Development talks and programs to help you reach your full potential.
+- Preventive care and fitness offers to promote your health and to offer a balance to work.
+- Your contribution to a future worth living in, because sustainability is at the core of what we do and a driver of growth.
+- Childcare options at LuKids so that you can balance work and private life even better.
+
+## ABOUT US
+
+You can find initial information about our application process here: http://on.basf.com/Bewerbungverarbeitung.
+
+Do you have any questions about the process or the position? Yasemin Koparan, phone: +49 30 2005-58540
+
+BASF SE, based in Ludwigshafen am Rhein, is the corporate headquarters of the BASF Group and part of the Rhein-Neckar metropolitan area. The company BASF has stood for competence in chemistry since 1865 and is now represented with a wide range of products in the world's major consumer markets. As the largest employer in the region, BASF SE offers a wide range of career opportunities for students, university graduates and professionals and provides training in over 30 professions. Leisure, sports, culture and a good infrastructure characterize the Rhine-Neckar metropolitan region, in which BASF is also involved with numerous activities. You can find out more about BASF SE at: http://on.basf.com/BASFSE_LU
+
+The chemistry is right at BASF. Because we rely on innovation in our solutions, on sustainability in our actions and on solidarity in our thinking. And to you. Become part of our formula for success and develop the future with us - in a global team that lives diversity and is committed to equal opportunities regardless of age, origin, gender, sexual identity, disability, religion or world view.
+
+Please note that we do not return paper applications including folders. Please only submit copies and no originals.
+
+Please upload the documents, summarized if possible	Database Developer	None	2023-03-07 15:58:52.535000

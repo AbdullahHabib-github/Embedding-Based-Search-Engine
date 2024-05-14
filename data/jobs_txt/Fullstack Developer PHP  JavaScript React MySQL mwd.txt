@@ -1,0 +1,28 @@
+4279	6884	Fullstack Developer PHP | JavaScript, React, MySQL (mwd)	Our client is a renowned family company with a long tradition. It offers a secure workplace in the Augsburg area, which is easily accessible by public transport.
+
+Full Stack Developer PHP | JavaScript, React, MySQL, Scrum | 50% home office | up to EUR 80,000
+Agile web development with PHP, Symfony, Laravel, JavaScript and React in a wide range of activities. 2-3 home office days per week are possible.
+
+Your tasks:
+
+- As a Fullstack Developer PHP, you will be part of a new team for further development in the e-commerce and omnichannel area of ​​an established company.
+- In addition to software development, you will be responsible for the architectural integration into the internal infrastructure.
+- In the fullstack-based development, you primarily use your PHP knowledge, plus JavaScript in the frontend - but the focus is on the backend with PHP.
+- You will be involved in software engineering in the conception, requirements analysis and architecture of new and existing systems.
+- With a hands-on mentality, you can introduce and control new topics and technologies.
+- You work primarily at the main location in Augsburg, with weekly fixed home office days are conceivable (about 50%).
+
+Your profile:
+
+- At least 2 years of professional experience in full-stack development, ideally in an agile environment
+- Very good knowledge of PHP and at least one framework such as Symfony or Laravel
+- Good knowledge of JavaScript and ideally React
+- Good knowledge of relational databases such as MySQL or PostgreSQL
+- Knowledge of CI/CD would be an advantage
+- Good knowledge of German
+
+Have we piqued your interest?
+
+...then apply here right away or send us your complete application documents by e-mail, stating the reference number 18973, your salary expectations (gross annual target salary) and, if applicable, willingness to travel and relocate.
+
+We fulfill your desire for discretion with the utmost care. Your data will never be released by us without your explicit consent for each individual case.	IT developer (further education/training)	None	2023-03-07 15:59:19.667000

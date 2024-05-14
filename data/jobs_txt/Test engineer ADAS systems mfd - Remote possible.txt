@@ -1,0 +1,29 @@
+6783	9388	Test engineer ADAS systems (m/f/d) - Remote possible	Are you passionate about vehicle innovation? Future-oriented projects drive you to peak performance?
+Then we are looking for you as a motivated test engineer ADAS systems (m/f/d) for one of our international automotive customers in Frankfurt am Main.
+This vacancy is to be filled as soon as possible within the framework of temporary employment (including the option to be taken on).
+
+We are looking for a:n
+This position is to be filled as part of temporary employment.
+
+Test engineer ADAS systems (m/f/d) - Remote possible
+
+Your tasks:
+ • Execution, evaluation and documentation of the tests according to the process and the project management specifications
+ • Programming of the defined tests for an automated test environment
+ • Definition of tests for verification and validation of the defined product requirements
+ • Prioritization and planning of the tests to be carried out (including the necessary resources and tools) in coordination with the System Test Manager / Test and Validation Lead Engineer
+ • Addressing the deviations found (failed test cases) to the affected departments and tracking / pushing the error correction
+
+Your qualifications:
+ • Successfully completed technical/university studies in the field of electrical engineering, physics, computer science or comparable
+ • Ideally several years of experience in software development with C/C++, Python or Java
+ • Experience in programming test cases is a great advantage
+ • First experience in the execution of tests in the automotive sector is desirable
+ • Good understanding of vehicle architectures, test concepts and test specifications as well as general technical understanding of components and systems
+ • Fluent knowledge of German and English
+
+What she expects:
+
+With Modis you work together with a dynamic, globally oriented brand that pursues ambitious goals in key and, above all, future markets. Our affiliation with the Adecco Group gives you a variety of options, as well as access to exclusive freelance projects.
+
+Would you like to find out more about us and about these and possibly other positions? Then please send us your application directly. We welcome applications from people who contribute to the diversity of our company.	IT-Tester/in	None	2023-03-07 16:04:28.100000

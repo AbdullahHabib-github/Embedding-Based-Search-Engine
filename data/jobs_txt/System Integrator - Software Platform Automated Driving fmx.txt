@@ -1,0 +1,72 @@
+9049	11654	System Integrator - Software Platform Automated Driving (f/m/x)	Stellenreferenz: 89414
+
+
+Our brands BMW, MINI, Rolls-Royce and BMW Motorrad have made us one of the world's leading premium manufacturer of cars and motorcycles as well as provider of premium financial and mobility services.
+
+
+TAKE A TRIP ON THE REAL SUPERHIGHWAY.
+
+SHARE YOUR PASSION.
+
+More than 90% of automotive innovations are based on electronics and software. That's why creative freedom and lateral thinking are so important in the pursuit of truly new solutions. Naturally, this includes flexible working models, so that our IT specialists are free to go in unconventional directions.
+
+
+Our department leads the development and integration of the software platform for the electronic control units for automated driving at BMW. We develop a multi Software platform, including POSIX operating system, middleware and BMW specific infrastructure components, with the goal of reusability and extensibility across generations.
+
+
+What awaits you?
+
+- For the software platform you are responsible for planning, guiding and doing the technical integration of complex cross-domain software functionality into a stable overall software platform.
+- You coordinate all relevant deliveries from all involved platform domains and create a cross domain consistent software delivery for integration.
+- You are responsible for all parts of the overall integration, coming from both internal and external sources. This includes especially the responsibility for in-time delivery, quality, and correct functionality.
+- Being responsible for definition, establishing and extension of the technical integration process, you lead the process across the domains.
+- You guide and steer the developers of new software in bootstrapping their parts in the context of the overall platform as well as assess the integration status of the overall system and escalate if needed.
+- Finally, you are also proactively proposing enhancements in the integration process of the overall software platform.
+
+
+What should you bring along?
+
+- University degree in computer science or a comparable field of study.
+- Professional working experience in software development in an agile environment.
+- Experience in the organization of distributed software development projects with knowledge of project management tools (e.g. Jira, Octane, etc.), ideally in the automotive domain.
+- Profound knowledge of automotive driver assistance systems and ECU platform software (esp. Linux/ QNX, Adaptive Autosar, Automotive Communication Technology and stacks, e.g. SOME/IP, as well as Performance & Stability tools and methods).
+- Solid knowledge of continuous integration platforms and tools (e.g. Openstack, Zuul, Bazel, Jenkins).
+- Knowledge of automotive and system analysis tooling (e.g. Vector CANOE, Lauterbach HW Debugger, Wireshark, etc.).
+- Business-fluent English.
+
+
+You enjoy working in an international team? Apply now!
+
+
+Note: Please apply exclusively online via our career portal. Applications via other channels (esp. email) cannot be considered.
+
+
+What do we offer?
+
+- 30 days of holiday.
+- Attractive remuneration.
+- BMW & MINI promotions.
+- Career development.
+- Flexible organisation of working times.
+- High Work-Life Balance.
+- Mobility offers.
+- And many other benefits - see bmw.jobs/benefits
+
+
+At the BMW Group, we see diversity and inclusion in all its dimensions as a strength for our teams. Equal opportunities are a particular concern for us, and the equal treatment of applicants and employees is a fundamental principle of our corporate policy. That is why our recruiting decisions are also based on personality, experience and skills.
+
+Find out more about diversity at the BMW Group at bmwgroup.jobs/diversity
+
+
+Earliest starting date: from now on
+
+Type of employment: unlimited
+Working hours: full-time
+
+
+Contact:
+
+Tamara Vuckovic
+BMW Group Recruiting Team
++49 89 382-17001	Computer scientist (university)	With its BMW, MINI, Rolls-Royce and BMW Motorrad brands, the BMW Group is the world's leading premium manufacturer of automobiles and motorcycles and a provider of premium financial and mobility services. The company employs around 125,000 people worldwide.
+With 31 production and assembly sites in 15 countries and a global sales network, the BMW Group is the world's leading premium manufacturer of automobiles and motorcycles and a provider of premium financial and mobility services.	2023-03-07 16:09:05.804000

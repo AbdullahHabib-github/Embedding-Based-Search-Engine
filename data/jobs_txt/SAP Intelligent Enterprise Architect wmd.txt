@@ -1,0 +1,31 @@
+4043	6648	SAP Intelligent Enterprise Architect (w/m/d)	Job ID: 922
+
+ We are looking for one for our location in Aerzen
+ SAP Intelligent Enterprise Architect (f/m/d)
+
+## Your tasks
+
+- Creation of individual Lenze strategies for the use of new SAP products or roadmaps for SAP Intelligent Enterprise Transformation
+- Development of new IT architectures with SAP solutions, taking into account the benefits for our customers
+- Taking over the Enterprise Architect role and Q&A tasks in agile teams
+- Activities to support the entire Lenze Group with regard to the transformation and at internal events to coach colleagues on operational issues in connection with the achievement of financial and operational business goals
+
+## Your profile
+
+- Successful completion of a university degree in economics, (business) computer science, natural sciences or engineering
+- Excellent knowledge of SAP S/4 HANA, SAP C/4 HANA and SAP BTP
+- Strong experience in modern cloud, hybrid and on-premise architectures
+- Confident application of knowledge with modeling and documentation of enterprise architectures and intuitive tools
+- Experience in SAP and Microsoft Azure integration technologies is desirable
+- Responsible, proactive way of working
+- Very good analytical skills, strong problem-solving skills and ability to work in a team
+- Willingness to travel nationally and internationally
+- Fluent language skills in German and English
+
+## Our range
+
+- Look forward to varied and challenging tasks that match your skills and expectations.
+- With very good opportunities for further training, you will keep moving with us, learn new things and refine your knowledge and skills.
+- With us you will experience a corporate culture that is always on the move and is characterized by partnership and trusting interaction.
+- We can combine family and career very well, because work-life balance is very important to us.
+- You work with people who like to think outside the box.	IT-System administrator/in	None	2023-03-07 15:58:50.681000

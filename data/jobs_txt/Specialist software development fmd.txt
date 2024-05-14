@@ -1,0 +1,23 @@
+9334	11939	Specialist software development (f/m/d)	You are a hobbyist, inventor and pursue your own ideas in software development - you love to think out of the box - agile and dynamic working methods suit you - web development, app development, front end, back end, full stack,... we are ready for your exciting CV and the story you have to tell us. So if you want to work with us on interesting and challenging projects in the diverse area of ​​software development and are dying to convince us of your skills, Brunel is the right place for you! Because with us you can contribute your know-how to the development of innovative software in a variety of ways and thus build up cross-industry expertise. You want to reach the next level in your career - together we have the opportunity to continuously develop you together with our well-known partner companies. Apply today and discover the diversity of engineering with Brunel.
+
+Job description:
+
+- Your main task is to develop innovative software.
+- With your expertise, you work in a team, for example on the continuous improvement of data processing and preparation.
+- You also enjoy testing and automating software.
+- During your work, you can count on the support of experienced colleagues.
+- You can work hand in hand with numerous interfaces such as IT security, AI, data management.
+
+Your profile:
+
+- Enthusiasm for software development
+- Studies or training in the field of computer science
+- First experience in the field of software development
+- An interest in software testing and software architectures is desirable
+- Enjoy working in a team and continuous development
+
+We offer:
+We offer you a corporate culture that is characterized by the diversity of our employees and mutual respect - between employees and at all levels of the company. In addition to varied get-togethers with the local Brunel teams, this also includes regular feedback discussions about your challenges and perspectives with your account manager. With individual further education and training you will be optimally supported and prepared for the future. Unlimited employment contracts, 30 days vacation, work account regulations and company, employer-financed pension schemes are a matter of course for us.
+
+About Brunel:
+Working at Brunel means: Attractive work tasks, extraordinary career prospects, the security of an expanding engineering service provider and the whole diversity of engineering and IT. In the DACH-CZ region alone, we have more than 40 locations and development centers with accredited test laboratories and more than 120 locations worldwide with more than 12,000 employees in over 40 countries. More than 45 years of international success and over 25 years in Germany. Standing still means going backwards - with Brunel you can make a difference!	software developer	None	2023-03-07 16:09:40.881000

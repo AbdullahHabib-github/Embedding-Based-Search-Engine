@@ -1,0 +1,44 @@
+3560	6165	PhD Student Bioinformatics - NGS Data Analysis (m/w/d)	The following position is available at the Bundeswehr Institute of Radiobiology
+
+Ph.D. position (m/f/d) in the context of a third-party-funded project on Bioinformatic analysis of gene expression studies.
+
+Institution
+
+The Bundeswehr guarantees the security, sovereignty, and foreign policy capability of the Federal Republic of Germany. In addition, it protects citizens, supports allies, and provides administrative assistance in the event of natural disasters and severe accidents at home. In doing so, it is subject to the decisions of the Bundestag, the German Basic Law, and international law.
+
+Department
+
+The Bundeswehr Institute of Radiobiology in Munich is a departmental research institute of the German Federal Government. It conducts defense medical research and development in the field of medical management against radioactive substances as well as ionizing and non-ionizing radiation.
+
+The tendered project will occur in close cooperation between our institute and the Fraunhofer Institute of Toxicology and Experimental Medicine in Regensburg.
+
+Employment location
+
+Ernst-von-Bergmann Kaserne, Neuherbergstraße 11, 80937 München 
+	You will be working on a third-party-funded consortium project investigating the therapeutic effect of a substance on survival after ionizing radiation in different animal models. For this purpose, transcriptome data (NGS) will be generated from whole blood at various times after irradiation, validated by qRT-PCR, and analyzed using different Bioinformatic tools.
+	In addition to investigating therapeutic effects on the transcriptome level, other radiobiological aspects such as radiosensitivity, prediction of severity of acute radiation sickness, and gender dependencies of these endpoints will be investigated.
+	You will be responsible for the Bioinformatic data analysis of the transcriptome measurements, comparison of qRT-PCR data, classification of the data using the current state of research knowledge, and expansion of the analysis methodology.
+	Your responsibilities also include transcriptome data analyses and the support of other projects. These include, for example, “long-read” Nanopore sequencing or NGS longitudinal gene expression studies generated from the Ukrainian Chernobyl cohort.
+	The position is available immediately.
+ 
+	You have successfully completed a master’s degree or university diploma program in the field of bioinformatics or something comparable.
+	You have foreign language skills in English with a proficiency level of at least C1 of the Common European Framework of Reference for Languages or equivalent.
+	You are able to work both independently and in an international team.
+	You have comprehensive expertise in building analysis pipelines (Snakemake, nextflow).
+	You have extensive experience in common scripting languages (R, Python, Bash).
+	You are familiar with the analysis of NGS data and the development of Bioinformatic methods in this field of work.
+	You are familiar with Linux and high-performance computing.
+	You can demonstrate good mathematical skills.
+	You agree to participate in a health suitability assessment and, if applicable, an enhanced security clearance under the Federal Security Clearance Act.
+	Successful security clearance level Ü2 is mandatory to fill the advertised position (beyond the probationary period).
+
+
+Optional
+
+
+	You have knowledge or interest in molecular biological processes concerning RNA isolation, configuring and performing validation using low-density arrays for gene expression measurements, and data analysis of low-density arrays.
+ 
+	You will be hired into a fixed-term employment contract for up to 48 months full-time, according to the so-called “Wissenschaftszeitvertragsgesetz” (academic contract law).
+	You can expect an attractive salary (E13, 60%), measured according to the collective agreement of the public service (TVöD).
+	You can participate in the application-oriented research of the Fraunhofer Institute.
+	You will work in a dedicated and...	biologist	None	2023-03-07 15:57:51.182000

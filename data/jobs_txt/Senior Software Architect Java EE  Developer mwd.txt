@@ -1,0 +1,29 @@
+4117	6722	Senior Software Architect Java EE / Developer (mwd)	Our client is an extremely successful software house with a very high level of technical competence. He takes on complex and critical new software development projects for a few major German customers. It offers ideal prospects for people with a high level of technical affinity. Its employees enjoy very good further training opportunities (up to 10 days/year), a very good working atmosphere, very flexible working models (home office, part-time) and above-average salaries, state-of-the-art methods and work equipment, which also led to the award of being one of the most popular employers in Germany.
+
+Senior Software Architect Java EE / Developer | In-house / home office | up to EUR 95,000
+Architecture of new applications with a focus on JAVA EE, conceptual work and development
+
+Your tasks:
+
+- As a Senior Software Architect Java EE / Developer you can expect:
+- Advising well-known customers on the technical architecture of new application landscapes as well as on development processes and methods (software engineering)
+- Creation of rough, technical, IT, test and operating concepts for the new development of complex systems
+- Participation in the realization of systems, coaching of less experienced employees and taking over the technical management
+- Conducting training courses on the subject of software engineering
+- Error analysis and troubleshooting in the event of performance bottlenecks or programming errors
+- Optimization of quality in development
+- You can work 100% in the home office.
+
+Your profile:
+
+- University degree in computer science or a comparable subject
+- At least 5 years of professional experience in software engineering, also in larger projects
+- Experience as a senior developer, technical project manager, software architect and in the project business
+- Very good knowledge of the JAVA EE environment and other techniques (Spring Boot, Jakarta, Micronaut, Gradel, Maven, Docker, Kubernetes, etc.)
+- Good knowledge of German and English
+
+Have we piqued your interest?
+
+...then apply here right away or send us your complete application documents by e-mail, stating the reference number 12006, your salary expectations (gross annual target salary) and, if applicable, willingness to travel and relocate.
+
+We fulfill your desire for discretion with the utmost care. Your data will never be released by us without your explicit consent for each individual case.	Software-Architect	None	2023-03-07 15:58:59.767000

@@ -1,0 +1,55 @@
+9048	11653	Intern in the field of data analytics digital product range (f/m/x)	Job Reference: 45035
+
+
+With our BMW, MINI, Rolls-Royce and BMW Motorrad brands, we are one of the world's leading premium manufacturers of automobiles and motorcycles and also a provider of premium financial and mobility services. Our team consists of around 120,000 employees worldwide who all have one thing in common: passion! In order to be able to continue doing pioneering work, we are constantly looking for visionaries and creative minds who want to share their passion with us and tackle the technological challenges of our time.
+
+
+THEORETICALLY THE BEST DECISION. PRACTICAL TOO.
+
+SHARE YOUR PASSION.
+
+Only highly professional processes in dynamic teams produce innovative cutting-edge technology. But driving pleasure is realized with us from development to production, above all, with fun at work and enthusiasm for the joint project. That's why we not only give students the opportunity to listen, but also to have a say and think ahead.
+
+
+We, the BMW Group, offer you a varied internship in the field of digital products. Our analytics team based there deals with the analysis of digital customer functions, such as the intelligent language assistant or Apple CarPlay. In this context, we are the interface between customer and technology or sales and development and support the respective product owner in designing a customer-oriented and coherent product range.
+
+
+What awaits you?
+
+- As part of your work as an intern (f/m/x), you will primarily support our team by independently carrying out data analyzes in the area of ​​​​functional use of the infotainment system / digital services.
+- You will also support our data engineers in securing the vehicle data we generate with the aim of ensuring high data quality.
+- You generate valuable insights by supplementing data analyzes with qualitative customer feedback to create a holistic customer image and represent it in front of our stakeholders.
+- Participation in other strategic projects and support in the creation of presentations and documentation round off your area of ​​responsibility.
+
+
+what do you bring
+
+- Studies in information science, business informatics, industrial engineering or a comparable course.
+- Good knowledge of Python (PySpark) and SQL.
+- Knowledge of Tableau is a plus.
+- Proficient in German and English.
+- Team and communication skills.
+- Structured and analytical thinking skills.
+- Enjoy working in the data analytics environment.
+
+
+Do you enjoy learning new things and actively supporting our department? Apply now!
+
+
+Start date: from 03/01/2022
+
+Duration: 6 months
+
+Working time: full time
+
+
+Contact person:
+BMW Group recruiting team
++49 89 382-17001
+
+
+Please only apply online via our career portal. Applications via other channels (especially email) cannot be considered.
+
+
+7	Business IT specialist (university)	With its BMW, MINI, Rolls-Royce and BMW Motorrad brands, the BMW Group is the world's leading premium manufacturer of automobiles and motorcycles and a provider of premium financial and mobility services. The company employs around 125,000 people worldwide.
+With 31 production and assembly sites in 15 countries and a global sales network, the BMW Group is the world's leading premium manufacturer of automobiles and motorcycles and a provider of premium financial and mobility services.	2023-03-07 16:09:05.682000

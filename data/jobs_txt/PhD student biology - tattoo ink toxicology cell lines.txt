@@ -1,0 +1,20 @@
+3488	6093	PhD student biology - tattoo ink toxicology, cell lines	The Federal Institute for Risk Assessment (BfR) is the national institute that prepares expert opinions and statements on questions of food, feed and chemical safety and consumer health protection in Germany on the basis of internationally recognized scientific assessment criteria. In these areas, it advises the Federal Government and other institutions and interest groups. The BfR conducts its own research on topics that are closely related to its assessment tasks. It is a legal institution within the portfolio of the Federal Ministry of Food and Agriculture (BMEL).
+
+In the Chemical and Product Safety department of the BfR, the following position is to be filled with immediate effect for a limited period of three years in the "Dermatotoxicology" study centre:
+Doctoral student for the development of an immunocompetent human reconstructed skin model in the field of tattoo toxicology (f/m/d)
+Reference number: 3230 | Salary group 13 TVöD | Place of work: Berlin | Application deadline: March 27, 2023
+
+The employment takes place with 65% of the regular weekly working hours (currently 25.35 hours). The time limit is based on the Science Time Contract Act.
+The employment should be used for doctoral studies. The BfR's doctoral support program serves to impart both specialist and methodological knowledge and offers the opportunity to regularly present doctoral projects in internal events and to benefit from scientific exchange. It is possible to register for the doctoral thesis at the University of Potsdam at the Faculty of Mathematics and Natural Sciences or at the Institute for Pharmacy at the Freie Universität (FU). Other departments / universities are also possible on request.
+Project description:
+
+Tattoo ink pigments reside in the dermis primarily in fibroblasts and tissue-resident macrophages. The latter play an important role in pigment retention and the innate immune response. Preliminary experiments show that pigment-loaded macrophages differentiated from human blood monocytes successfully integrate into and survive in the already established 3D skin models TatS of our research group (Hering et al. 2020 & 2021, https://doi.org/10.1007/ s00204-020-02825-z, https://doi.org/10.1016/j.tox.2021.152872). 3D models of different endothelial cell types are already approved for various OECD test guidelines (e.g. OECD No. 439, 498). Our goal is to address the limitations of the current testing guidelines (in vivo and in vitro) related to tattoos, e.g. B. irrelevant application routes, by creating a model as close as possible to in vivo. Urgent questions regarding harmful effects of chemicals in connection with tattoos such as phototoxicity, genotoxicity and activation of the immune system as well as their pathomechanisms are to be investigated with the newly developed model. In the long term, the test systems developed should help to better identify the relevant dangers of chemicals for this area of ​​application.
+
+ 
+Integration of immune cells (monocyte-derived macrophages) in 3D skin models, if necessary extension by T cells, followed by the characterization of the models in comparison to human, tattooed skin after wound healing
+Use of the immunocompetent, pigmented skin models to elucidate the mechanisms of frequent tattoo ink-induced effects (phototoxicity, genotoxicity, activation of the immune system)
+Comparison to 2D cell culture
+Creation of scientific reports, presentations, publications and conference contributions for participation in national and international conferences
+Assistance in supervising students (internships, bachelor and master theses)
+ 
+Completed university degree (master, diploma or a comparable university degree) in biology, biotechnology...	biologist	None	2023-03-07 15:57:42.307000

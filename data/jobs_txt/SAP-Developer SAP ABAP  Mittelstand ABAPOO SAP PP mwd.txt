@@ -1,0 +1,28 @@
+4130	6735	SAP-Developer SAP ABAP | Mittelstand, ABAP/OO, SAP PP (mwd)	Our client is a leading manufacturer of process equipment in the semiconductor industry. With its successful products, it is represented internationally in the Far East and the USA.
+
+SAP developer SAP ABAP | SMEs, ABAP/OO, SAP PP, MM, SD, CS, FI, CO | in-house
+Demanding tasks in an international medium-sized company
+
+Your tasks:
+
+- As a SAP developer, you support SAP ABAP, analyze and optimize business processes.
+- Your tasks will include:
+- Customizing, process optimization and function extensions of the existing SAP modules
+- Independent planning and implementation as well as testing and rollout of ABAP developments
+- Problem analysis and solution, support and training of the (international) departments
+- Coordination of external consulting and development services and technical support of internal consultants
+- The company is highly innovative and supports its employees with numerous interesting employer benefits.
+
+Your profile:
+
+- Good knowledge of ABAP
+- Knowledge of ABAP/OO or JAVA is desirable
+- Experience in the configuration and support of SAP ERP and SAP Netweaver
+- Knowledge of at least one of the following SAP modules: PP, MM, SD, CS, FI, CO, HR
+- Good knowledge of German and English
+
+Have we piqued your interest?
+
+...then apply here right away or send us your complete application documents by e-mail, stating the reference number 8120, your salary expectations (gross annual target salary) and, if applicable, willingness to travel and relocate.
+
+We fulfill your desire for discretion with the utmost care. Your data will never be released by us without your explicit consent for each individual case.	ERP application developer	None	2023-03-07 15:59:01.381000

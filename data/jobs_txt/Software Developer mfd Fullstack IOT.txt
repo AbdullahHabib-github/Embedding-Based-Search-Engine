@@ -1,0 +1,32 @@
+4023	6628	Software Developer (m/f/d) Fullstack IOT	## Which is fun
+
+- You coordinate the conception, implementation and further development of features of the existing platform
+- In collaboration with our various development teams, you design an integrated solution architecture for the products of our manufacturing companies
+- The definition and development of interfaces to Azure Cloud, such as to local target environments, is also one of your tasks
+- You live modern and efficient DevOps structures and GIT is no stranger to you
+- You think outside the box and for you good programming and customer benefit are not a contradiction
+
+## You bring this with you
+
+- A degree in business informatics or computer science or comparable training with a technical background
+- Experience in developing cloud-based backends (preferably with .NET Core and C#)
+- First experience with Azure Functions, Azure Service Bus, Azure IoT Hub and the common communication protocols in the IoT environment
+- Basic knowledge of Angular-based web applications
+- Very good German and good practical knowledge of English
+- Structured work, team player, ability to moderate...
+
+## What we offer you
+
+- A comprehensive, structured and cross-departmental induction into your area of ​​responsibility by helpful colleagues
+- An interesting and varied job in a dynamic, open and respectful working atmosphere in which your ideas are in demand
+- Communication at eye level. From the trainee to the managing director, we maintain the "Du" and flat hierarchies
+- Independent work in a team-oriented environment in which everyone counts
+- An optimal work-life balance through flextime and home office regulations. We love our work, but there are other important things too!
+- A performance-related, success-oriented payment with annual salary increases, company pension scheme and capital-forming benefits
+- A 24-hour accident insurance and supplementary company health insurance for everyone with statutory health insurance. Regular visits by our company doctor and various sports activities
+- Subsidies for the "job bike" - so that you can come to work in a more sustainable and healthier way if you feel like it
+- Care allowance for parents, as well as cash and non-cash bonuses for special personal occasions - because you and your family are important to us!
+- A canteen with subsidized, healthy and varied food, fresh fruit and drinks
+- Free parking for a relaxed start to the working day
+- Possibilities for further development: For example with the help of individual training courses and seminars, which are available to you via our e-learning platform "Verder University".
+- The security and infrastructure of an innovative, sustainably successful company and a modern workplace	Engineer - information and communication technology	None	2023-03-07 15:58:48.182000

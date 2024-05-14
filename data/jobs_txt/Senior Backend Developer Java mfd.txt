@@ -1,0 +1,73 @@
+4048	6653	(Senior) Backend Developer (Java) (m/f/d)	## About Us
+
+We, FTAPI Software GmbH, are a fast-growing medium-sized company with currently 90 employees. Do you like working independently in one of three development teams based on self-defined OKRs and contribute to the continuous development of the team? Then you are exactly what our development team is looking for.
+
+Here our colleague Joni gives you an insight into our work in FTAPI Development.
+
+We are looking forward to meeting you.
+
+## Your tasks
+
+- You implement Java back-end components (Spring/Hibernate) and the connection to relational databases (MySQL).
+- You are responsible for developing automated unit/IT/E2E tests to ensure the functionality of the software.
+- You actively shape the product vision and software architecture.
+- You develop CI/CD pipelines.
+
+## What's waiting for you
+
+A great development team and many great colleagues await you. Look forward to a lot of responsibility, but also exciting opportunities such as remote working abroad.
+
+You work independently in a self-organized, diverse development team based on self-defined OKRs according to agile principles and values. You help shape the processes in the team and contribute to the ongoing development of your team. You develop modern software that runs in the cloud - we use pair programming for this.
+
+## Our team mission
+
+We create user-oriented software with heart, mind and joy that balances confidentiality, security and usability. Driven by our intrinsic motivation, we offer successful solutions for our customers and colleagues.
+
+We have drawn up a team charter for ourselves and live it in our daily work.
+
+The following points are particularly important to us:
+
+- We trust and respect each other to create an atmosphere that allows everyone to authentically express their criticisms, concerns and feelings.
+- We stand together behind our successes but also behind our mistakes.
+- Even with unpleasant tasks, we fight our way through with joy and humor.
+
+Absolute NO GOs are in our team:
+
+- Do not take younger / less experienced colleagues seriously
+- Let down colleagues
+- Resolve technical discussions and disagreements on an emotional level
+
+## Your profile
+
+- You have a degree in (business) informatics or comparable training, e.g. as an IT specialist for application development or other experience in the field of software development
+- At least two years of professional experience in the development of web-based software solutions based on Java/JavaScript (at least 4 years if no specialist training is available)
+- You are motivated, responsible, value-based and passionate about the technologies used and coordinated in the team
+- You work in a structured and responsible manner to develop customer-centric solutions, learning new things and deepening your knowledge are part of your everyday tasks
+- You have good knowledge of German (at least B2) and English
+
+You...
+
+- ...you're surprised that other people think of "Java" as a real existing island in the eastern Indian Ocean and don't know what to do with the "16" attached
+- ...can't sleep peacefully at night without static code analysis
+- ...do not take out liability insurance because your test pyramid covers the event of damage
+- ...have IntelliJ IDEA in autostart
+- ...Maven is your faithful companion
+- ...your shopping lists are Git repositories
+
+You have a lot of experience and technical understanding with...
+
+- Design, implement and document web backends using Java 16+
+- Spring Framework, Spring Boot, Spring Security
+- Hibernate, MySQL
+- JUnit5
+- (BONUS) Lombok, Spring WebMVC, Spring Data JPA, Spring Data Rest, Liquibase, RestAssured
+
+## What we offer
+
+- Collegial environment: A team of around 90 people who will welcome you with open arms, support you and with whom you will have a lot of fun.
+- Extensive onboarding: You get a buddy at your side and go through a structured onboarding.
+- Room for participation and personal responsibility: You get the freedom to advance your own ideas and quickly take on responsibility.
+- Top employer: FTAPI is one of the top employers for medium-sized companies (FOCUS Online, Kununu).
+- Flexibility: Whether part-time, flexible working hours or working remotely from any location - we make many things possible in order to offer you a high degree of flexibility.
+- Performance-related remuneration: Depending on the position, either on the basis of a fair, comprehensible salary formula (equal pay) or a salary model with a fixed salary and variables.
+- Top equipment	Application programmer	None	2023-03-07 15:58:51.299000

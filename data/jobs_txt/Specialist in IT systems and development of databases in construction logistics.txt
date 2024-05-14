@@ -1,0 +1,32 @@
+9200	11805	Specialist in IT systems and development of databases in construction logistics	As the rail infrastructure company of Deutsche Bahn, DB Netz AG is responsible for the roughly 33,000-kilometer route network with over 46,000 employees. This puts us at the top of the European rail infrastructure operators for passenger and freight transport. As an innovative and future-oriented company, we create the conditions for safe, environmentally friendly and sustainable mobility and form the backbone of rail transport in Germany.
+
+For approx. 3,100 construction sites of DB Netz AG every year, construction logistics develops and implements site-specific interlinked (logistics) concepts for the supply and disposal of superstructure material (rails, sleepers, ballast, points, small iron). The topic of digitization does not stop at the construction site. In order to meet this requirement, we are looking for reinforcements in our team.
+We are looking for you as a specialist in IT systems and database development in construction logistics (f/m/d) for DB Netz AG in Berlin as soon as possible.
+You will join an existing team with various topics and content, e.g. master data management for SAP R3/Netz PRIMA, rule management, optimization of work processes and reporting. Here, however, you will quickly notice that as different as the topics may be, they are still interlinked. Mutual support and a mutual exchange are in the foreground in our team.
+This is a "anywhere you want job": In coordination with your manager, you can plan your place of work within Germany yourself and choose between mobile work and work in the office.
+Your tasks:
+
+- Within your new role you are responsible for the process and data protection compliant further development of the IT landscape of construction logistics
+- You will primarily take care of the processing and provision of data from different systems and ensure data transmission at the interfaces of the IT systems (databases and SAP R3)
+- In addition, you are responsible for recording technical requirements and are able to convert them into database structures or, alternatively, adapt the given structures
+- You create the associated change requests and carry out the acceptance tests in advance of going live
+- You also provide 1st level support and are the contact person for the users and in this context you carry out the analysis of errors or fundamental problems of the IT application
+
+
+Your profile:
+
+- The basis of your career is a successfully completed degree in a technical, mathematical or commercial field or you have a comparable qualification with a corresponding IT affinity
+- You have knowledge in the development of Access databases (VBA, SQL)
+- You are able to familiarize yourself with a mature inventory system
+- You know how to communicate with and control different stakeholders
+- Your way of working is characterized by a high degree of initiative and personal responsibility and you also like to get involved proactively in your working environment
+- Teamwork is important to you because you enjoy regular professional and personal exchanges within your team
+
+
+your advantages
+* Targeted and individual development opportunities at specialist, project or management level give you a long-term perspective.
+* You achieve great things and get nothing less in return: a salary package that is customary in the market, usually with permanent employment contracts and job security, as well as a wide range of fringe benefits and a company pension scheme.
+* Fascinating projects and tasks - from the digitization of a large corporation to the project of the future railway - demand your skills and are waiting for your handwriting.
+
+Equal opportunities and self-determined participation of the severely disabled and equals as well as respectful cooperation are firmly anchored principles within the DB Group. For this reason, severely disabled and equal applicants will be given preference if they are equally qualified.
+In addition, we aim to offer all candidates the same opportunities for starting a career and for training and further education, regardless of social or ethnic origin, gender, religion or belief, age or sexual identity and orientation. We consciously promote diversity and cooperation in our teams.	Computer scientist (university)	None	2023-03-07 16:09:24.381000

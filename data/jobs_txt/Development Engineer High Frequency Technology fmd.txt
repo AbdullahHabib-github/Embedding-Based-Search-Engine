@@ -1,0 +1,32 @@
+9298	11903	Development Engineer High Frequency Technology (f/m/d)	Are you looking for an exciting professional challenge? For our customer, an international aerospace company, we are looking for a development engineer for high-frequency technology for satellites as soon as possible. We look forward to your application and this joint project.
+
+Job description:
+
+- System integration and system testing of payloads and subsystems
+- Development of test methods as well as software and hardware concepts for testing payloads and subsystems
+- Development, construction and validation of measuring systems
+- Test preparation and execution of tests on payloads and subsystems in Germany and abroad
+- Creation, presentation and discussion of specifications, procedures, test plans and test reports with customers
+- Processing of interface issues between AIT, program and engineering
+- Preparation and participation in program reviews
+- Assistance in preparing applications
+
+Your profile:
+
+- Completed degree in automotive engineering, mechanical engineering, mechatronics, information technology, information technology, electrical engineering, industrial engineering, aerospace engineering, communications engineering or a comparable degree required
+- First experience in the development of test concepts for HF hardware, as well as in the design and implementation of verification tests on RF payloads is an advantage
+- Knowledge of common RF measurement techniques and software development in the RF environment desirable
+- Good knowledge of German and English
+
+We offer:
+
+- Permanent employment contracts
+- In-house ver.di collective agreement
+- Flextime account
+- Funding concepts and further training
+- Social and additional benefits
+- 30 days holiday
+- Mobile working / remote work
+
+About Brunel:
+Working at Brunel means: Attractive work tasks, extraordinary career prospects, the security of an expanding engineering service provider and the whole diversity of engineering and IT. In the DACH-CZ region alone, we have more than 40 locations and development centers with accredited test laboratories and more than 120 locations worldwide with more than 12,000 employees in over 40 countries. More than 45 years of international success and over 25 years in Germany. Standing still means going backwards - with Brunel you can make a difference!	Engineer - Aerospace Technology	As one of the leading engineering service providers within the DACH region and the Czech Republic, Brunel stands for first-class project solutions and exceptional career opportunities in the range of modern engineering. Our 3,200 engineers, computer scientists, technicians and managers ensure the sustainable success of our customers in a wide variety of industries.	2023-03-07 16:09:36.452000

@@ -1,0 +1,41 @@
+4040	6645	DevOps-Engineer (m/w/d) Kubernetes	In order to continuously expand our market position, we are looking for committed and competent employees who will enrich our team with their skills. The following position is currently vacant:
+
+## DEVOPS ENGINEER KUBERNETES (M/F/D)
+
+We administrate Kubernetes clusters, with which we operate not only CI/CD environments in addition to our in-house workloads, but also other important tools for hosting containers.
+ You like to provide infrastructure and support others with it?
+ Are you a sought-after partner for developers and administrators because you see opportunities for automation and implement creative solutions for them? Then we are looking for you!
+
+ Our stack in keywords: Kubernetes, Gitlab, Ansible, flux, Vault, (Thanos, Opensearch)
+
+## YOUR TASKS:
+
+- Continuous development of our Kubernetes infrastructure
+- Administration of these clusters and their hosts as well as the associated infrastructure
+- Supporting our development teams in the development and operation of container-based applications
+- Cooperation with the DevOps specialists of other departments and locations
+
+## YOUR PROFILE:
+
+- Very good knowledge of Linux
+- Experience with Infrastructure-as-Code systems like Ansible, Terraform
+- Experience with containers, Kubernetes and CI/CD environments
+- Experience with high availability, reliability, scalability
+- Programming knowledge
+- Precise way of working, analytical thinking and a high degree of quality awareness
+- Good English knowledge
+
+## YOUR PERSPECTIVES:
+
+At Hetzner Online you can expect interesting, challenging and varied tasks within our range of services. Short decision-making processes and flat organizational structures are just as much part of our corporate philosophy as flexible working hours and performance-related remuneration. Depending on your skills, Hetzner Online offers you the opportunity to develop both professionally and personally.
+
+## OUR SERVICES:
+
+- Interesting and varied tasks
+- Pleasant working atmosphere with short decision-making processes
+- Freedom to develop your own solutions
+- Attractive remuneration and regular training opportunities
+- Flexible working hours
+- Your choice of Linux or Windows operating system
+- Complimentary drinks and fresh fruit
+- Workplace in the middle of the Franconian Lake District holiday region	IT-System administrator/in	None	2023-03-07 15:58:50.314000

@@ -1,0 +1,31 @@
+3518	6123	Physicist, medical technology engineer - quality assurance	The University Hospital Münster is one of the leading hospitals in Germany. Such a position is not only achieved through size and medical success. The commitment of each individual is important. We need your commitment in order to be able to do great things for our patients, even on a small scale. We offer you many opportunities for this so that you can continue to grow yourself.
+
+We are looking for you for the Department of Radiology for the Mammography Reference Center at the University Hospital in Münster at the earliest possible date, provisionally until December 31, 2026 with the possibility of an extension!
+Medical physicist (gn*)
+
+Full-time employment with 38.5 hours per week
+Remuneration according to TV-L E13
+Code number: 7335 - *gn=gender-neutral
+
+
+The Münster Mammography Reference Center at the UKM performs integral functions in the implementation of breast cancer screening (mammography screening) for women between the ages of 50 and 69, which is offered across the board as a standard service by statutory health insurance. Further information is available at www.referencezentrum-ms.de. A close connection between the reference center and the UKM radiology clinic as a facility that offers the entire specialist range of services including clinical breast diagnostics within the framework of the certified UKM breast center creates the framework conditions appropriate to the range of tasks.
+
+The field of medical physics is an interdisciplinary functional unit composed of physicists, engineers, computer scientists and other technical professions. She is responsible for radiation protection, quality management, resource management and all IT issues in the clinic. The department supports application-oriented research projects and raises its own third-party funds for research projects. The position offered offers an interesting and varied job in a university medical physics competence center.
+ 
+Radiation physical quality assurance of all screening units assigned to the reference center
+Further development of software for the physical-technical quality assurance of mammography devices
+Systematic evaluation of digital mammography
+Working as a speaker at internal and external training events
+Active participation and implementation of application-oriented research projects
+Technical further development of quality assurance concepts
+ 
+Completed master's degree in physics or engineering
+Expertise in X-ray diagnostics for medical physics experts is desirable, but the expertise period can also be acquired in the radiology clinic
+Experience in the field of medical physics with a focus on X-ray diagnostics, digital image processing and image analysis is an advantage
+Programming and database skills (ideally in the areas of Java, Oracle, MySQL or Matlab)
+Knowledge of digital image processing, dosimetry and quality assurance
+Above-average commitment, solution orientation and flexibility
+ We offer you a broad and varied field of activity in a modernly equipped central radiology department, individual support for research and science, generous support for internal and external training events, reasonable remuneration and an attractive pension scheme (VBL). It is possible to acquire specialist knowledge for the MPE specialist qualification in the radiology clinic.
+
+
+The UKM supports the compatibility of work and family and has therefore been certified as a family-friendly company since 2010. In principle, there is the possibility of part-time employment. Applications from women are welcomed; Within the framework of the legal regulations, women are given preference. Severely disabled persons are given special consideration if they are equally qualified.	Physicist	None	2023-03-07 15:57:46.012000

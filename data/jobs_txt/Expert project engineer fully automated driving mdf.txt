@@ -1,0 +1,51 @@
+9780	12385	Expert project engineer fully automated driving (m/d/f)	We are looking for you as soon as possible
+Expert/Project engineer fully automated driving for the digital world
+Rail Germany (f/m/d) for DB Netz AG in Berlin.
+
+
+*Your tasks:*
+
+
+
+· As an ATO expert, you work out the requirements and boundary conditions
+for the trackside part of a future ATO system with a focus on
+digitized, fully automated railway operations
+· To do this, you analyze and model the requirements of the
+trackside part (infrastructure) and analyze the impact of
+Requirements of the surrounding systems (e.g. signal box/, dispositives/,
+train control systems)
+· You coordinate closely with those responsible for using the ATO system
+communicating surrounding systems as well as with other railway companies and committees
+on European level
+· In the course of the implementation of the specifications by individual manufacturers
+you accompany and evaluate the progress of the development and, if necessary, the
+Integration into the digital railway system
+· You will support the conceptual development of the
+digitization program as well as in the implementation of processes and procedures
+and sets of rules for digitised, fully automatic railway operations
+
+
+
+*Your profile:*
+
+
+
+· Your degree in engineering, computer science or one
+you have successfully completed a comparable field of study and
+have several years of professional experience as an engineer in the railway environment
+with
+· You have experience with the specification and design of systems and
+Products in a regulated environment, a good understanding of
+development processes and bring many years of experience in the
+Analysis of project requirements
+· You are familiar with the current state of the art and the
+Developments in the field of interlocking technology, European
+train control systems (ETCS), vehicle control (TCMS) and the
+highly automated driving in Europe and the world
+· Ideally, you have experience with agile methods
+project management and uses it successfully for your daily work
+a
+· You work independently, performance-oriented and are ready for the
+to go on business trips from time to time to ensure the success of your projects
+· If you also have good German and fluent
+If you speak English, then you've come to the right place	Engineer - automation technology	None	2023-03-07 16:10:35.540000

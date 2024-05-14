@@ -1,0 +1,41 @@
+7009	9614	SW Test & Verification Engineer (d/m/f) part-time	Adecco offers you exciting job opportunities in well-known companies from a wide variety of industries. Would you like to make a career change? Then apply to the world's largest personnel service provider.
+This position is to be filled as part of temporary employment.
+
+SW Test & Verification Engineer (d/m/f) part-time
+
+Your tasks:
+
+The job holder (d/m/f) is responsible for the following tasks:
+ • Planning, preparation and implementation of the integration and test activities in the Air Traffic Control environment
+ • Creation of manual/automated test cases based on requirements and interface specifications
+ • Development of test scenarios and test data
+ • Integration of the software into the test environment
+ • Planning, implementation and evaluation of integration and acceptance tests
+ • Creation of test reports
+ • Problem analysis and reporting
+ • Documentation according to project standards
+
+Your qualifications:
+
+Studies
+Comparable qualifications, at least a bachelor's degree
+or
+Computer science at least a bachelor's degree
+or
+Education: Degree in computer science or comparable
+
+linguistic proficiency
+Business fluent German
+Business fluent English
+
+Experience
+Many years of experience in the integration of complex systems and testing of system
+/SW requirements in the Air Traffic Control environment
+
+IT
+Sound experience with test management processes and tools (ISTQB Certified)
+Good knowledge of network and IT technology, SUN Solaris, Linux, DOORS, NAV, UML
+
+Then we should definitely get to know each other! Please send us your CV preferably via our online application platform or via the email address below and we will get in touch with you.
+
+We welcome applications from people who contribute to the diversity of our company.	Computer scientist (university)	None	2023-03-07 16:04:55.859000

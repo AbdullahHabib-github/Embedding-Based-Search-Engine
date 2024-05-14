@@ -1,0 +1,32 @@
+5279	7884	Radar Tracker Function Owner (m/f/d)	Radar Tracker Function Owner (m/f/d)
+
+Ihre Aufgaben:
+
+-- You are responsible for the continuous development of the radar tracker function for a vehicle side radar for a german OEM
+- You develop the tracker system requirements based on the customer requests as well as the decomposition to support the internal stakeholders inside the V-Model.
+- You work closely with software engineers, system test engineers and functional safety engineers for further development of the system engineering requirements.
+- You develop the proof of concepts to realize the behavior of the vehicle system while driving on public roads.
+- You interact with customers to understand their needs and make sure you provide the required support.
+- You find solutions within the team while you are applying agile and scrum rituals & methods.
+
+Ihre Qualifikationen:
+
+-- You have an university degree in the engineering area of Mechatronics, Electrical/Electronic engineering or in an equivalent field.
+-- You have 5 years or more of experience in the automotive industry preferably in relation with system engineering activities in radar or ADAS domain.
+-- You are familiar with the ASPICE framework and the base practices on system level.
+-- You have basic knowledge of Communication Protocols (CAN, CAN FD, Ethernet, etc.) used in the automotive domain.
+-- You are interested in State of the Art Sensor Technologies (Radar, Laser, Camera,…).
+-- You have awareness of the Functional Safety (ISO 26262) process and its methods.
+-- You possess personal traits like willing to take ownership, having a positive mindset and being a team player.
+-- Work experience in using requirement management tools e.g. Polarion, Doors would be add on.
+-- You have great communication skills in German and English.
+
+Ihre Vorteile:
+
+-Opportunity to work on exciting projects in interesting companies
+Work in an international company
+Professional and trustful cooperation
+
+Über Hays:
+
+Our many years of recruitment experience and our expert knowledge of the engineering job market make us a strong partner for engineers and technicians. We maintain close relationships with customers across all industries and therefore can provide engineering specialists with exciting projects and attractive job opportunities, drawing on your personal interests and experience. As your professional companion, we support you throughout the entire process, from the first contact to the first day on your new job - all this completely free of charge. Register now and look forward to many interesting and suitable positions and projects.	mechatronics technician	Hays plc is one of the world's leading personnel service providers for the recruitment of highly qualified specialists. Hays is active in both the private and public sectors and provides specialists for permanent positions, project work and temporary employment. The company employs more than 11,000 people in 33 countries worldwide and generated sales of EUR 6.50 billion in the 2017/2018 financial year. In Germany, Hays places specialists in the areas of IT, engineering, construction & property, life sciences, finance, sales & marketing, legal, retail and healthcare.	2023-03-07 16:01:23.378000

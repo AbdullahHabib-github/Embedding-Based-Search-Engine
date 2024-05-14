@@ -1,0 +1,27 @@
+9327	11932	Software Developer Java Enterprise (f/m/d)	Would you like to reach the next level in your career? At Brunel you have the opportunity to continuously develop yourself with well-known customers - across all industries. Take the decisive step in your career today and apply to us as a Java Enterprise software developer.
+
+Job description:
+
+- Your main tasks will include the development of a database in Java using JEE technology.
+- You will also develop Java modules with REST interfaces for microservice architectures.
+- Frontend development with JavaScript, HTML and CSS is also one of your tasks.
+- You are also responsible for the development of the unit tests in Java2.
+
+Your profile:
+
+- Successfully completed studies in computer science, technical computer science or a comparable qualification
+- Good knowledge of SQL and REST technologies
+- Sound experience in Java, preferably also in Java Enterprise Technology
+- First practical experience with CI/CD test-driven development and Git
+- Good written and spoken English knowledge
+- Ability to work independently and in a team
+
+We offer:
+With us you will work for an unlimited period and in a permanent position. In addition, we offer you an in-house collective agreement that is tailored to the salary structures of the various professional groups and rewards qualifications and professional experience. In addition to the collectively agreed social benefits of an expanding company, we offer you the opportunity to develop yourself personally and professionally according to your individual wealth of experience.
+
+About Brunel:
+Working at Brunel means: Attractive work tasks, extraordinary career prospects, the security of an expanding engineering service provider and the whole diversity of engineering and IT. In the DACH-CZ region alone, we have more than 40 locations and development centers with accredited test laboratories and more than 120 locations worldwide with more than 12,000 employees in over 40 countries. More than 45 years of international success and over 25 years in Germany. Standing still means going backwards - with Brunel you can make a difference!	software developer	As one of the leading engineering service providers within the DACH region and the Czech Republic, Brunel stands for first-class project solutions and exceptional career opportunities in the range of modern engineering. Our more than 2,800 engineers, computer scientists, technicians and managers ensure the sustainable success of our customers in a wide variety of industries.
+
+• More than 40 locations and development centers with accredited test laboratories
+• More than 45 years of international success and over 25 years in Germany
+• more than 120 locations worldwide with more than 12,000 employees in over 40 countries	2023-03-07 16:09:39.997000

@@ -1,0 +1,67 @@
+8987	11592	Product Owner (w/m/d) Network Blueprints	Job title: Product Owner (f/m/d) Network Blueprints
+
+Location: NBG M , KHE R
+
+Specialist department: DI PA DCP NET
+
+Classification: Germany - Non Senior Management - ERA salary group 11 (Bay) or 16 (BaWü)
+
+Type of employment: Permanent / full-time
+
+
+Knowledge for the world of tomorrow.
+
+Siemens Digital Industries is the innovation and technology leader in industrial automation and digitalization. In close cooperation with our partners and customers, we are the driving force for the digital transformation in the process industry. At Siemens, we have a strong focus on cybersecurity and offer our customers cybersecurity solutions to secure their digital transformation.
+Help us to tackle and implement the most exciting challenges of future networks together. What we offer you is the opportunity to really make a difference. So what are you waiting for? Take the next step in your career with us.
+
+
+About the new position:
+
+In your new role, you will be responsible for the further development of our network portfolio and the associated concepts and reference architectures for the Process Automation (PA) area. In cooperation with other experts, you create the blueprints based on numerous customer and market requirements and interact with many future topics such as Industrial 5G, Edge Computing or Cybersecurity.
+
+The derived product requirements are incorporated into the individual product lines and thus contribute to the continuous further development of our overall portfolio. Through a wide variety of application examples or white papers, you will help to offer customers the greatest possible added value through our portfolio. Specifically, the following tasks await you:
+
+- Technology and market observation as well as positioning of the SIEMENS strategy.
+- Observation and investigation of competitors (e.g. analysis of the product portfolio, their market addressing and pricing policy).
+- Analysis of the use cases when using products of industrial communication at the customer.
+- Systematic collection of customer feedback / requirements for own products or products of other product owners.
+- Close coordination with the relevant partners within the Digital Connectivity and Power segment and other business units.
+- Creation and further development of blueprints, white papers and configuration examples for networks in the field of process automation.
+- Participation in portfolio development with a graded price/performance ratio, opening up the addressed markets in the area of ​​process automation and related sectors for Industrial Ethernet communication (layer 2, layer 3, security).
+- Creation of product definitions / requirement profiles / backlogs with evaluation and prioritization of the requirements, if necessary with suitable version planning.
+- Product lifecycle management (e.g. clarifying the product realization with R&D as part of the PEG work, coordinating the requirements for the software platform with the neighboring projects).
+- The support of our marketing team with the market launch, technical lectures, exhibition stand service and customer demonstrations are also part of your activities
+
+
+Your profile for "Making the future possible".
+
+- You have successfully completed your studies in a technical field.
+- You have many years of professional experience in product management, support and/or development in the automation or network environment, ideally in the field of process automation and hybrid industries.
+- A good understanding of technologies, products and regulations related to process automation is required. These include, among others:
+- PCS7 and PCSneo
+- System redundancy
+- SIMATIC high availability concepts
+- Ex zone concept according to IEC
+- Common approvals in process automation
+- PROFINET including system redundancy
+- TSN, APL, SoE, OPC/UA, OPC/UA FLC
+- Namur NOA
+
+
+- In addition, you are familiar with topics such as structural engineering of the products including their power supply and the technology-relevant standardization activities.
+- Personally, you are characterized by communication skills and confident presentations to internal and external business partners, as well as goal-oriented and independent work.
+- In terms of language, you have very good knowledge of German and English.
+
+
+What we offer.
+
+- 30 days vacation and a variety of flexible working time models that allow you and your family to take a break
+- Training opportunities for both your professional and personal development
+- A working environment in which everyone can contribute their entire personality and feel part of Siemens
+
+
+The individual benefits are each tailored to local legal requirements, specifications for various job profiles and locations, and personal preferences.
+
+W	Product Owner	We create what others dream of
+Curiosity, passion, creativity - there are characteristics that apply to everyone who works at Siemens. And when 385,000 of those people work together, the results become extraordinary.
+We analyze, ask questions, find solutions, test and refine. From sketches on café napkins to 3D printed prototypes, we believe brilliant ideas can come from anywhere. Our employees drive their projects forward with passion. We develop and patent more than 7,500 inventions every year all over the world.	2023-03-07 16:08:58.191000

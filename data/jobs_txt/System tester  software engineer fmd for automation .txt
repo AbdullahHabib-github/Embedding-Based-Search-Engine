@@ -1,0 +1,57 @@
+3947	6552	System tester / software engineer (f/m/d) for automation ...	Introduction
+-----------------------------------------------------
+ 
+The Eckelmann Group is a large, medium-sized system partner for automation and digitization and is now represented at seven locations in Europe and China. As a strategic partner in digital transformation, we make use of the opportunities offered by digitization in production environments and ensure our customers sustainable competitive advantages by creating suitable solutions. We are curious and passionate about technology. We combine pragmatic, goal-oriented thinking with the utmost care and reliability. The Management Board and over 500 employees of the Eckelmann Group stand for this spirit. Do you want to be there? Then start your career at Eckelmann. We look forward to seeing you!
+
+
+You are a good fit for us if you think and act in a solution-oriented manner, enjoy working in a team and if challenges in your work are important to you. Getting to grips with new topics is an additional motivation. It is our concern to be an innovative and reliable contractual partner for customers in the fields of pharmaceuticals, biotechnology and medical technology. The innovative automation solutions from our company are, for example, part of several ion beam therapy centers for the irradiation of tumors. This results in interesting tasks that require the competence and commitment of the entire team.
+
+
+Tasks
+-----------------------------------------------------
+ 
+Your tasks: - Specification, implementation and execution of unit, integration, system and acceptance tests for automation solutions of systems from the application field of medical technology
+- Maintenance and further development of an existing product from the application field of medical technology
+- Analysis and elimination of occurring errors of an existing product
+- Independent clarification of customer and system requirements
+- Creation of development and customer documentation such as functional specifications, design specifications, test specifications and service documentation as part of a requirements-driven development process
+
+
+
+
+profile
+-----------------------------------------------------
+ 
+Your profile:- Degree in electrical engineering, automation technology or technical computer science
+- Very good knowledge of object-oriented programming languages, preferably Microsoft .NET / C#
+- Very good knowledge of modern software development methodology
+- Desirable: Knowledge of standards and guidelines for the product development process of medical devices as well as requirements-driven software development
+- Ideally, you have completed training as an ISTQB Certified Tester (m/f/d).
+- You enjoy working in a team of committed employees.
+- First professional experience in software development
+- Very good knowledge of German, good knowledge of English
+
+
+
+
+our range
+-----------------------------------------------------
+ - The security of a large, medium-sized group of companies and a distinctive corporate culture
+- Varied and challenging tasks, hands-on mentality
+- Pleasant working atmosphere, appreciative communication culture
+- Possibility of mobile working
+- Flexible working hours
+- Employee benefit card (Eckelmann Mastercard)
+- Training courses and workshops based on a personnel development concept
+- Canteen lectures
+- Summer and Christmas parties (taking current Corona regulations into account)
+- 30 days holiday and special leave for various occasions
+- (E-)bike &amp; IT leasing
+- Own canteen supply (incl. breakfast offers)
+- Free coffee, tea and water
+- Subsidy for capital-forming benefits
+- Subsidy for company pension scheme
+- Anniversary bonuses and birthday gifts
+- Referral bonus: Employees refer employees
+- Very good connection to public transport (bus stop in 50 meters walk)
+- Free Mita	Engineer - automation technology	None	2023-03-07 15:58:38.825000

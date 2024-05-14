@@ -1,0 +1,27 @@
+4376	6981	Junior - Consultant Cloud - DWH | Structure of cloud DWHs (mwd)	Our client is a successful medium-sized consultancy that specializes in bringing its clients' IT processes to the cloud.
+
+Junior - Consultant Cloud - DWH | Building cloud DWHs from Amazon, Microsoft or Google, ETL
+Let your BI experience flow into changing customer projects and get to know alternative business intelligence stacks.
+
+Your tasks:
+
+- As a junior consultant Cloud - DWH, you introduce your customers to the use of data warehousing in the cloud or you expand existing cloud landscapes
+- You design the data architecture according to the exact customer needs and use cases
+- You take over the data integration via ETL as well as the definition of customer-specific business processes
+- If necessary, you will also design the reporting
+- If you are suitable, you will also have the opportunity to lead sub-projects
+
+Your profile:
+
+- Several years of professional experience with current and complex DWH or data engineering in general.
+- Hands-on experience with SQL
+- Experience with ETL processes
+- Ideally knowledge of cloud DWH from Amazon, Microsoft or Google
+- Traveling
+- Good knowledge of German and English
+
+Have we piqued your interest?
+
+...then apply here right away or send us your complete application documents by e-mail, stating the reference number 19195, your salary expectations (gross annual target salary) and, if applicable, willingness to travel and relocate.
+
+We fulfill your desire for discretion with the utmost care. Your data will never be released by us without your explicit consent for each individual case.	IT-Berater/in	None	2023-03-07 15:59:31.617000

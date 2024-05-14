@@ -1,0 +1,31 @@
+9171	11776	Senior Data Analyst:in	As an employee at DB Systel GmbH, you will actively shape the digitization of Deutsche Bahn and play a key role in shaping the future of the group. We are an interdisciplinary team and carry out self-organized and agile consulting based on digitization strategies. We implement our projects with a holistic view of the organization and IT management. Our cross-business, neutral and product-independent advice and support sets us apart.
+
+We are looking for you as a senior data analyst (f/m/d) at the Frankfurt (Main), Erfurt or Berlin location for DB Systel GmbH as soon as possible.
+We meet regularly by arrangement - otherwise we mainly work flexibly remotely or at one of the DB Systel locations.
+Your tasks:
+
+- As a recognized specialist, you will advance our expertise in all aspects of predictive analytics and thus enable us to avoid disruptions and thus more stable rail operations
+- You advise our business partners on the modeling and optimization of comprehensive analytics solutions to optimize application operation and user support
+- In close contact with our partners, you will analyze their requirements and develop an individual, integrated BI solution concept
+- You present the results of your work up to top management level, coordinate overarching teams and plan the assignment of internal and external stakeholders
+- You are passionate about analytics, know how to inspire others within the communities, your team, your unit and thus stimulate the constant exchange of knowledge
+
+
+Your profile:
+
+- The basis of your career is a completed (technical) university degree in (business) informatics or a comparable subject or training in the IT sector with appropriate professional experience
+- You bring in-depth knowledge in the field of data analytics, with a focus on predictive analytics, ETL modeling and databases, especially SQL, as well as in programming with Python
+- Ideally, you were already familiar with tools such as Tableau, Power BI, Qlik Sense or similar. gain initial practical experience
+- You are passionate about shaping the user support of the future with analyzes and the use of AI and would like to increase the business success of our partners with clever analytics solutions
+- You enjoy a varied and self-organized environment with different customers, questions and project environments and are willing to constantly develop yourself and learn new things, just like us
+- Your strengths include, in particular, your own initiative and responsibility, your strong communication skills as well as your team orientation and fluent knowledge of German round off your profile
+
+
+your advantages
+* You get up to 16 free trips within Germany per year and other discounts for your friends and family.
+* Targeted and individual development opportunities at specialist, project or management level give you a long-term perspective.
+* We support you in your search for daycare places or holiday care for your children. You can also take time off to care for family members or take sabbaticals. Depending on the job, a flexible arrangement of working hours and location is possible.
+* We promote flexible, individual working time models and support, where operationally possible, with modern forms of work such as home office or mobile working.
+
+Equal opportunities and self-determined participation of the severely disabled and equals as well as respectful cooperation are firmly anchored principles within the DB Group. For this reason, severely disabled and equal applicants will be given preference if they are equally qualified.
+In addition, we aim to offer all candidates the same opportunities for starting a career and for training and further education, regardless of social or ethnic origin, gender, religion or belief, age or sexual identity and orientation. We consciously promote diversity and cooperation in our teams.	Computer scientist (university)	None	2023-03-07 16:09:20.812000

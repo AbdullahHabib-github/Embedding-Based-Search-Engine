@@ -1,0 +1,28 @@
+6838	9443	Calculation engineer engine mechanics (drive train & cylinder unit) (m/f/x)	One of our well-known customers in Augsburg, a company that develops large diesel engines and turbomachines, offers this interesting perspective in the context of temporary employment with the option of being taken on.
+This position is to be filled as part of temporary employment.
+
+Calculation engineer engine mechanics (drive train & cylinder unit) (m/f/x)
+
+Your tasks:
+ • Development and support of engine concepts through simulations for mechanical engine design
+ • Mathematical validation and participation in the release of engine components (strength, valve train dynamics, machine elements, torsional vibration, normative
+Requirements)
+ • Initiation of measurements and monitoring of the measurement projects on the calculation side
+ • Support for sales, service, production and purchasing with technical questions
+ • Presentation and representation of strength and dynamics issues in project teams
+ • Further development of methods and design tools, including support for research projects
+ • Planning and coordination in development projects involving internal and external partners
+
+Your qualifications:
+ • Successfully completed university degree with course content e.g. in the field of machine dynamics, design-accompanying calculation, simulation mechanics, combustion engines or comparable training
+ • Experience in the area of ​​structural mechanical FEM simulation, preferably with ANSYS
+ • Experience in strength assessment
+ • Experience in the field of machine elements advantageous
+ • Experience in the field of multi-body simulation advantageous, preferably with SIMPACK
+ • Independent work, resilience, flexibility and self-confidence in a team
+ • Confident handling of common office applications
+ • good written and spoken English knowledge
+
+Because your career also means precision work: exciting positions in industry that suit your requirements. Now click on "apply directly"!
+
+We welcome applications from people who contribute to the diversity of our company.	calculation engineer	None	2023-03-07 16:04:34.794000

@@ -1,0 +1,45 @@
+5169	7774	System manager - tool rollout "Aureon" (m/f/d)	System manager - tool rollout "Aureon" (m/f/d)
+
+Your tasks:
+
+- System manager for a passive safety system (e.g. post-crash)
+-Determination of the customer and system functions and properties of the system
+-Determination of the system limits (mechanics, E/E and software)
+-Mapping of customer functions on components and systems
+-Coordinate the component and system contributions with all involved areas
+- Creation of a system specification based on the SLH standard template
+-Regulatory requirements management Introduction of "Aureon" in the system specifications
+-Initiation of quality assurance measures (system FMEA, functional safety according to ISO 26262, reviews) and control of their implementation
+-Support SUMS (Software Update Management System according to UN-R156)
+-Documentation and management of EE and software changes analogous to QMH (quality management manual) method manual for preventive E/E and software
+- Development quality management and functional safety
+-Coordination of system issues in the operating and display concept
+-Provision of the requirements for testing and commissioning
+-Features in production and after-sales- Creation of a schedule (feature rollout)
+-Planning, implementation/coordination and assessment of tests - maturity assessment, error analysis and symptom assignment
+
+Your qualifications:
+
+- Completed scientific or engineering studies or a comparable qualification
+-Experience in series development of E/E systems and components and knowledge of current vehicle systems and EE architectures
+- Enthusiasm for complex passive safety systems
+-Experience with the common documentation methods in development (MBSE, DNG, EngClient, Smaragd)
+-Regulatory requirements management in relation to certification-relevant systems
+-Knowledge of the UN-R16 seat belt warning, UN-R94 crash and UN-R127 pedestrian protection regulations
+-Knowledge of the mapping of customer function chains and know the underlying methodology
+- Driving license class car for Germany
+
+Your advantages:
+
+-Remuneration according to one of the most attractive collective agreements in the industry (IGZ)
+- Annual leave entitlement of 30 days
+-Generous working time account with the possibility of payment from a certain number of hours
+- Subsidies for direct insurance (as a company pension scheme)
+-Professional and trusting cooperation
+- Supervision throughout the application process
+
+About Hays:
+
+With our many years of recruiting experience and our knowledge of the engineering personnel market, we offer specialists and managers from engineering and the technical environment a strong partnership. Because through our intensive relationships and networks across all industrial sectors, we can arrange exciting projects and attractive positions for you as engineering specialists. Depending on your interests and your experience and qualifications.
+You benefit from professional support from the first contact to the start of your new project or your new position - and of course this is completely free of charge.
+Register and look forward to interesting and suitable positions and projects.	quality manager	Hays plc is one of the world's leading personnel service providers for the recruitment of highly qualified specialists. Hays is active in both the private and public sectors and provides specialists for permanent positions, project work and temporary employment. The company employs more than 11,000 people in 33 countries worldwide and generated sales of EUR 6.50 billion in the 2017/2018 financial year. In Germany, Hays places specialists in the areas of IT, engineering, construction & property, life sciences, finance, sales & marketing, legal, retail and healthcare.	2023-03-07 16:01:09.785000

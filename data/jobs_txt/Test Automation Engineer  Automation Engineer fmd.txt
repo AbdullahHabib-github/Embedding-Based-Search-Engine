@@ -1,0 +1,25 @@
+9473	12078	Test Automation Engineer / Automation Engineer (f/m/d)	When you think about the topic of testing, you get itchy feet - you enjoy implementing, executing and analyzing test cases in a team - you also have knowledge of process models in software development - then seize the opportunity and apply himself at Brunel. Let's get started together! You as a test automator and we as one of the leading companies in engineering make up a powerful team for sure!
+
+Job description:
+
+- As a test automator, you will further develop the existing test automation strategy, which includes the entire range of all technologies used.
+- The design and implementation of automated test procedures for web applications in an agile software environment is also part of your area of ​​responsibility.
+- In addition, you are also responsible for the monitoring and exciting error analysis of the test execution.
+- You are actively involved in test automation - both web-based and desktop applications in the automotive sector.
+- Your innovative work environment also includes the implementation, execution and analysis of automated test cases.
+- As a real team player, you work closely with the development team, the technical consultants and the test and quality management.
+- Your new job will be rounded off with the analysis and coordination of the requirements and test specifications with the customer.
+
+Your profile:
+
+- You are an IT specialist with relevant professional experience or have an academic degree as a computer scientist or electrical engineer.
+- Existing knowledge of the automotive industry is an advantage.
+- You have good knowledge of object-oriented software development.
+- Experience with C# or another programming language is required.
+- Very good knowledge of German and good knowledge of English round off your profile.
+
+We offer:
+We offer you a corporate culture that is characterized by the diversity of our employees and mutual respect - between employees and at all levels of the company. In addition to varied get-togethers with the local Brunel teams, this also includes regular feedback discussions about your challenges and perspectives with your account manager. With individual further education and training you will be optimally supported and prepared for future projects. Unlimited employment contracts, 30 days vacation, work account regulations and company, employer-financed pension schemes are a matter of course for us.
+
+About Brunel:
+Working at Brunel means: Attractive work tasks, extraordinary career prospects, the security of an expanding engineering service provider and the whole diversity of engineering and IT. In the DACH-CZ region alone, we have over 45 locations and development centers with accredited test laboratories and over 100 locations worldwide with more than 12,000 employees in over 40 countries. More than 45 years of international success and over 25 years in Germany. Standing still means going backwards - with Brunel you can make a difference!	Engineer - automation technology	As one of the leading engineering service providers within the DACH region and the Czech Republic, Brunel stands for first-class project solutions and exceptional career opportunities in the range of modern engineering. Our 3,200 engineers, computer scientists, technicians and managers ensure the sustainable success of our customers in a wide variety of industries.	2023-03-07 16:09:57.968000

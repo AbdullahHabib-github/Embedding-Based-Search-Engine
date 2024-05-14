@@ -1,0 +1,27 @@
+9487	12092	Embedded Linux Developer (m/w) (w/m/d)	Do you want to take the next step up in your career- Brunel gives you the chance to continually develop and improve with big-name clients across a broad variety of industries. Take that crucial career step today: Apply to join Brunel as a Embedded Linux Developer.
+
+Arbeitsbeschreibung:
+
+- Participation in international project teams with focus on „Vehicle Computer Platform “
+- Definition and Implementation of a Strategy for Test-Automation with special focus on Continuous Delivery
+- Participation in definition and implementation of test-management 
+- Close cooperation and alignment with architects and integration-team 
+- Porting of test-framework(s) and test-cases of the ADIT Linux platform to new application processors
+- Requirements-engineering, architecture, design and documentation of corresponding components
+- Working with international teams and internal product areas
+
+Ihr Profil:
+
+- Completed degree in computer science, electrical engineering, mathematics or physics
+- Relevant Experience with software development or test-automation with embedded Linux 
+- Experience with test-automation tools  
+- Ability to cooperate with developers and suppliers in different countries
+- Very good skills in English language
+- Self-contained and target-oriented work-style
+- Commitment to follow ADIT quality standards
+
+Wir bieten:
+Brunel's corporate culture is shaped by the diversity of our people and a commitment to mutual respect – between colleagues and on every level of the company. That includes a varied program of social get-togethers with your local Brunel team, but also regular feedback sessions with your account manager to discuss the challenges you face and your prospects for the future. Personally, tailored training and development create ideal conditions to improve your skills and prepare yourself for future projects. At Brunel, indefinite employment contracts, 30 days vacation, flexible work time accounts and employer-funded company pension programs are business as usual.
+
+Über Brunel:
+To work for Brunel is to experience attractive work assignments, look forward to positive career prospects, enjoy the secure backing of a growing employer and explore the sheer diversity of the world of engineering and IT. In the DACH-CZ region, we have over 45 offices and development centres with accredited test laboratories. Globally, we have a network of more than 12,000 specialists at over 100 offices in over 40 countries. More than 45 years of international success and over 25 years in Germany – to stand still is to fall behind, so stay on the move with Brunel!	IT developer (further education/training)	As one of the leading engineering service providers within the DACH region and the Czech Republic, Brunel stands for first-class project solutions and exceptional career opportunities in the range of modern engineering. Our 3,200 engineers, computer scientists, technicians and managers ensure the sustainable success of our customers in a wide variety of industries.	2023-03-07 16:09:59.678000

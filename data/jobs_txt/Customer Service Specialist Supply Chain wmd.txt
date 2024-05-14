@@ -1,0 +1,39 @@
+9313	11918	Customer Service Specialist Supply Chain (w/m/d)	Would you like to reach the next level in your career? At Brunel you have the opportunity to continuously develop yourself with well-known customers - across all industries. Take the decisive step in your career today and apply to us as a Customer Service Specialist Supply Chain (m/f/d).
+
+Job description:
+
+- You are responsible for customer support in the SAP system.
+- Your main task is the processing of customer orders within various SAP systems for all export goods flows of the distribution platform.
+- You create needs analyzes with various supply planning tools.
+- You will also be responsible for transport planning and management.
+- The continuous coordination with interfaces and external stakeholders (customers, planning hubs, plant quality and demand management, transport companies, customs) is one of your tasks.
+- You generate the transport and export documentation.
+- You will also independently coordinate with the manufacturing locations with regard to the provision of goods.
+- Your activities also include continuous and responsible communication with customers.
+- You act as a window person for inquiries regarding the managed country portfolio.
+- You will monitor and manage the pivot flows between the various SAP systems.
+- Another focus of your work is the creation of KPI reports and analyses: management time, range analyses, transport carrier utilization, freight space calculation, transport cost forecasting.
+- The processing of complaints and returns as well as the creation of credit and debit notes is another field of activity.
+- You are also responsible for maintaining the master data in the material and customer master.
+
+Your profile:
+
+- Business studies with a focus on supply chain / logistics and/or completed commercial training (industrial clerk, forwarding clerk) with several years of professional experience in the relevant area
+
+- Fluent in German and English, both written and spoken
+
+- Very good knowledge of MS Office (Excel, Outlook, Word)
+
+- Very good knowledge of SAP (modules SD, MM)
+
+- Strong customer orientation and communication skills
+
+We offer:
+We offer you a corporate culture that is characterized by the diversity of our employees and by mutual respect - between employees and at all levels of the company. In addition to varied get-togethers with the local Brunel teams, this also includes regular feedback discussions about your challenges and perspectives with your account manager. With individual further education and training you will be optimally supported and prepared for future projects. Unlimited employment contracts, 30 days vacation, work account regulations and company, employer-financed pension schemes are a matter of course for us.
+
+About Brunel:
+Working at Brunel means: Attractive work tasks, extraordinary career prospects, the security of an expanding engineering service provider and the whole diversity of engineering and IT. In the DACH-CZ region alone, we have more than 40 locations and development centers with accredited test laboratories and more than 120 locations worldwide with more than 12,000 employees in over 40 countries. More than 45 years of international success and over 25 years in Germany. Standing still means going backwards - with Brunel you can make a difference!	Supply-Chain-Manager/in	As one of the leading engineering service providers within the DACH region and the Czech Republic, Brunel stands for first-class project solutions and exceptional career opportunities in the range of modern engineering. Our more than 2,800 engineers, computer scientists, technicians and managers ensure the sustainable success of our customers in a wide variety of industries.
+
+• More than 40 locations and development centers with accredited test laboratories
+• More than 45 years of international success and over 25 years in Germany
+• more than 120 locations worldwide with more than 12,000 employees in over 40 countries	2023-03-07 16:09:38.286000

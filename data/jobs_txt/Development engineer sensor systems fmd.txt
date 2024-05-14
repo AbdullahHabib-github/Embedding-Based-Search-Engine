@@ -1,0 +1,30 @@
+9301	11906	Development engineer sensor systems (f/m/d)	Are you looking for a new professional challenge? For our well-known customer, an international company in the automotive industry, we are looking for support as soon as possible. The department in which you work focuses on reducing CO2 emissions coupled with increased performance and comfort and deals with the conception and design of electro-hydraulic control and sensor systems.
+
+Job description:
+
+- Responsibility for the design of the sensor systems for actuators in various units of the passenger car series (battery electric, hybrid and conventional)
+- Functional assurance of the system, taking into account all influencing factors and tolerances
+- Creation, implementation and evaluation of test series in real driving operation on the road with test vehicles or on the test bench
+- Preparation, evaluation, analysis and documentation of measurements as well as the creation of release recommendations based on validation tests
+- Development of series concepts in cooperation with other areas, taking into account the project budget and project schedules
+- Perception of representative functions as an interface to development partners
+
+Your profile:
+
+- Completed degree in automotive engineering, mechanical engineering, mechatronics, vehicle systems, information technology, information technology, electrical engineering, industrial engineering, technical business administration, aerospace engineering, communications engineering or a comparable degree required
+- Knowledge of the interaction of mechatronic systems in automobiles, particularly in the powertrain environment, desirable
+- Basic knowledge of Vector CANape, NI Diadem and the VBS programming language desirable
+- Fluency in written and spoken German and English
+
+We offer:
+
+- Permanent employment contracts
+- In-house ver.di collective agreement
+- Flextime account
+- Funding concepts and further training
+- Social and additional benefits
+- 30 days holiday
+- Remote work/ mobile working
+
+About Brunel:
+Working at Brunel means: Attractive work tasks, extraordinary career prospects, the security of an expanding engineering service provider and the whole diversity of engineering and IT. In the DACH-CZ region alone, we have more than 40 locations and development centers with accredited test laboratories and more than 120 locations worldwide with more than 12,000 employees in over 40 countries. More than 45 years of international success and over 25 years in Germany. Standing still means going backwards - with Brunel you can make a difference!	Engineer - vehicle technology	As one of the leading engineering service providers within the DACH region and the Czech Republic, Brunel stands for first-class project solutions and exceptional career opportunities in the range of modern engineering. Our 3,200 engineers, computer scientists, technicians and managers ensure the sustainable success of our customers in a wide variety of industries.	2023-03-07 16:09:36.819000

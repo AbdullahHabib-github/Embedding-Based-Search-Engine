@@ -1,0 +1,31 @@
+6533	9138	Engineer in the field of testing and validation (m/f/x)	Tasks:
+
+- Ensuring the validation of all internal and customer requirements for ADAS sensors and functions
+
+- Creation, maintenance and execution of project test strategy and planning with cross product application and project milestone planning
+
+- Alignment of all test methods with regard to applicability, availability and structure
+
+- Test coverage according to project plan in test depth and quality
+
+- Presentation of all test domains and reports of the validation status internally and to customers
+
+
+
+Profile:
+
+- Studies in the field of driver assistance systems, vehicle technology, electrical engineering, mechanical engineering, computer science or a comparable qualification
+
+- Several years of professional experience in test or project management in the automotive or comparable industry as well as in the development or testing of electronic components or software
+
+- Professional experience with the ADAS functionality and in the development and test processes, e.g. e.g. ASPICE, ISO26262, ISTQB
+
+- Knowledge of DOORS NG, Jira, Confluence, MS Office, agile development process
+
+- Good knowledge of German and English	Engineer - vehicle technology	Make a career...
+
+Are you an engineer, computer scientist, bachelor's, master's, technician m/f? Then make a career with ep at leading technical companies. Face the challenge that motivates you. And enjoy team spirit, diversity, security.
+
+We find your solutions. We continue to develop your potential in a targeted manner. We realize your visions: in engineering, application and testing, project management, IT.
+
+ep. your engineering company. supporting experts.	2023-03-07 16:03:57.494000

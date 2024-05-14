@@ -1,0 +1,31 @@
+6485	9090	Development Engineer Control Units - Diagnosis (m/f/x)	Tasks:
+
+- Acquisition of the requirements for diagnosis and bootloader in software projects in the automotive sector
+
+- Analysis and comparison of requirements with customers and other departments
+
+- Creation of specifications
+
+- Independent implementation of software requirements
+
+
+
+Profile:
+
+- Studies in computer science, electrical engineering, electronics or a comparable subject
+
+- Several years of professional experience in software development in the automotive sector
+
+- Very good knowledge of vehicle diagnostics (UDS, DoCAN, DoIP, ODX)
+
+- Good knowledge of C/C++, MISRA-C and embedded systems in drive technology, using tools such as MS-VS, Git, Integrity, Doors and Vector tools such as Candela, CANoe, CANoe.Diva and CANape
+
+- Distinctive communication skills in an international environment as well as abstract thinking skills
+
+- Very good knowledge of German and English	Computer scientist (university)	Make a career...
+
+Are you an engineer, computer scientist, bachelor's, master's, technician m/f? Then make a career with ep at leading technical companies. Face the challenge that motivates you. And enjoy team spirit, diversity, security.
+
+We find your solutions. We continue to develop your potential in a targeted manner. We realize your visions: in engineering, application and testing, project management, IT.
+
+ep. your engineering company. supporting experts.	2023-03-07 16:03:51.659000

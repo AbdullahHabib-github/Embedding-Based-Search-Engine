@@ -1,0 +1,38 @@
+8772	11377	SAP Inhouse Consultant Master Data Management (m/w/d)	Internationally present and successful, the family-run ifm group of companies has been setting the highest quality standards and technical milestones in the automation industry since 1969.
+
+We are looking for you at our company headquarters in Essen
+
+SAP Inhouse Consultant Master Data Management (m/f/d)
+
+Your tasks
+
+You advise internal customers from conception to implementation in the area of ​​master data management and analyze the processes and system landscape
+You carry out data migrations in national and international projects
+You identify and implement improvement measures and definitions of solutions in the SAP core
+You also take into account all connected systems including the extension to the SAP standard (if necessary also SAP MDG)
+They provide tools for mass updates and also take care of the implementation
+You are the contact person for the global SAP key users for support requests
+
+your profile
+
+You have many years of experience in SAP master data management and SAP data migration
+You have very good knowledge of migration tools and methods such as LSMW and SAP Migration Cockpit as well as experience in ABAP development and knowledge of SAP data models
+Your very good English language skills and very good communication skills round off your profile
+
+We offer
+
+Very good transport links in a central location
+A free public transport ticket or alternatively a parking allowance
+Child care offers such as holiday care or KiTa places
+30 days vacation plus extra free between Christmas and New Year
+An attractive company pension scheme and offers for occupational disability insurance
+Health offers such as massages, nutritional advice and much more.
+A modern and varied company restaurant with an outdoor terrace
+
+Apply now - we look forward to seeing you!
+
+ifm group services gmbh
+Mark Backhaus
+ifm group services gmbh
+Friedrichstr. 1
+45128 food	ERP consultant - ERP consultant	None	2023-03-07 16:08:32.008000

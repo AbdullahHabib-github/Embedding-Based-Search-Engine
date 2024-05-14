@@ -1,0 +1,36 @@
+6759	9364	IT application developer (m/f/d) monitoring tools	Our new project is all about programming tools for the energy industry in Leipzig.
+
+We are looking for a:n
+This position is to be filled within the framework of direct placement / within the framework of permanent placement.
+
+IT application developer (m/f/d) monitoring tools
+
+Your tasks:
+ • You ensure the smooth operation of microservices and the optimization of fast and secure CI/CD pipelines
+ • Your task is to automatically provide the IT infrastructure for the operation of the virtual power plant using software development methods
+ • You create concepts for the permanent monitoring of microservices by programming monitoring and reporting tools
+ • Continuous delivery is ensured through continuous exchange with the product development team
+
+Your qualifications:
+ • You have a university degree, vocational training or professional experience in the IT sector
+ • You have knowledge of development in the Linux environment as well as Docker & Kubernetes and CI/CD processes
+ • Your previous focus has been on the automation of systems and processes (Ansible, Chef)
+ • Expertise in databases (MongoDB, PostgreSQL and MSSQL) or in virtualization (VMware) is an advantage
+
+What she expects:
+ • Team spirit and diversity
+ • Work-life balance
+ • Attractive remuneration
+ • Social benefits
+ • Versatile training opportunities
+ • Team and sports events
+ • Global network
+ • Attractive employee referral program
+
+Benefits may vary by position and location. An overview of our benefits can be found on our website under Careers and Benefits.
+
+Send us your application directly. We are at your disposal for any questions. We welcome applications from people who contribute to the diversity of our company.	IT solution developer	WE GIVE ENGINEERS THE FREEDOM TO CREATE THE FUTURE
+Starting with product development, euro engineering AG offers services that are based on the typical engineering process. From the conception through development, construction, calculation and testing to project management and documentation, we work with passion on and in future-oriented projects of our customers.
+
+Industry sectors:
+Mechanical engineering, plant construction, automotive, construction, process engineering, precision engineering, electrical engineering, medical technology, hardware and software development	2023-03-07 16:04:25.183000

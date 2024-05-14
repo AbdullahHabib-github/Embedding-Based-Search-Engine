@@ -1,0 +1,21 @@
+9283	11888	Embedded Software Developer (f/m/d)	Are you an enthusiastic software developer and eager to contribute your skills to the development of innovative products based on highly integrated embedded systems? At Brunel, you and your team will develop the new generation of components, e.g. driver assistance systems. We are looking for you as an embedded software developer for this demanding task.
+
+Job description:
+
+- Your tasks include the creation, implementation, testing and documentation of software in the hardware-related area, for example for future control units in the automotive sector.
+- As a member of an agile team, you will develop mechanisms and processes as part of ECU development.
+- As part of the end-to-end responsibility, you will carry out reviews in your functional area and ensure high software quality through continuous troubleshooting and troubleshooting.
+- The integration of the developed mechanisms in larger development setups completes your area of ​​responsibility.
+
+Your profile:
+
+- You have a successfully completed degree in computer science, mathematics, electrical engineering or similar.
+- Experience in embedded software development is desirable.
+- You can demonstrate knowledge of programming with C/C++, as well as knowledge of handling Vector tools and requirements analysis.
+- Very good knowledge of German and English is required.
+
+We offer:
+We offer you a corporate culture that is characterized by the diversity of our employees and mutual respect - between employees and at all levels of the company. In addition to varied get-togethers with the local Brunel teams, this also includes regular feedback discussions about your challenges and perspectives with your account manager. With individual further education and training you will be optimally supported and prepared for future projects. Unlimited employment contracts, 30 days vacation, work account regulations and company, employer-financed pension schemes are a matter of course for us.
+
+About Brunel:
+Working at Brunel means: Attractive work tasks, extraordinary career prospects, the security of an expanding engineering service provider and the whole diversity of engineering and IT. In the DACH-CZ region alone, we have 49 branches, two development centers and 120 locations worldwide with more than 13,000 employees in 46 countries. More than 45 years successful internationally and over 25 years in Germany. Standing still means going backwards - with Brunel you can make a difference!	software developer	Brunel is one of the leading engineering service providers in the DACH region and the Czech Republic. We stand for first-class project solutions and exceptional career opportunities across the entire spectrum of modern engineering. 3,200 engineers, computer scientists, technicians and managers ensure the sustainable success of our customers in a wide variety of industries - from medium-sized hidden champions to global players.	2023-03-07 16:09:34.555000

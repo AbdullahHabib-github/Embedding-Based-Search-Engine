@@ -1,0 +1,35 @@
+4068	6673	System Engineer Data Center DCIM/CMDB (m/w/d)	## About Miele
+
+How does a family business become world market leader in the premium segment for household appliances and a sought-after partner for solutions in commercial and medical technology? By claiming to always do better and to keep getting better. This attitude characterizes working at Miele and the success of our products. Our approximately 22,000 employees can rely on one thing: anyone who lives our pursuit of quality will grow with it personally and professionally.
+
+## About the area
+
+The Cloud & Data Center Integration area is part of IT Operations & Infrastructure. The 22-strong team takes over the operation of the central data centers, the distributed central infrastructure components and responsibility for infrastructure operations at our cloud providers.
+ The Data Center Infrastructure team is responsible for the operation of the data center at the Gütersloh location together with the site services and the provision of important infrastructure components (server, storage, etc.) for the data center and factory and VG locations.
+
+## System Engineer m|w|d Data Center DCIM/CMDB
+
+Place of work: Gütersloh
+ Limitation unlimited
+ Type of employment: full-time
+ Start: immediately
+
+## This is the task
+
+- Conception of the data architecture within the ServiceNow CMDB
+- Continuous maintenance of the configuration item interface within the configuration management in cooperation with the process manager m|w|d for Service Asset and Configuration Management (SACM)
+- Implementation and operation of the ServiceNow discovery solution
+- Development of specific solutions from the requirements analysis through the design and development phase to GoLive
+- Active participation in projects
+
+## That convinces us
+
+- Relevant studies, comparable qualifications in the IT sector or career changers with relevant professional experience
+- Several years of ServiceNow development experience on a procedural and technical level, ideally in IT asset & configuration management
+- You are familiar with methods of agile project management
+- High commitment, initiative, solution-oriented, analytical thinking and an independent and structured way of working
+- Fluent German and English skills, both written and spoken
+
+## These are the benefits
+
+Place of work: Gütersloh Time limit: unlimited Type of employment: full-time Start: immediately	IT-System administrator/in	None	2023-03-07 15:58:53.758000

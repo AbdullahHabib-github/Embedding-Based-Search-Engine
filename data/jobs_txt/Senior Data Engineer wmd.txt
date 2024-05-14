@@ -1,0 +1,49 @@
+9802	12407	Senior Data Engineer (w/m/d)	In the D4YS team, we work closely with our internal customers
+on topics in the area of ​​Big Data: Data Lake, Everything as Code and DevOps
+are not just buzzwords for us, but everyday working life.
+
+
+We are looking for you as a Senior Data Engineer as soon as possible
+for DB Systel. You can choose to be mostly remote
+or at one of our locations in Berlin, Erfurt or Frankfurt am Main
+want to work. As soon as it is possible again, we will come regularly
+in Frankfurt am Main, if the project requires it
+also more often.
+
+
+*Your tasks:*
+
+
+
+· You support the solution architecture of our platform in the area
+Data Lake, Big Data and Analytics
+· You will actively advise our internal customers on current issues
+Architectures in the Big Data and Analytics environment, this is where you move
+both internally and externally at all levels
+· You take over development and operation according to customer requirements
+complex ETL processes in terms of the DevOps approach
+· Together with the team you operationalize complex technological ones
+Requirements
+· You develop very demanding and extensive concepts for
+Data integration using Apache Spark/Scala based on AWS
+technologies off
+· You bring in your innovative ideas and drive them forward to help us
+to develop as a team
+
+*Your profile:*
+
+
+
+· You have completed a (technical) university degree
+(Business) informatics or a comparable subject or one
+Training in the IT sector with many years of professional experience
+· You have strong practical skills in the BI and Big Data environment
+Experience, ideally with Scala and Spark as well as the AWS Cloud
+· You are familiar with agile software development and the operation of ETL routes
+you look great
+· You already have experience in the environment of Big Data architectures
+as well as with databases, especially Postgres, Python, IaC
+and CI/CD are no foreign words for you
+· Draw your sense of responsibility and communication skills
+Have fun, you live agility and sometimes proactively push topics forward
+· Fluent knowledge of German completes your profile	software developer	None	2023-03-07 16:10:38.217000

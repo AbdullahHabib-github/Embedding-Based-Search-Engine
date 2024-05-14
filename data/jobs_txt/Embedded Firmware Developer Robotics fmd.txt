@@ -1,0 +1,26 @@
+9349	11954	Embedded Firmware Developer Robotics (f/m/d)	Would you like to reach the next level in your career? At Brunel you have the opportunity to continuously develop yourself with well-known customers - across all industries. Take the decisive step in your career today and apply to us as an embedded software developer in the field of robotics.
+
+Job description:
+
+- You are responsible for the development of embedded software / firmware in research and industry.
+- Your area of ​​responsibility also includes the design, development and documentation of automation devices.
+- In addition, there is the design and development of firmware / embedded software (C/C++) for device components.
+- You are also responsible for test-driven development.
+- Your tasks also include the testing and verification of firmware / embedded software under application-related conditions.
+- You also carry out the maintenance and further development of the existing equipment.
+
+Your profile:
+
+- You have successfully completed your studies, preferably automation technology, mechatronics, robotics, computer engineering or electrical engineering.
+- You have programming experience with object-oriented languages, preferably C and C++.
+- You are characterized by team spirit, openness, the willingness to constantly learn and the ability to think analytically and abstractly.
+- You bring fluent German and English skills with you.
+
+We offer:
+We offer you a permanent employment contract and an in-house collective agreement that is tailored to the salary structures of the various professional groups and rewards qualifications and professional experience. In addition to the collectively agreed social benefits of an expanding company, we offer you the opportunity to grow with new challenges through interesting and demanding projects. In combination with support through further training, you will be able to grow both professionally and personally over the next few years. With the opportunity to exchange information with Brunel employees worldwide, you will benefit in the long term from different knowledge and experiences.
+
+About Brunel:
+Working at Brunel means: Attractive work tasks, extraordinary career prospects, the security of an expanding engineering service provider and the whole diversity of engineering and IT. In the DACH-CZ region alone, we have over 45 locations and development centers with accredited test laboratories and over 100 locations worldwide with more than 12,000 employees in over 40 countries. More than 45 years of international success and over 25 years in Germany. Standing still means going backwards - with Brunel you can make a difference!	Engineer - mechatronics	More than 2,800 engineers, technicians, computer scientists and managers
+Over 40 locations and development centers with accredited testing laboratory
+More than 45 years of international success and over 25 years in Germany
+more than 120 locations worldwide with more than 12,000 employees in over 40 countries	2023-03-07 16:09:42.714000

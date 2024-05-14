@@ -1,0 +1,18 @@
+4086	6691	Junior Developer - Java / JavaScript / HTML5 (m/f/d)	Trebing + Himstedt is an innovation partner for the digital transformation of value-added systems with MES and IoT solutions based on SAP. Manufacturing companies from hidden champions to large corporations are supported in driving, testing and successfully implementing innovations. Many years of experience at the machine level and automation - combined with process know-how and knowledge of business requirements - make us a sought-after digital consultant. Right from the start, our employees enjoy our trust and an unusually high degree of freedom, both in their daily work and in their personal development. Shape the digital change in industry as a developer (m/f/d) and bring the factory of the future to life.
+
+## Your tasks
+
+- Participation in innovative SMART Factory/IoT projects using Java/JavaSript/HTML5/ SAPUI5, JQuery, ODATA/REST services, JEE and CloudFoundry
+- Support in the implementation of customer projects (custom development) in mixed international teams consisting of colleagues and external partners with agile project methods
+- Assisting in the creation of solution designs, architecture and code templates
+- Support in the process and system analysis on site at the customer
+- Initiating optimizations in development processes and software architecture in an agile team
+
+## Your qualifications
+
+- Passion for innovative projects in the Smart Manufacturing/Supply Chain Enterprise environment
+- First professional experience in the IT environment (software development, programming) advantageous
+- Practical knowledge of at least one of the following technologies: Java, Node.js, AngularJS, Python, HTML5/SAPUI5, C++, JavaScript or MS SQL, Oracle, MongoDB desirable
+- Confident knowledge of spoken and written English
+- Excellent teamwork, customer orientation and communication skills
+- Enjoys pair programming and coaching for professional development	Application programmer	None	2023-03-07 15:58:55.985000

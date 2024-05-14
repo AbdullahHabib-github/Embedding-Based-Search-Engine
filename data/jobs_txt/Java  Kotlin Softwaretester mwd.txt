@@ -1,0 +1,37 @@
+6525	9130	Java / Kotlin Softwaretester (m/w/d)	Tasks:
+
+- Conception, implementation and commissioning of individual requirement-based test cases of an analysis software
+
+- Creation of test plans and specifications at module and system level
+
+- Automated functional and non-functional software tests using the following technologies: Cucumber, Selenium and Gatling
+
+- Execution and documentation of automated and manual tests at module and system level
+
+- Expert advice and continuous improvement of software-related quality aspects
+
+- Support in reviewing the requirements
+
+
+
+Profile:
+
+- Studies in computer science or comparable qualification
+
+- At least two years of professional experience as a software tester and experience in the field of test automation
+
+- Certification as a software tester (ISTQB Certified Tester) is desirable
+
+- Good knowledge of test methods, techniques and test tools in an agile environment
+
+- Solution-oriented and agile way of working
+
+- Commitment, teamwork and communication skills
+
+- Very good knowledge of German and English	Computer scientist (university)	Make a career...
+
+Are you an engineer, computer scientist, bachelor's, master's, technician m/f? Then make a career with ep at leading technical companies. Face the challenge that motivates you. And enjoy team spirit, diversity, security.
+
+We find your solutions. We continue to develop your potential in a targeted manner. We realize your visions: in engineering, application and testing, project management, IT.
+
+ep. your engineering company. supporting experts.	2023-03-07 16:03:56.519000
