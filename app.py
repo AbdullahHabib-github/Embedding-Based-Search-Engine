@@ -18,10 +18,6 @@ course_descriptions_list = []
 job_descriptions_list = []
 job_directory = "data/jobs_docs"
 
-# Load embeddings outside the request loop (assuming same language)
-loaded_embeddings = torch.load('Embedding/en/merged_embeddings_en.pt')  # Adjust path based on language logic
-course_embeddings_tensor = torch.cat([loaded_embeddings])
-
 # Initialize tokenizer and model (can be done outside for better performance)
 tokenizer = AutoTokenizer.from_pretrained("thenlper/gte-large")
 model = AutoModel.from_pretrained("thenlper/gte-large")
@@ -47,9 +43,12 @@ def recommend_jobs():
   # Get user prompt from JSON payload
   data = request.get_json()
   user_prompt = data.get('prompt')
-
+  print("user_prompt",user_prompt)
   if not user_prompt:
     return jsonify({'error': 'Missing prompt in request body'}), 400
+
+  loaded_embeddings = torch.load('Embedding/Jobs/merged_embeddings.pt')  # Adjust path based on language logic
+  job_embeddings_tensor = torch.cat([loaded_embeddings])
 
   if not job_descriptions_list:
     load_jobs_description(job_directory)
@@ -63,17 +62,10 @@ def recommend_jobs():
   prompt_embedding = F.normalize(prompt_embedding, p=2, dim=1)
 
   # Calculate similarity scores
-  scores = torch.matmul(prompt_embedding, course_embeddings_tensor.T)
+  scores = torch.matmul(prompt_embedding, job_embeddings_tensor.T)
   scores = scores.squeeze()  # Remove extra dimensions
 
-  # Rank courses based on similarity scores
-  if not job_descriptions_list:
-    for filename in os.listdir(job_directory):
-      if filename.endswith(".txt"):
-        # file_path = os.path.join(job_directory, filename)
-        job_descriptions_list.append(filename)
-
-  top_k = 5  # Number of top courses to recommend
+  top_k = 5  # Number of top jobs to recommend
 
   top_indices = scores.argsort(descending=True)[:top_k]
 
@@ -89,6 +81,7 @@ def recommend_jobs():
 @app.route('/recommend_courses', methods=['POST'])
 def recommend_courses():
   # Get data from JSON payload
+
   data = request.get_json()
   language = data.get('language')
   
@@ -97,9 +90,17 @@ def recommend_courses():
 
   # Load course descriptions based on language
   if language == 'en':
+  
+    loaded_embeddings = torch.load('Embedding/en/merged_embeddings_en.pt')  # Adjust path based on language logic
+    course_embeddings_tensor = torch.cat([loaded_embeddings])
+
     if not course_descriptions_list:
       load_course_descriptions(course_directory_en)
   else:
+    
+    loaded_embeddings = torch.load('Embedding/de/merged_embeddings_de.pt')  # Adjust path based on language logic
+    course_embeddings_tensor = torch.cat([loaded_embeddings])
+
     if not course_descriptions_list:
       load_course_descriptions(course_directory_de)
 

@@ -3,7 +3,7 @@ import os
 import requests
 
 
-BASE_URL = "https://3khsmtgg-5000.inc1.devtunnels.ms"
+BASE_URL = "https://3mtgg-5000.inc2.devtunnels.ms"
 
 def search_courses_documents(query,language):
     url = BASE_URL + "/recommend_courses"   # Replace this with your URL
