@@ -3,7 +3,7 @@ import os
 import requests
 
 
-BASE_URL = "https://3mtgg-5000.inc2.devtunnels.ms"
+BASE_URL = "http://127.0.0.1:5000"
 
 def search_courses_documents(query,language):
     url = BASE_URL + "/recommend_courses"   # Replace this with your URL
@@ -17,7 +17,7 @@ def search_courses_documents(query,language):
     # Checking if the request was successful
     if response.status_code == 200:
         # Returning the JSON response
-        return response.json()["recommendations"]
+        return response.json()
     else:
         # If the request was not successful, print the status code and response content
         print("Error:", response.status_code, response.content)
@@ -36,7 +36,7 @@ def search_jobs_documents(query):
     # Checking if the request was successful
     if response.status_code == 200:
         # Returning the JSON response
-        return response.json()["recommendations"]
+        return response.json()
     else:
         # If the request was not successful, print the status code and response content
         print("Error:", response.status_code, response.content)
@@ -62,6 +62,8 @@ if st.button("Search"):  # Add the button
     # Pass the selected document type and query to the search function
     if selected_document_type == "Courses" and selected_language:
         results = search_courses_documents(query,selected_language)  # Move search execution inside button logic 
+        recommendations = results["recommendations"]
+        scores = results["scores"]
         if selected_language == "de":
             directory = "data\\courses\\zqm_modul\\de\\"
         elif selected_language == "en": 
@@ -70,15 +72,16 @@ if st.button("Search"):  # Add the button
     elif selected_document_type == "Jobs":
         results = search_jobs_documents(query)  
         directory = "data\\jobs_docs\\"
-  
+        recommendations = results["recommendations"]
+        scores = results["scores"]
     if results:
         st.markdown("# Results:")
-        for result in results:
-            filepath = os.path.join(directory, result)  # Combine path and filename
+        for i in range(len(recommendations)):
+            filepath = os.path.join(directory, recommendations[i])  # Combine path and filename
             filepath = str(filepath)
             with open(filepath, "rb") as f:
                 file_data = f.read()
-            st.download_button(label=result, data=file_data, file_name=result)
+            st.download_button(label=f"{recommendations[i]};  Similarity Score: {scores[i]}", data=file_data, file_name=recommendations[i])
 
     else:
         st.write("No documents found matching your query.")

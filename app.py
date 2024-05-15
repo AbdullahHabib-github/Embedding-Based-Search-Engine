@@ -72,7 +72,7 @@ def recommend_jobs():
   recommended_job = [job_descriptions_list[i] for i in top_indices]
 
   # Return recommendations as JSON
-  return jsonify({'recommendations': recommended_job})
+  return jsonify({'recommendations': recommended_job,"scores": scores[top_indices].tolist()})
 
 
 
@@ -126,9 +126,8 @@ def recommend_courses():
   top_k = 5  # Number of top courses to recommend
   top_indices = scores.argsort(descending=True)[:top_k]
   recommended_courses = [course_descriptions_list[i] for i in top_indices]
-
   # Return recommendations as JSON
-  return jsonify({'recommendations': recommended_courses})
+  return jsonify({'recommendations': recommended_courses, "scores": scores[top_indices].tolist()})
 
 
 if __name__ == '__main__':
