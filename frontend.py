@@ -43,31 +43,8 @@ def search_en_courses_documents(query):
 
 
 
-# def search_jobs_documents(query):
-#     url = BASE_URL + "/recommend_jobs"   # Replace this with your URL
-#     data = {"prompt": query}  # Assuming your API expects the query in a JSON format
-#     headers = {"Content-Type": "application/json"}  # Specifying JSON content type
-
-#     # Making the POST request
-#     response = requests.post(url, json=data, headers=headers)
-#     print(response)
-#     # Checking if the request was successful
-#     if response.status_code == 200:
-#         # Returning the JSON response
-#         return response.json()
-#     else:
-#         # If the request was not successful, print the status code and response content
-#         print("Error:", response.status_code, response.content)
-#         return None  # Or handle the error in a way that suits your application
-
-
 # Streamlit App
 st.title("HMI Search Engine")
-
-# # Add a dropdown menu for selecting document types
-# document_types = ["Jobs","Courses"]
-# selected_document_type = st.selectbox("Select document type:", document_types)
-
 
 # if selected_document_type == "Courses":
 languages = ["en","de"]
@@ -91,12 +68,6 @@ if selected_language and query and st.button("Search"):  # Add the button
         print(recommendations)
         scores = results["scores"]
 
-
-    # elif selected_document_type == "Jobs":
-    #     results = search_jobs_documents(query)  
-    #     directory = "data\\jobs_docs\\"
-    #     recommendations = results["recommendations"]
-    #     scores = results["scores"]
         if results:
             st.markdown("# Results:")
             for i in range(len(recommendations)):
