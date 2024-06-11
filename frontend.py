@@ -79,6 +79,10 @@ if selected_language and query and st.button("Search"):  # Add the button
 
     if results:
         st.markdown("# Maximum Similar Results")
+        if selected_language == "de":
+            st.code("The detected language is German")
+        elif selected_language == "en":
+            st.code("The detected language is English")   
         for i in range(len(recommendations)):
             filepath = os.path.join(directory, recommendations[i])  # Combine path and filename
             filepath = str(filepath)
