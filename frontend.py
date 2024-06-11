@@ -47,7 +47,9 @@ def search_en_courses_documents(query):
 # Streamlit App
 st.title("Human Machine Interaction")
 
-st.markdown("Course Search Engine")
+st.markdown("### Course Search Engine")
+
+st.markdown("\n\n\n\n\n\n\n\n")
 
 # if selected_document_type == "Courses":
 # languages = ["en","de"]
@@ -72,11 +74,11 @@ if selected_language and query and st.button("Search"):  # Add the button
         results = search_en_courses_documents(query)  # Move search execution inside button logic 
 
     recommendations = results["recommendations"]
-    print(recommendations)
+    # print(recommendations)
     scores = results["scores"]
 
     if results:
-        st.markdown("# Results:")
+        st.markdown("# Maximum Similar Results")
         for i in range(len(recommendations)):
             filepath = os.path.join(directory, recommendations[i])  # Combine path and filename
             filepath = str(filepath)
@@ -88,7 +90,8 @@ if selected_language and query and st.button("Search"):  # Add the button
                 color = "blue-background"    
             else:
                 color = "red-background"    
-            st.download_button(label=f":{color}[{recommendations[i]};  Similarity Score: {scores[i]}]", data=file_data, file_name=recommendations[i])
+            st.download_button(label=f":{color}[{recommendations[i]}]", data=file_data, file_name=recommendations[i])
+            st.text(f"Similarity Score: {scores[i]}\n")
 # blue, green, orange, red, violet, gray/grey, rainbow
     else:
         st.write("No documents found matching your query.")
