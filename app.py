@@ -1,72 +1,49 @@
 from flask import Flask, request, jsonify
-import torch
-import torch.nn.functional as F
-from transformers import AutoTokenizer, AutoModel
-import os
-import docx2txt
+import courses as nc
+import facets as fc
 
 app = Flask(__name__)
-
-# Directories
-course_directory_en = "data/courses/zqm_modul/en"
-course_directory_de = "data/courses/zqm_modul/de"
-
-
-tokenizer = AutoTokenizer.from_pretrained("thenlper/gte-large")
-model = AutoModel.from_pretrained("thenlper/gte-large")
-
-
-def load_course_descriptions(course_directory):
-  course_descriptions = {}
-  course_descriptions_list = []
-  for filename in os.listdir(course_directory):
-    if filename.endswith(".docx"):
-      file_path = os.path.join(course_directory, filename)
-      course_content = docx2txt.process(file_path)
-      course_descriptions[filename] = course_content
-      course_descriptions_list.append(filename)
-  return course_descriptions, course_descriptions_list
-
 
 # Load descriptions based on language in request
 @app.route('/recommend_en_courses', methods=['POST'])
 def recommend_en_courses():
   # Get data from JSON payload
 
+  fc.get("data/courses/zqm_modul/en")
+  nc.get("data/courses/zqm_modul/en","Embedding/en/merged_embeddings_en.pt")
+
   data = request.get_json()
   
-  loaded_embeddings = torch.load('Embedding/en/merged_embeddings_en.pt')  # Adjust path based on language logic
-  course_embeddings_tensor = torch.cat([loaded_embeddings])
-
-  course_descriptions ,course_descriptions_list = load_course_descriptions(course_directory_en)
-
   # Rest of the recommendation logic (same as before)
   user_prompt = data.get('prompt')
 
   if not user_prompt:
     return jsonify({'error': 'Missing prompt in request body'}), 400
 
-  # Tokenize the prompt
-  prompt_tokenized = tokenizer(user_prompt, max_length=512, padding=True, truncation=True, return_tensors='pt')
+  fc.taking_input(user_prompt)
+  out1 = fc.sent()
+  out2 = nc.sent()
+  #These are the list of of output files
+  # print(out1)
+  # print(out2)
 
-  # Compute embeddings for the prompt
-  prompt_outputs = model(**prompt_tokenized)
-  prompt_embedding = prompt_outputs.last_hidden_state.mean(dim=1)
-  prompt_embedding = F.normalize(prompt_embedding, p=2, dim=1)
+  combined_names = out1["recommendations"] + out2["recommendations"]
+  combined_scores = out1["scores"] + out2["scores"]
 
-  # Calculate similarity scores
-  scores = torch.matmul(prompt_embedding, course_embeddings_tensor.T)
-  scores = scores.squeeze()  # Remove extra dimensions
+  # Create a list of tuples (score, name) and sort it
+  combined = list(zip(combined_scores, combined_names))
+  combined_sorted = sorted(combined,reverse=True,key=lambda x: x[0])
 
-  # Rank courses based on similarity scores
-  top_k = 5  # Number of top courses to recommend
+  # Separate the sorted scores and names
+  sorted_scores, sorted_names = zip(*combined_sorted)
 
-  recommended_courses = []
-  top_indices = scores.argsort(descending=True)
-  for i in top_indices:
-    recommended_courses.append(course_descriptions_list[i])
+  # Create the new dictionary
+  out = {"recommendations": list(sorted_names), "scores": list(sorted_scores)}
+  fc.empty()
+  nc.empty()
 
-  return jsonify({'recommendations': recommended_courses, "scores": scores[top_indices].tolist()})
+
+  return jsonify(out)
 
 
 
@@ -76,41 +53,40 @@ def recommend_en_courses():
 def recommend_de_courses():
   # Get data from JSON payload
 
+  fc.get("data/courses/zqm_modul/de")
+  nc.get("data/courses/zqm_modul/de","Embedding/de/merged_embeddings_de.pt")
+
   data = request.get_json()
-
-  loaded_embeddings = torch.load('Embedding/de/merged_embeddings_de.pt')  # Adjust path based on language logic
-  course_embeddings_tensor = torch.cat([loaded_embeddings])
-
-  course_descriptions ,course_descriptions_list = load_course_descriptions(course_directory_de)
-
+  
   # Rest of the recommendation logic (same as before)
   user_prompt = data.get('prompt')
 
   if not user_prompt:
     return jsonify({'error': 'Missing prompt in request body'}), 400
 
-  # Tokenize the prompt
-  prompt_tokenized = tokenizer(user_prompt, max_length=512, padding=True, truncation=True, return_tensors='pt')
+  fc.taking_input(user_prompt)
+  out1 = fc.sent()
+  out2 = nc.sent()
+  #These are the list of of output files
+  # print(out1)
+  # print(out2)
 
-  # Compute embeddings for the prompt
-  prompt_outputs = model(**prompt_tokenized)
-  prompt_embedding = prompt_outputs.last_hidden_state.mean(dim=1)
-  prompt_embedding = F.normalize(prompt_embedding, p=2, dim=1)
+  combined_names = out1["recommendations"] + out2["recommendations"]
+  combined_scores = out1["scores"] + out2["scores"]
 
-  # Calculate similarity scores
-  scores = torch.matmul(prompt_embedding, course_embeddings_tensor.T)
-  scores = scores.squeeze()  # Remove extra dimensions
+  # Create a list of tuples (score, name) and sort it
+  combined = list(zip(combined_scores, combined_names))
+  combined_sorted = sorted(combined,reverse=True, key=lambda x: x[0])
 
-  # Rank courses based on similarity scores
-  top_k = 5  # Number of top courses to recommend
+  # Separate the sorted scores and names
+  sorted_scores, sorted_names = zip(*combined_sorted)
 
-  recommended_courses = []
+  # Create the new dictionary
+  out = {"recommendations": list(sorted_names), "scores": list(sorted_scores)}
+  fc.empty()
+  nc.empty()
 
-  top_indices = scores.argsort(descending=True)
-  for i in top_indices:
-    recommended_courses.append(course_descriptions_list[i])
-    
-  return jsonify({'recommendations': recommended_courses, "scores": scores[top_indices].tolist()})
+  return jsonify(out)
 
 
 if __name__ == '__main__':

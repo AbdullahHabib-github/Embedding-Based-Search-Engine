@@ -1,6 +1,7 @@
 import streamlit as st
 import os
 import requests
+from langdetect import detect
 
 
 BASE_URL = "http://127.0.0.1:5000"
@@ -47,35 +48,45 @@ def search_en_courses_documents(query):
 st.title("HMI Search Engine")
 
 # if selected_document_type == "Courses":
-languages = ["en","de"]
-selected_language = st.selectbox("Select language:", languages)
+# languages = ["en","de"]
+# selected_language = st.selectbox("Select language:", languages)
     
 # Get the query
+selected_language = None
 query = st.text_input("Enter your search query:")
+if query:
+    selected_language = detect(query)
+    if selected_language != "de":
+        selected_language = "en"
 
 if selected_language and query and st.button("Search"):  # Add the button
     # Pass the selected document type and query to the search function
-    if selected_language:
-        if selected_language == "de":
-            directory = "data\\courses\\zqm_modul\\de\\"
-            results = search_de_courses_documents(query)  # Move search execution inside button logic 
+    if selected_language == "de":
+        directory = "data\\courses\\zqm_modul\\de\\"
+        results = search_de_courses_documents(query)  # Move search execution inside button logic 
 
-        elif selected_language == "en": 
-            directory = "data\\courses\\zqm_modul\\en\\"
-            results = search_en_courses_documents(query)  # Move search execution inside button logic 
+    elif selected_language == "en": 
+        directory = "data\\courses\\zqm_modul\\en\\"
+        results = search_en_courses_documents(query)  # Move search execution inside button logic 
 
-        recommendations = results["recommendations"]
-        print(recommendations)
-        scores = results["scores"]
+    recommendations = results["recommendations"]
+    print(recommendations)
+    scores = results["scores"]
 
-        if results:
-            st.markdown("# Results:")
-            for i in range(len(recommendations)):
-                filepath = os.path.join(directory, recommendations[i])  # Combine path and filename
-                filepath = str(filepath)
-                with open(filepath, "rb") as f:
-                    file_data = f.read()
-                st.download_button(label=f"{recommendations[i]};  Similarity Score: {scores[i]}", data=file_data, file_name=recommendations[i])
-
-        else:
-            st.write("No documents found matching your query.")
+    if results:
+        st.markdown("# Results:")
+        for i in range(len(recommendations)):
+            filepath = os.path.join(directory, recommendations[i])  # Combine path and filename
+            filepath = str(filepath)
+            with open(filepath, "rb") as f:
+                file_data = f.read()
+            if scores[i]>0.78:
+                color = "green-background"    
+            elif scores[i] >0.75:
+                color = "blue-background"    
+            else:
+                color = "red-background"    
+            st.download_button(label=f":{color}[{recommendations[i]};  Similarity Score: {scores[i]}]", data=file_data, file_name=recommendations[i])
+# blue, green, orange, red, violet, gray/grey, rainbow
+    else:
+        st.write("No documents found matching your query.")
