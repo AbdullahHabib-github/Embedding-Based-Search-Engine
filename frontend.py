@@ -45,7 +45,9 @@ def search_en_courses_documents(query):
 
 
 # Streamlit App
-st.title("HMI Search Engine")
+st.title("Human Machine Interaction")
+
+st.markdown("Course Search Engine")
 
 # if selected_document_type == "Courses":
 # languages = ["en","de"]
@@ -53,7 +55,7 @@ st.title("HMI Search Engine")
     
 # Get the query
 selected_language = None
-query = st.text_input("Enter your search query:")
+query = st.text_input("Enter the Course Details:")
 if query:
     selected_language = detect(query)
     if selected_language != "de":
@@ -80,9 +82,9 @@ if selected_language and query and st.button("Search"):  # Add the button
             filepath = str(filepath)
             with open(filepath, "rb") as f:
                 file_data = f.read()
-            if scores[i]>0.78:
+            if scores[i]>0.80:
                 color = "green-background"    
-            elif scores[i] >0.75:
+            elif scores[i] >0.77:
                 color = "blue-background"    
             else:
                 color = "red-background"    
