@@ -40,7 +40,11 @@ directory_path = ''  # Replace with the path to your Word files directory
 k = []
 def empty():
     global k
+    global directory_path
+
     k = []
+    directory_path = ''
+    
 def sent():
     global k
     return {'recommendations': k, "scores": [1 for i in range(len(k))]}

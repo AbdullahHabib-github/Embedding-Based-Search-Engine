@@ -60,8 +60,19 @@ def take_prompt(use):
 
     
 def empty():
+    global course_descriptions
+    global course_descriptions_list
+    global cde
+    global course_embeddings_tensor
+
     global recommended_courses
     global score
+    
+    course_descriptions = {}
+    course_descriptions_list = []
+    course_embeddings_tensor = ""
+    cde = None
+
     score = []
     recommended_courses = []
 def sent():
